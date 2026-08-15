@@ -1,0 +1,25 @@
+{
+  "name": "秋草の日本語学校",
+  "short_name": "秋草日本語",
+  "description": "ベトナム語・繁体字・拼音で学ぶLevel制日本語アプリ",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fffaf7",
+  "theme_color": "#a6536d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
