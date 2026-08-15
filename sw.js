@@ -1,4 +1,4 @@
-const CACHE = "akigusa-school-v13";
+const CACHE = "akigusa-school-v14";
 const LIVE_DATA = new Set(["learning.json", "content-library.json", "scenic.json"]);
 const CORE = [
   "./", "manifest.webmanifest", "learning.json", "content-library.json", "scenic.json",
