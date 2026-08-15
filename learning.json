@@ -36,7 +36,8 @@
             "sentence_vi_approx_mora": "ga | kư | sê | i?",
             "sentence_vi": "Bạn là sinh viên à?",
             "sentence_zh_tw": "你是學生嗎？",
-            "sentence_pinyin": "Nǐ shì xuéshēng ma?"
+            "sentence_pinyin": "Nǐ shì xuéshēng ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）ga | kư | sê | i（dê | sư | ka）？"
           },
           {
             "pair_id": "L1-1-P02",
@@ -57,7 +58,8 @@
             "sentence_vi_approx_mora": "ni | hô | n, sư | ki?",
             "sentence_vi": "Bạn thích Nhật Bản không?",
             "sentence_zh_tw": "喜歡日本嗎？",
-            "sentence_pinyin": "Xǐhuān Rìběn ma?"
+            "sentence_pinyin": "Xǐhuān Rìběn ma?",
+            "sentence_vi_approx_annotated": "ni | hô | n（ga）sư | ki？"
           },
           {
             "pair_id": "L1-1-P03",
@@ -78,7 +80,8 @@
             "sentence_vi_approx_mora": "chư | ư | gô | kư, i | kư?",
             "sentence_vi": "Đi Trung Quốc không?",
             "sentence_zh_tw": "去中國嗎？",
-            "sentence_pinyin": "Qù Zhōngguó ma?"
+            "sentence_pinyin": "Qù Zhōngguó ma?",
+            "sentence_vi_approx_annotated": "chư | ư | gô | kư（ni）i | kư？"
           },
           {
             "pair_id": "L1-1-P04",
@@ -99,7 +102,8 @@
             "sentence_vi_approx_mora": "na | ma | ê, na | ni?",
             "sentence_vi": "Bạn tên gì?",
             "sentence_zh_tw": "你叫什麼名字？",
-            "sentence_pinyin": "Nǐ jiào shénme míngzi?"
+            "sentence_pinyin": "Nǐ jiào shénme míngzi?",
+            "sentence_vi_approx_annotated": "（a | na | ta | nô）na | ma | ê（wa）na | ni？"
           },
           {
             "pair_id": "L1-1-P05",
@@ -120,7 +124,8 @@
             "sentence_vi_approx_mora": "tô | mô | da | chi | da | yô",
             "sentence_vi": "Là bạn của mình đó.",
             "sentence_zh_tw": "是我的朋友喔。",
-            "sentence_pinyin": "Shì wǒ de péngyǒu o."
+            "sentence_pinyin": "Shì wǒ de péngyǒu o.",
+            "sentence_vi_approx_annotated": "（kô | nô | hi | tô | wa | wa | ta | xi | nô）tô | mô | da | chi | da | yô。"
           }
         ],
         "usage": {
@@ -244,7 +249,8 @@
             "sentence_vi_approx_mora": "ha | i",
             "sentence_vi": "Vâng / dạ.",
             "sentence_zh_tw": "是／好的。",
-            "sentence_pinyin": "Shì / hǎo."
+            "sentence_pinyin": "Shì / hǎo.",
+            "sentence_vi_approx_annotated": "ha | i"
           },
           {
             "pair_id": "L1-2-P02",
@@ -265,7 +271,8 @@
             "sentence_vi_approx_mora": "ư | n, wa | ka | rư",
             "sentence_vi": "Ừ, mình hiểu.",
             "sentence_zh_tw": "嗯，我懂。",
-            "sentence_pinyin": "Èn, wǒ dǒng."
+            "sentence_pinyin": "Èn, wǒ dǒng.",
+            "sentence_vi_approx_annotated": "ư | n、（wa | ta | xi | wa）wa | ka | rư。"
           },
           {
             "pair_id": "L1-2-P03",
@@ -286,7 +293,8 @@
             "sentence_vi_approx_mora": "i | i | ê, wa | ka | ra | na | i",
             "sentence_vi": "Không, mình không hiểu.",
             "sentence_zh_tw": "不是，我不懂。",
-            "sentence_pinyin": "Bú shì, wǒ bù dǒng."
+            "sentence_pinyin": "Bú shì, wǒ bù dǒng.",
+            "sentence_vi_approx_annotated": "i | i | ê、（wa | ta | xi | wa）wa | ka | ra | na | i。"
           },
           {
             "pair_id": "L1-2-P04",
@@ -307,7 +315,8 @@
             "sentence_vi_approx_mora": "wa | ka | rư?",
             "sentence_vi": "Hiểu không?",
             "sentence_zh_tw": "懂嗎？",
-            "sentence_pinyin": "Dǒng ma?"
+            "sentence_pinyin": "Dǒng ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）wa | ka | rư？"
           },
           {
             "pair_id": "L1-2-P05",
@@ -328,7 +337,8 @@
             "sentence_vi_approx_mora": "a | ri | ga | tô | ư",
             "sentence_vi": "Cảm ơn.",
             "sentence_zh_tw": "謝謝。",
-            "sentence_pinyin": "Xièxie."
+            "sentence_pinyin": "Xièxie.",
+            "sentence_vi_approx_annotated": "a | ri | ga | tô | ư"
           }
         ],
         "usage": {
@@ -452,7 +462,8 @@
             "sentence_vi_approx_mora": "i | ma, sa | n | ji",
             "sentence_vi": "Bây giờ là 3 giờ.",
             "sentence_zh_tw": "現在三點。",
-            "sentence_pinyin": "Xiànzài sān diǎn."
+            "sentence_pinyin": "Xiànzài sān diǎn.",
+            "sentence_vi_approx_annotated": "i | ma（wa）sa | n | ji。"
           },
           {
             "pair_id": "L1-3-P02",
@@ -473,7 +484,8 @@
             "sentence_vi_approx_mora": "kyô | ô, i | kư?",
             "sentence_vi": "Hôm nay đi không?",
             "sentence_zh_tw": "今天去嗎？",
-            "sentence_pinyin": "Jīntiān qù ma?"
+            "sentence_pinyin": "Jīntiān qù ma?",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）i | kư？"
           },
           {
             "pair_id": "L1-3-P03",
@@ -494,7 +506,8 @@
             "sentence_vi_approx_mora": "a | xi | ta | dê | i | i?",
             "sentence_vi": "Ngày mai được không?",
             "sentence_zh_tw": "明天可以嗎？",
-            "sentence_pinyin": "Míngtiān kěyǐ ma?"
+            "sentence_pinyin": "Míngtiān kěyǐ ma?",
+            "sentence_vi_approx_annotated": "（ma | chi | a | wa | sê | wa）a | xi | ta | dê | i | i？"
           },
           {
             "pair_id": "L1-3-P04",
@@ -515,7 +528,8 @@
             "sentence_vi_approx_mora": "i | ma, na | n | ji?",
             "sentence_vi": "Bây giờ mấy giờ?",
             "sentence_zh_tw": "現在幾點？",
-            "sentence_pinyin": "Xiànzài jǐ diǎn?"
+            "sentence_pinyin": "Xiànzài jǐ diǎn?",
+            "sentence_vi_approx_annotated": "i | ma（wa）na | n | ji？"
           },
           {
             "pair_id": "L1-3-P05",
@@ -536,7 +550,8 @@
             "sentence_vi_approx_mora": "sa | n | ji | ha | n",
             "sentence_vi": "3 giờ rưỡi.",
             "sentence_zh_tw": "三點半。",
-            "sentence_pinyin": "Sān diǎn bàn."
+            "sentence_pinyin": "Sān diǎn bàn.",
+            "sentence_vi_approx_annotated": "（ma | chi | a | wa | sê | wa）sa | n | ji | ha | n。"
           }
         ],
         "usage": {
@@ -660,7 +675,8 @@
             "sentence_vi_approx_mora": "kô | rê, na | ni?",
             "sentence_vi": "Cái này là gì?",
             "sentence_zh_tw": "這是什麼？",
-            "sentence_pinyin": "Zhè shì shénme?"
+            "sentence_pinyin": "Zhè shì shénme?",
+            "sentence_vi_approx_annotated": "kô | rê（wa）na | ni？"
           },
           {
             "pair_id": "L1-4-P02",
@@ -681,7 +697,8 @@
             "sentence_vi_approx_mora": "sô | rê, hô | xi | i",
             "sentence_vi": "Mình muốn cái đó.",
             "sentence_zh_tw": "我想要那個。",
-            "sentence_pinyin": "Wǒ xiǎng yào nàge."
+            "sentence_pinyin": "Wǒ xiǎng yào nàge.",
+            "sentence_vi_approx_annotated": "sô | rê（ga）hô | xi | i。"
           },
           {
             "pair_id": "L1-4-P03",
@@ -702,7 +719,8 @@
             "sentence_vi_approx_mora": "kô | kô | dê | i | i?",
             "sentence_vi": "Ở đây được không?",
             "sentence_zh_tw": "這裡可以嗎？",
-            "sentence_pinyin": "Zhèlǐ kěyǐ ma?"
+            "sentence_pinyin": "Zhèlǐ kěyǐ ma?",
+            "sentence_vi_approx_annotated": "kô | kô | dê | i | i？"
           },
           {
             "pair_id": "L1-4-P04",
@@ -723,7 +741,8 @@
             "sentence_vi_approx_mora": "sô | kô, i | kư?",
             "sentence_vi": "Đi chỗ đó không?",
             "sentence_zh_tw": "去那裡嗎？",
-            "sentence_pinyin": "Qù nàlǐ ma?"
+            "sentence_pinyin": "Qù nàlǐ ma?",
+            "sentence_vi_approx_annotated": "sô | kô（ni）i | kư？"
           },
           {
             "pair_id": "L1-4-P05",
@@ -744,7 +763,8 @@
             "sentence_vi_approx_mora": "tô | i | rê, dô | kô?",
             "sentence_vi": "Nhà vệ sinh ở đâu?",
             "sentence_zh_tw": "廁所在哪裡？",
-            "sentence_pinyin": "Cèsuǒ zài nǎlǐ?"
+            "sentence_pinyin": "Cèsuǒ zài nǎlǐ?",
+            "sentence_vi_approx_annotated": "tô | i | rê（wa）dô | kô？"
           }
         ],
         "usage": {
@@ -868,7 +888,8 @@
             "sentence_vi_approx_mora": "a | sa, na | ni | ta | bê | rư?",
             "sentence_vi": "Buổi sáng ăn gì?",
             "sentence_zh_tw": "早上吃什麼？",
-            "sentence_pinyin": "Zǎoshang chī shénme?"
+            "sentence_pinyin": "Zǎoshang chī shénme?",
+            "sentence_vi_approx_annotated": "a | sa（wa）na | ni（ô）ta | bê | rư？"
           },
           {
             "pair_id": "L1-5-P02",
@@ -889,7 +910,8 @@
             "sentence_vi_approx_mora": "hi | rư, gô | ha | n | ta | bê | rư?",
             "sentence_vi": "Buổi trưa ăn cơm không?",
             "sentence_zh_tw": "中午吃飯嗎？",
-            "sentence_pinyin": "Zhōngwǔ chīfàn ma?"
+            "sentence_pinyin": "Zhōngwǔ chīfàn ma?",
+            "sentence_vi_approx_annotated": "hi | rư（wa）gô | ha | n（ô）ta | bê | rư？"
           },
           {
             "pair_id": "L1-5-P03",
@@ -910,7 +932,8 @@
             "sentence_vi_approx_mora": "yô | rư, na | ni | sư | rư?",
             "sentence_vi": "Buổi tối làm gì?",
             "sentence_zh_tw": "晚上要做什麼？",
-            "sentence_pinyin": "Wǎnshang yào zuò shénme?"
+            "sentence_pinyin": "Wǎnshang yào zuò shénme?",
+            "sentence_vi_approx_annotated": "yô | rư（wa）na | ni（ô）sư | rư？"
           },
           {
             "pair_id": "L1-5-P04",
@@ -931,7 +954,8 @@
             "sentence_vi_approx_mora": "a | xi | ta, a | sa | ha | ya | i?",
             "sentence_vi": "Sáng mai có sớm không?",
             "sentence_zh_tw": "明天早上很早嗎？",
-            "sentence_pinyin": "Míngtiān zǎoshang hěn zǎo ma?"
+            "sentence_pinyin": "Míngtiān zǎoshang hěn zǎo ma?",
+            "sentence_vi_approx_annotated": "a | xi | ta（wa）a | sa（ga）ha | ya | i？"
           },
           {
             "pair_id": "L1-5-P05",
@@ -952,7 +976,8 @@
             "sentence_vi_approx_mora": "sa | n | ji, ô | sô | i?",
             "sentence_vi": "3 giờ có muộn không?",
             "sentence_zh_tw": "三點會太晚嗎？",
-            "sentence_pinyin": "Sān diǎn huì tài wǎn ma?"
+            "sentence_pinyin": "Sān diǎn huì tài wǎn ma?",
+            "sentence_vi_approx_annotated": "sa | n | ji（wa）ô | sô | i？"
           }
         ],
         "usage": {
@@ -1076,7 +1101,8 @@
             "sentence_vi_approx_mora": "pa | n | ta | bê | rư?",
             "sentence_vi": "Ăn bánh mì không?",
             "sentence_zh_tw": "要吃麵包嗎？",
-            "sentence_pinyin": "Yào chī miànbāo ma?"
+            "sentence_pinyin": "Yào chī miànbāo ma?",
+            "sentence_vi_approx_annotated": "pa | n（ô）ta | bê | rư？"
           },
           {
             "pair_id": "L1-6-P02",
@@ -1097,7 +1123,8 @@
             "sentence_vi_approx_mora": "ni | kư | sư | ki?",
             "sentence_vi": "Thích thịt không?",
             "sentence_zh_tw": "喜歡吃肉嗎？",
-            "sentence_pinyin": "Xǐhuān chī ròu ma?"
+            "sentence_pinyin": "Xǐhuān chī ròu ma?",
+            "sentence_vi_approx_annotated": "ni | kư（ga）sư | ki？"
           },
           {
             "pair_id": "L1-6-P03",
@@ -1118,7 +1145,8 @@
             "sentence_vi_approx_mora": "sa | ka | na | ta | bê | rư?",
             "sentence_vi": "Ăn cá không?",
             "sentence_zh_tw": "要吃魚嗎？",
-            "sentence_pinyin": "Yào chī yú ma?"
+            "sentence_pinyin": "Yào chī yú ma?",
+            "sentence_vi_approx_annotated": "sa | ka | na（ô）ta | bê | rư？"
           },
           {
             "pair_id": "L1-6-P04",
@@ -1139,7 +1167,8 @@
             "sentence_vi_approx_mora": "ta | ma | gô | ka | ư?",
             "sentence_vi": "Mua trứng không?",
             "sentence_zh_tw": "要買蛋嗎？",
-            "sentence_pinyin": "Yào mǎi dàn ma?"
+            "sentence_pinyin": "Yào mǎi dàn ma?",
+            "sentence_vi_approx_annotated": "ta | ma | gô（ô）ka | ư？"
           },
           {
             "pair_id": "L1-6-P05",
@@ -1160,7 +1189,8 @@
             "sentence_vi_approx_mora": "ya | sa | i | hô | xi | i?",
             "sentence_vi": "Muốn rau không?",
             "sentence_zh_tw": "想要蔬菜嗎？",
-            "sentence_pinyin": "Xiǎng yào shūcài ma?"
+            "sentence_pinyin": "Xiǎng yào shūcài ma?",
+            "sentence_vi_approx_annotated": "ya | sa | i（ga）hô | xi | i？"
           }
         ],
         "usage": {
@@ -1284,7 +1314,8 @@
             "sentence_vi_approx_mora": "da | rê | kư | rư?",
             "sentence_vi": "Ai sẽ đến?",
             "sentence_zh_tw": "誰會來？",
-            "sentence_pinyin": "Shéi huì lái?"
+            "sentence_pinyin": "Shéi huì lái?",
+            "sentence_vi_approx_annotated": "da | rê（ga）kư | rư？"
           },
           {
             "pair_id": "L1-7-P02",
@@ -1305,7 +1336,8 @@
             "sentence_vi_approx_mora": "dô | rê?",
             "sentence_vi": "Cái nào?",
             "sentence_zh_tw": "哪一個？",
-            "sentence_pinyin": "Nǎ yí ge?"
+            "sentence_pinyin": "Nǎ yí ge?",
+            "sentence_vi_approx_annotated": "dô | rê？"
           },
           {
             "pair_id": "L1-7-P03",
@@ -1326,7 +1358,8 @@
             "sentence_vi_approx_mora": "dô | ● | chi | i | kư?",
             "sentence_vi": "Đi bên nào?",
             "sentence_zh_tw": "要走哪邊？",
-            "sentence_pinyin": "Yào zǒu nǎbiān?"
+            "sentence_pinyin": "Yào zǒu nǎbiān?",
+            "sentence_vi_approx_annotated": "dô | ● | chi（ni）i | kư？"
           },
           {
             "pair_id": "L1-7-P04",
@@ -1347,7 +1380,8 @@
             "sentence_vi_approx_mora": "i | tsư | i | kư?",
             "sentence_vi": "Khi nào đi?",
             "sentence_zh_tw": "什麼時候去？",
-            "sentence_pinyin": "Shénme shíhou qù?"
+            "sentence_pinyin": "Shénme shíhou qù?",
+            "sentence_vi_approx_annotated": "i | tsư | i | kư？"
           },
           {
             "pair_id": "L1-7-P05",
@@ -1368,7 +1402,8 @@
             "sentence_vi_approx_mora": "na | n | dê?",
             "sentence_vi": "Tại sao?",
             "sentence_zh_tw": "為什麼？",
-            "sentence_pinyin": "Wèishénme?"
+            "sentence_pinyin": "Wèishénme?",
+            "sentence_vi_approx_annotated": "na | n | dê？"
           }
         ],
         "usage": {
@@ -1492,7 +1527,8 @@
             "sentence_vi_approx_mora": "kyô | ô, tê | n | ki | dô | ô?",
             "sentence_vi": "Hôm nay thời tiết thế nào?",
             "sentence_zh_tw": "今天天氣怎麼樣？",
-            "sentence_pinyin": "Jīntiān tiānqì zěnmeyàng?"
+            "sentence_pinyin": "Jīntiān tiānqì zěnmeyàng?",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）tê | n | ki（wa）dô | ô？"
           },
           {
             "pair_id": "L1-8-P02",
@@ -1513,7 +1549,8 @@
             "sentence_vi_approx_mora": "kyô | ô, a | mê?",
             "sentence_vi": "Hôm nay mưa à?",
             "sentence_zh_tw": "今天下雨嗎？",
-            "sentence_pinyin": "Jīntiān xiàyǔ ma?"
+            "sentence_pinyin": "Jīntiān xiàyǔ ma?",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）a | mê？"
           },
           {
             "pair_id": "L1-8-P03",
@@ -1534,7 +1571,8 @@
             "sentence_vi_approx_mora": "kyô | ô, a | tsư | i?",
             "sentence_vi": "Hôm nay nóng không?",
             "sentence_zh_tw": "今天熱嗎？",
-            "sentence_pinyin": "Jīntiān rè ma?"
+            "sentence_pinyin": "Jīntiān rè ma?",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）a | tsư | i？"
           },
           {
             "pair_id": "L1-8-P04",
@@ -1555,7 +1593,8 @@
             "sentence_vi_approx_mora": "a | xi | ta, sa | mư | i?",
             "sentence_vi": "Ngày mai lạnh không?",
             "sentence_zh_tw": "明天冷嗎？",
-            "sentence_pinyin": "Míngtiān lěng ma?"
+            "sentence_pinyin": "Míngtiān lěng ma?",
+            "sentence_vi_approx_annotated": "a | xi | ta（wa）sa | mư | i？"
           },
           {
             "pair_id": "L1-8-P05",
@@ -1576,7 +1615,8 @@
             "sentence_vi_approx_mora": "kô | rê, dô | ô?",
             "sentence_vi": "Cái này thế nào?",
             "sentence_zh_tw": "這個怎麼樣？",
-            "sentence_pinyin": "Zhège zěnmeyàng?"
+            "sentence_pinyin": "Zhège zěnmeyàng?",
+            "sentence_vi_approx_annotated": "kô | rê（wa）dô | ô？"
           }
         ],
         "usage": {
@@ -1700,7 +1740,8 @@
             "sentence_vi_approx_mora": "mô | ô | i | ● | ka | i, i | ● | tê",
             "sentence_vi": "Nói lại một lần nữa nhé.",
             "sentence_zh_tw": "再說一次。",
-            "sentence_pinyin": "Zài shuō yí cì."
+            "sentence_pinyin": "Zài shuō yí cì.",
+            "sentence_vi_approx_annotated": "mô | ô | i | ● | ka | i、 i | ● | tê"
           },
           {
             "pair_id": "L1-9-P02",
@@ -1721,7 +1762,8 @@
             "sentence_vi_approx_mora": "yư | ● | kư | ri | i | ● | tê",
             "sentence_vi": "Nói chậm một chút nhé.",
             "sentence_zh_tw": "說慢一點。",
-            "sentence_pinyin": "Shuō màn yìdiǎn."
+            "sentence_pinyin": "Shuō màn yìdiǎn.",
+            "sentence_vi_approx_annotated": "yư | ● | kư | ri | i | ● | tê"
           },
           {
             "pair_id": "L1-9-P03",
@@ -1742,7 +1784,8 @@
             "sentence_vi_approx_mora": "kô | rê, na | n | tê | i | ư?",
             "sentence_vi": "Cái này nói thế nào?",
             "sentence_zh_tw": "這個怎麼說？",
-            "sentence_pinyin": "Zhège zěnme shuō?"
+            "sentence_pinyin": "Zhège zěnme shuō?",
+            "sentence_vi_approx_annotated": "kô | rê（wa）na | n | tê | i | ư？"
           },
           {
             "pair_id": "L1-9-P04",
@@ -1763,7 +1806,8 @@
             "sentence_vi_approx_mora": "kô | rê, ô | xi | ê | tê",
             "sentence_vi": "Chỉ mình cái này nhé.",
             "sentence_zh_tw": "這個教我一下。",
-            "sentence_pinyin": "Zhège jiāo wǒ yíxià."
+            "sentence_pinyin": "Zhège jiāo wǒ yíxià.",
+            "sentence_vi_approx_annotated": "kô | rê（ô）ô | xi | ê | tê。"
           },
           {
             "pair_id": "L1-9-P05",
@@ -1784,7 +1828,8 @@
             "sentence_vi_approx_mora": "kô | rê, dô | ô | i | ư | i | mi?",
             "sentence_vi": "Cái này có nghĩa là gì?",
             "sentence_zh_tw": "這是什麼意思？",
-            "sentence_pinyin": "Zhè shì shénme yìsi?"
+            "sentence_pinyin": "Zhè shì shénme yìsi?",
+            "sentence_vi_approx_annotated": "kô | rê（wa）dô | ô | i | ư | i | mi？"
           }
         ],
         "usage": {
@@ -1908,7 +1953,8 @@
             "sentence_vi_approx_mora": "sư | ma | hô, dô | kô?",
             "sentence_vi": "Điện thoại ở đâu?",
             "sentence_zh_tw": "手機在哪裡？",
-            "sentence_pinyin": "Shǒujī zài nǎlǐ?"
+            "sentence_pinyin": "Shǒujī zài nǎlǐ?",
+            "sentence_vi_approx_annotated": "sư | ma | hô（wa）dô | kô？"
           },
           {
             "pair_id": "L1-10-P02",
@@ -1929,7 +1975,8 @@
             "sentence_vi_approx_mora": "ka | ba | n, a | rư?",
             "sentence_vi": "Có túi/cặp không?",
             "sentence_zh_tw": "有包包嗎？",
-            "sentence_pinyin": "Yǒu bāobāo ma?"
+            "sentence_pinyin": "Yǒu bāobāo ma?",
+            "sentence_vi_approx_annotated": "ka | ba | n（wa）a | rư？"
           },
           {
             "pair_id": "L1-10-P03",
@@ -1950,7 +1997,8 @@
             "sentence_vi_approx_mora": "sa | i | phư, dô | kô?",
             "sentence_vi": "Ví ở đâu?",
             "sentence_zh_tw": "錢包在哪裡？",
-            "sentence_pinyin": "Qiánbāo zài nǎlǐ?"
+            "sentence_pinyin": "Qiánbāo zài nǎlǐ?",
+            "sentence_vi_approx_annotated": "sa | i | phư（wa）dô | kô？"
           },
           {
             "pair_id": "L1-10-P04",
@@ -1971,7 +2019,8 @@
             "sentence_vi_approx_mora": "nô | ô | tô, a | rư?",
             "sentence_vi": "Có vở/sổ không?",
             "sentence_zh_tw": "有筆記本嗎？",
-            "sentence_pinyin": "Yǒu bǐjìběn ma?"
+            "sentence_pinyin": "Yǒu bǐjìběn ma?",
+            "sentence_vi_approx_annotated": "nô | ô | tô（wa）a | rư？"
           },
           {
             "pair_id": "L1-10-P05",
@@ -1992,7 +2041,8 @@
             "sentence_vi_approx_mora": "pê | n, hô | xi | i?",
             "sentence_vi": "Muốn bút không?",
             "sentence_zh_tw": "想要筆嗎？",
-            "sentence_pinyin": "Xiǎng yào bǐ ma?"
+            "sentence_pinyin": "Xiǎng yào bǐ ma?",
+            "sentence_vi_approx_annotated": "pê | n（ga）hô | xi | i？"
           }
         ],
         "usage": {
@@ -2127,7 +2177,8 @@
             "sentence_vi_approx_mora": "jư | n | bi | sư | rư?",
             "sentence_vi": "Chuẩn bị không?",
             "sentence_zh_tw": "要準備嗎？",
-            "sentence_pinyin": "Yào zhǔnbèi ma?"
+            "sentence_pinyin": "Yào zhǔnbèi ma?",
+            "sentence_vi_approx_annotated": "jư | n | bi（ô）sư | rư？"
           },
           {
             "pair_id": "L2-1-P02",
@@ -2148,7 +2199,8 @@
             "sentence_vi_approx_mora": "kyô | ô, ji | ka | n | a | rư?",
             "sentence_vi": "Hôm nay bạn có thời gian không?",
             "sentence_zh_tw": "你今天有時間嗎？",
-            "sentence_pinyin": "Nǐ jīntiān yǒu shíjiān ma?"
+            "sentence_pinyin": "Nǐ jīntiān yǒu shíjiān ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）kyô | ô、ji | ka | n（ga）a | rư？"
           },
           {
             "pair_id": "L2-1-P03",
@@ -2169,7 +2221,8 @@
             "sentence_vi_approx_mora": "a | tô | dê | dê | n | wa | sư | rư",
             "sentence_vi": "Lát nữa mình gọi cho bạn.",
             "sentence_zh_tw": "我等一下打電話給你。",
-            "sentence_pinyin": "Wǒ děng yíxià dǎ diànhuà gěi nǐ."
+            "sentence_pinyin": "Wǒ děng yíxià dǎ diànhuà gěi nǐ.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa | a | na | ta | ni）a | tô | dê | dê | n | wa（ô）sư | rư。"
           },
           {
             "pair_id": "L2-1-P04",
@@ -2190,7 +2243,8 @@
             "sentence_vi_approx_mora": "mô | n | da | i | na | i | yô",
             "sentence_vi": "Không vấn đề gì đâu.",
             "sentence_zh_tw": "沒問題喔。",
-            "sentence_pinyin": "Méi wèntí o."
+            "sentence_pinyin": "Méi wèntí o.",
+            "sentence_vi_approx_annotated": "（sô | rê | wa）mô | n | da | i（ga）na | i | yô。"
           },
           {
             "pair_id": "L2-1-P05",
@@ -2211,7 +2265,8 @@
             "sentence_vi_approx_mora": "gô | ha | n | ta | bê | rư?",
             "sentence_vi": "Ăn cơm không?",
             "sentence_zh_tw": "吃飯嗎？",
-            "sentence_pinyin": "Chīfàn ma?"
+            "sentence_pinyin": "Chīfàn ma?",
+            "sentence_vi_approx_annotated": "gô | ha | n（ô）ta | bê | rư？"
           }
         ],
         "usage": {
@@ -2335,7 +2390,8 @@
             "sentence_vi_approx_mora": "na | ni | ta | bê | rư?",
             "sentence_vi": "Ăn gì?",
             "sentence_zh_tw": "要吃什麼？",
-            "sentence_pinyin": "Yào chī shénme?"
+            "sentence_pinyin": "Yào chī shénme?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）na | ni（ô）ta | bê | rư？"
           },
           {
             "pair_id": "L2-2-P02",
@@ -2356,7 +2412,8 @@
             "sentence_vi_approx_mora": "kô | ô | hi | i | nô | mư?",
             "sentence_vi": "Uống cà phê không?",
             "sentence_zh_tw": "喝咖啡嗎？",
-            "sentence_pinyin": "Hē kāfēi ma?"
+            "sentence_pinyin": "Hē kāfēi ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）kô | ô | hi | i（ô）nô | mư？"
           },
           {
             "pair_id": "L2-2-P03",
@@ -2377,7 +2434,8 @@
             "sentence_vi_approx_mora": "kô | rê, ô | i | xi | i",
             "sentence_vi": "Cái này ngon.",
             "sentence_zh_tw": "這個很好吃。",
-            "sentence_pinyin": "Zhège hěn hǎochī."
+            "sentence_pinyin": "Zhège hěn hǎochī.",
+            "sentence_vi_approx_annotated": "kô | rê（wa）ô | i | xi | i。"
           },
           {
             "pair_id": "L2-2-P04",
@@ -2398,7 +2456,8 @@
             "sentence_vi_approx_mora": "kô | ô | hi | i, sư | ki?",
             "sentence_vi": "Thích cà phê không?",
             "sentence_zh_tw": "喜歡咖啡嗎？",
-            "sentence_pinyin": "Xǐhuān kāfēi ma?"
+            "sentence_pinyin": "Xǐhuān kāfēi ma?",
+            "sentence_vi_approx_annotated": "kô | ô | hi | i（ga）sư | ki？"
           },
           {
             "pair_id": "L2-2-P05",
@@ -2419,7 +2478,8 @@
             "sentence_vi_approx_mora": "a | nô | mi | sê, i | kư?",
             "sentence_vi": "Đi quán kia không?",
             "sentence_zh_tw": "要去那家店嗎？",
-            "sentence_pinyin": "Yào qù nà jiā diàn ma?"
+            "sentence_pinyin": "Yào qù nà jiā diàn ma?",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | ta | chi | wa）a | nô | mi | sê（ni）i | kư？"
           }
         ],
         "usage": {
@@ -2543,7 +2603,8 @@
             "sentence_vi_approx_mora": "a | xi | ta, ga | ● | kô | ư | i | kư?",
             "sentence_vi": "Ngày mai đi học không?",
             "sentence_zh_tw": "明天去學校嗎？",
-            "sentence_pinyin": "Míngtiān qù xuéxiào ma?"
+            "sentence_pinyin": "Míngtiān qù xuéxiào ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）a | xi | ta、ga | ● | kô | ư（ni）i | kư？"
           },
           {
             "pair_id": "L2-3-P02",
@@ -2564,7 +2625,8 @@
             "sentence_vi_approx_mora": "kyô | ô, jư | gyô | ô | a | rư?",
             "sentence_vi": "Hôm nay có học không?",
             "sentence_zh_tw": "今天有課嗎？",
-            "sentence_pinyin": "Jīntiān yǒu kè ma?"
+            "sentence_pinyin": "Jīntiān yǒu kè ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）kyô | ô、jư | gyô | ô（ga）a | rư？"
           },
           {
             "pair_id": "L2-3-P03",
@@ -2585,7 +2647,8 @@
             "sentence_vi_approx_mora": "sê | n | sê | i, ki | ta?",
             "sentence_vi": "Thầy/cô đến chưa?",
             "sentence_zh_tw": "老師來了嗎？",
-            "sentence_pinyin": "Lǎoshī lái le ma?"
+            "sentence_pinyin": "Lǎoshī lái le ma?",
+            "sentence_vi_approx_annotated": "sê | n | sê | i（wa）ki | ta？"
           },
           {
             "pair_id": "L2-3-P04",
@@ -2606,7 +2669,8 @@
             "sentence_vi_approx_mora": "xư | kư | da | i, ya | ● | ta?",
             "sentence_vi": "Làm bài tập chưa?",
             "sentence_zh_tw": "作業做了嗎？",
-            "sentence_pinyin": "Zuòyè zuò le ma?"
+            "sentence_pinyin": "Zuòyè zuò le ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）xư | kư | da | i（ô）ya | ● | ta？"
           },
           {
             "pair_id": "L2-3-P05",
@@ -2627,7 +2691,8 @@
             "sentence_vi_approx_mora": "i | ma, na | ni | bê | n | kyô | ô | xi | tê | rư?",
             "sentence_vi": "Bây giờ đang học gì?",
             "sentence_zh_tw": "現在在學什麼？",
-            "sentence_pinyin": "Xiànzài zài xué shénme?"
+            "sentence_pinyin": "Xiànzài zài xué shénme?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）i | ma、na | ni（ô）bê | n | kyô | ô | xi | tê | i | rư？"
           }
         ],
         "usage": {
@@ -2751,7 +2816,8 @@
             "sentence_vi_approx_mora": "kyô | ô, na | ni | sư | rư?",
             "sentence_vi": "Hôm nay làm gì?",
             "sentence_zh_tw": "今天要做什麼？",
-            "sentence_pinyin": "Jīntiān yào zuò shénme?"
+            "sentence_pinyin": "Jīntiān yào zuò shénme?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）kyô | ô、na | ni（ô）sư | rư？"
           },
           {
             "pair_id": "L2-4-P02",
@@ -2772,7 +2838,8 @@
             "sentence_vi_approx_mora": "ga | ● | kô | ư | i | kư?",
             "sentence_vi": "Đi học không?",
             "sentence_zh_tw": "要去學校嗎？",
-            "sentence_pinyin": "Yào qù xuéxiào ma?"
+            "sentence_pinyin": "Yào qù xuéxiào ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）ga | ● | kô | ư（ni）i | kư？"
           },
           {
             "pair_id": "L2-4-P03",
@@ -2793,7 +2860,8 @@
             "sentence_vi_approx_mora": "a | xi | ta, kư | rư?",
             "sentence_vi": "Mai đến không?",
             "sentence_zh_tw": "明天會來嗎？",
-            "sentence_pinyin": "Míngtiān huì lái ma?"
+            "sentence_pinyin": "Míngtiān huì lái ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）a | xi | ta（kô | kô | ni）kư | rư？"
           },
           {
             "pair_id": "L2-4-P04",
@@ -2814,7 +2882,8 @@
             "sentence_vi_approx_mora": "kô | rê | mi | rư?",
             "sentence_vi": "Xem cái này không?",
             "sentence_zh_tw": "要看這個嗎？",
-            "sentence_pinyin": "Yào kàn zhège ma?"
+            "sentence_pinyin": "Yào kàn zhège ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）kô | rê（ô）mi | rư？"
           },
           {
             "pair_id": "L2-4-P05",
@@ -2835,7 +2904,8 @@
             "sentence_vi_approx_mora": "ô | n | ga | kư | ki | kư?",
             "sentence_vi": "Nghe nhạc không?",
             "sentence_zh_tw": "要聽音樂嗎？",
-            "sentence_pinyin": "Yào tīng yīnyuè ma?"
+            "sentence_pinyin": "Yào tīng yīnyuè ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）ô | n | ga | kư（ô）ki | kư？"
           }
         ],
         "usage": {
@@ -2959,7 +3029,8 @@
             "sentence_vi_approx_mora": "ni | hô | n | gô | dê | ha | na | sư?",
             "sentence_vi": "Nói bằng tiếng Nhật không?",
             "sentence_zh_tw": "要用日文說嗎？",
-            "sentence_pinyin": "Yào yòng Rìwén shuō ma?"
+            "sentence_pinyin": "Yào yòng Rìwén shuō ma?",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | ta | chi | wa）ni | hô | n | gô | dê | ha | na | sư？"
           },
           {
             "pair_id": "L2-5-P02",
@@ -2980,7 +3051,8 @@
             "sentence_vi_approx_mora": "kô | rê | yô | mư?",
             "sentence_vi": "Đọc cái này không?",
             "sentence_zh_tw": "要讀這個嗎？",
-            "sentence_pinyin": "Yào dú zhège ma?"
+            "sentence_pinyin": "Yào dú zhège ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）kô | rê（ô）yô | mư？"
           },
           {
             "pair_id": "L2-5-P03",
@@ -3001,7 +3073,8 @@
             "sentence_vi_approx_mora": "na | ma | ê, ka | i | tê",
             "sentence_vi": "Viết tên nhé.",
             "sentence_zh_tw": "寫一下名字。",
-            "sentence_pinyin": "Xiě yíxià míngzi."
+            "sentence_pinyin": "Xiě yíxià míngzi.",
+            "sentence_vi_approx_annotated": "（a | na | ta | nô）na | ma | ê（ô）ka | i | tê。"
           },
           {
             "pair_id": "L2-5-P04",
@@ -3022,7 +3095,8 @@
             "sentence_vi_approx_mora": "kô | rê, ka | ư?",
             "sentence_vi": "Mua cái này không?",
             "sentence_zh_tw": "買這個嗎？",
-            "sentence_pinyin": "Mǎi zhège ma?"
+            "sentence_pinyin": "Mǎi zhège ma?",
+            "sentence_vi_approx_annotated": "kô | rê（ô）ka | ư？"
           },
           {
             "pair_id": "L2-5-P05",
@@ -3043,7 +3117,8 @@
             "sentence_vi_approx_mora": "kô | rê | tsư | ka | ● | tê | i | i?",
             "sentence_vi": "Dùng cái này được không?",
             "sentence_zh_tw": "這個可以用嗎？",
-            "sentence_pinyin": "Zhège kěyǐ yòng ma?"
+            "sentence_pinyin": "Zhège kěyǐ yòng ma?",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）kô | rê（ô）tsư | ka | ● | tê | i | i？"
           }
         ],
         "usage": {
@@ -3167,7 +3242,8 @@
             "sentence_vi_approx_mora": "na | n | ji | ni | ô | ki | rư?",
             "sentence_vi": "Mấy giờ thức dậy?",
             "sentence_zh_tw": "幾點起床？",
-            "sentence_pinyin": "Jǐ diǎn qǐchuáng?"
+            "sentence_pinyin": "Jǐ diǎn qǐchuáng?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）na | n | ji | ni | ô | ki | rư？"
           },
           {
             "pair_id": "L2-6-P02",
@@ -3188,7 +3264,8 @@
             "sentence_vi_approx_mora": "i | ma, nê | rư",
             "sentence_vi": "Giờ đi ngủ.",
             "sentence_zh_tw": "現在要睡了。",
-            "sentence_pinyin": "Xiànzài yào shuì le."
+            "sentence_pinyin": "Xiànzài yào shuì le.",
+            "sentence_vi_approx_annotated": "i | ma（ka | ra）nê | rư。"
           },
           {
             "pair_id": "L2-6-P03",
@@ -3209,7 +3286,8 @@
             "sentence_vi_approx_mora": "kyô | ô, ha | ya | kư | ka | ê | rư",
             "sentence_vi": "Hôm nay mình về sớm.",
             "sentence_zh_tw": "今天要早點回去。",
-            "sentence_pinyin": "Jīntiān yào zǎodiǎn huíqù."
+            "sentence_pinyin": "Jīntiān yào zǎodiǎn huíqù.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）kyô | ô、ha | ya | kư | ka | ê | rư。"
           },
           {
             "pair_id": "L2-6-P04",
@@ -3230,7 +3308,8 @@
             "sentence_vi_approx_mora": "ma | ● | tê",
             "sentence_vi": "Đợi nhé.",
             "sentence_zh_tw": "等一下。",
-            "sentence_pinyin": "Děng yíxià."
+            "sentence_pinyin": "Děng yíxià.",
+            "sentence_vi_approx_annotated": "ma | ● | tê"
           },
           {
             "pair_id": "L2-6-P05",
@@ -3251,7 +3330,8 @@
             "sentence_vi_approx_mora": "kyô | ô | ha | ya | sư | mư",
             "sentence_vi": "Hôm nay mình nghỉ.",
             "sentence_zh_tw": "今天休息／今天請假。",
-            "sentence_pinyin": "Jīntiān xiūxí / Jīntiān qǐngjià."
+            "sentence_pinyin": "Jīntiān xiūxí / Jīntiān qǐngjià.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）kyô | ô | ha | ya | sư | mư。"
           }
         ],
         "usage": {
@@ -3375,7 +3455,8 @@
             "sentence_vi_approx_mora": "ji | ka | n, a | rư?",
             "sentence_vi": "Có thời gian không?",
             "sentence_zh_tw": "有時間嗎？",
-            "sentence_pinyin": "Yǒu shíjiān ma?"
+            "sentence_pinyin": "Yǒu shíjiān ma?",
+            "sentence_vi_approx_annotated": "ji | ka | n（wa）a | rư？"
           },
           {
             "pair_id": "L2-7-P02",
@@ -3396,7 +3477,8 @@
             "sentence_vi_approx_mora": "tô | mô | da | chi | i | rư?",
             "sentence_vi": "Có bạn ở đó không?",
             "sentence_zh_tw": "有朋友在嗎？",
-            "sentence_pinyin": "Yǒu péngyǒu zài ma?"
+            "sentence_pinyin": "Yǒu péngyǒu zài ma?",
+            "sentence_vi_approx_annotated": "（kô | kô | ni／sô | kô | ni）tô | mô | da | chi（wa）i | rư？"
           },
           {
             "pair_id": "L2-7-P03",
@@ -3417,7 +3499,8 @@
             "sentence_vi_approx_mora": "kô | rê, hô | xi | i",
             "sentence_vi": "Muốn cái này.",
             "sentence_zh_tw": "想要這個。",
-            "sentence_pinyin": "Xiǎng yào zhège."
+            "sentence_pinyin": "Xiǎng yào zhège.",
+            "sentence_vi_approx_annotated": "kô | rê（ga）hô | xi | i。"
           },
           {
             "pair_id": "L2-7-P04",
@@ -3438,7 +3521,8 @@
             "sentence_vi_approx_mora": "kô | ô | hi | i | sư | ki?",
             "sentence_vi": "Thích cà phê không?",
             "sentence_zh_tw": "喜歡咖啡嗎？",
-            "sentence_pinyin": "Xǐhuān kāfēi ma?"
+            "sentence_pinyin": "Xǐhuān kāfēi ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）kô | ô | hi | i（ga）sư | ki？"
           },
           {
             "pair_id": "L2-7-P05",
@@ -3459,7 +3543,8 @@
             "sentence_vi_approx_mora": "kô | rê, ki | ra | i",
             "sentence_vi": "Không thích cái này.",
             "sentence_zh_tw": "不喜歡這個。",
-            "sentence_pinyin": "Bù xǐhuān zhège."
+            "sentence_pinyin": "Bù xǐhuān zhège.",
+            "sentence_vi_approx_annotated": "kô | rê（ga）ki | ra | i。"
           }
         ],
         "usage": {
@@ -3583,7 +3668,8 @@
             "sentence_vi_approx_mora": "ma | dô, a | kê | rư?",
             "sentence_vi": "Mở cửa sổ không?",
             "sentence_zh_tw": "要開窗戶嗎？",
-            "sentence_pinyin": "Yào kāi chuānghu ma?"
+            "sentence_pinyin": "Yào kāi chuānghu ma?",
+            "sentence_vi_approx_annotated": "ma | dô（ô）a | kê | rư？"
           },
           {
             "pair_id": "L2-8-P02",
@@ -3604,7 +3690,8 @@
             "sentence_vi_approx_mora": "dô | a, xi | mê | tê.",
             "sentence_vi": "Đóng cửa lại nhé.",
             "sentence_zh_tw": "把門關上。",
-            "sentence_pinyin": "Bǎ mén guānshàng."
+            "sentence_pinyin": "Bǎ mén guānshàng.",
+            "sentence_vi_approx_annotated": "dô | a（ô）xi | mê | tê。"
           },
           {
             "pair_id": "L2-8-P03",
@@ -3625,7 +3712,8 @@
             "sentence_vi_approx_mora": "rê | i | zô | ô | kô | ni | i | rê | tê.",
             "sentence_vi": "Cho vào tủ lạnh nhé.",
             "sentence_zh_tw": "放進冰箱裡。",
-            "sentence_pinyin": "Fàng jìn bīngxiāng lǐ."
+            "sentence_pinyin": "Fàng jìn bīngxiāng lǐ.",
+            "sentence_vi_approx_annotated": "（kô | rê | ô）rê | i | zô | ô | kô | ni | i | rê | tê。"
           },
           {
             "pair_id": "L2-8-P04",
@@ -3646,7 +3734,8 @@
             "sentence_vi_approx_mora": "ka | ba | n | ka | ra | da | xi | tê.",
             "sentence_vi": "Lấy ra khỏi túi nhé.",
             "sentence_zh_tw": "從包包裡拿出來。",
-            "sentence_pinyin": "Cóng bāobao lǐ ná chūlái."
+            "sentence_pinyin": "Cóng bāobao lǐ ná chūlái.",
+            "sentence_vi_approx_annotated": "（kô | rê | ô）ka | ba | n | ka | ra | da | xi | tê。"
           },
           {
             "pair_id": "L2-8-P05",
@@ -3667,7 +3756,8 @@
             "sentence_vi_approx_mora": "kô | kô | ni | ô | i | tê.",
             "sentence_vi": "Để ở đây nhé.",
             "sentence_zh_tw": "放這裡。",
-            "sentence_pinyin": "Fàng zhèlǐ."
+            "sentence_pinyin": "Fàng zhèlǐ.",
+            "sentence_vi_approx_annotated": "（kô | rê | ô）kô | kô | ni | ô | i | tê。"
           }
         ],
         "usage": {
@@ -3791,7 +3881,8 @@
             "sentence_vi_approx_mora": "kô | rê, mô | tsư?",
             "sentence_vi": "Cầm cái này không?",
             "sentence_zh_tw": "這個要拿嗎？",
-            "sentence_pinyin": "Zhège yào ná ma?"
+            "sentence_pinyin": "Zhège yào ná ma?",
+            "sentence_vi_approx_annotated": "kô | rê（ô）mô | tsư？"
           },
           {
             "pair_id": "L2-9-P02",
@@ -3812,7 +3903,8 @@
             "sentence_vi_approx_mora": "sô | rê, tô | ● | tê.",
             "sentence_vi": "Lấy cái đó giúp mình.",
             "sentence_zh_tw": "幫我拿那個。",
-            "sentence_pinyin": "Bāng wǒ ná nàge."
+            "sentence_pinyin": "Bāng wǒ ná nàge.",
+            "sentence_vi_approx_annotated": "sô | rê（ô）tô | ● | tê。"
           },
           {
             "pair_id": "L2-9-P03",
@@ -3833,7 +3925,8 @@
             "sentence_vi_approx_mora": "tê, a | ra | ● | ta?",
             "sentence_vi": "Rửa tay chưa?",
             "sentence_zh_tw": "洗手了嗎？",
-            "sentence_pinyin": "Xǐshǒu le ma?"
+            "sentence_pinyin": "Xǐshǒu le ma?",
+            "sentence_vi_approx_annotated": "tê（ô）a | ra | ● | ta？"
           },
           {
             "pair_id": "L2-9-P04",
@@ -3854,7 +3947,8 @@
             "sentence_vi_approx_mora": "ư | wa | gi, ki | rư?",
             "sentence_vi": "Mặc áo khoác không?",
             "sentence_zh_tw": "要穿外套嗎？",
-            "sentence_pinyin": "Yào chuān wàitào ma?"
+            "sentence_pinyin": "Yào chuān wàitào ma?",
+            "sentence_vi_approx_annotated": "ư | wa | gi（ô）ki | rư？"
           },
           {
             "pair_id": "L2-9-P05",
@@ -3875,7 +3969,8 @@
             "sentence_vi_approx_mora": "kư | tsư, nư | i | dê.",
             "sentence_vi": "Cởi giày ra nhé.",
             "sentence_zh_tw": "把鞋脫掉。",
-            "sentence_pinyin": "Bǎ xié tuōdiào."
+            "sentence_pinyin": "Bǎ xié tuōdiào.",
+            "sentence_vi_approx_annotated": "kư | tsư（ô）nư | i | dê。"
           }
         ],
         "usage": {
@@ -3999,7 +4094,8 @@
             "sentence_vi_approx_mora": "ga | ● | kô | ô | ma | dê | a | rư | kư?",
             "sentence_vi": "Đi bộ đến trường không?",
             "sentence_zh_tw": "走路到學校嗎？",
-            "sentence_pinyin": "Zǒulù dào xuéxiào ma?"
+            "sentence_pinyin": "Zǒulù dào xuéxiào ma?",
+            "sentence_vi_approx_annotated": "ga | ● | kô | ô | ma | dê | a | rư | kư？"
           },
           {
             "pair_id": "L2-10-P02",
@@ -4020,7 +4116,8 @@
             "sentence_vi_approx_mora": "kô | rê | ni | nô | rư",
             "sentence_vi": "Đi cái này / lên cái này.",
             "sentence_zh_tw": "搭這個。",
-            "sentence_pinyin": "Dā zhège."
+            "sentence_pinyin": "Dā zhège.",
+            "sentence_vi_approx_annotated": "kô | rê | ni | nô | rư"
           },
           {
             "pair_id": "L2-10-P03",
@@ -4041,7 +4138,8 @@
             "sentence_vi_approx_mora": "kô | kô | dê | ô | ri | rư?",
             "sentence_vi": "Xuống ở đây à?",
             "sentence_zh_tw": "在這裡下車嗎？",
-            "sentence_pinyin": "Zài zhèlǐ xiàchē ma?"
+            "sentence_pinyin": "Zài zhèlǐ xiàchē ma?",
+            "sentence_vi_approx_annotated": "kô | kô | dê | ô | ri | rư？"
           },
           {
             "pair_id": "L2-10-P04",
@@ -4062,7 +4160,8 @@
             "sentence_vi_approx_mora": "ka | ba | n, wa | sư | rê | ta",
             "sentence_vi": "Quên túi/cặp rồi.",
             "sentence_zh_tw": "忘了帶包包。",
-            "sentence_pinyin": "Wàng le dài bāobāo."
+            "sentence_pinyin": "Wàng le dài bāobāo.",
+            "sentence_vi_approx_annotated": "ka | ba | n（ô）wa | sư | rê | ta。"
           },
           {
             "pair_id": "L2-10-P05",
@@ -4083,7 +4182,8 @@
             "sentence_vi_approx_mora": "sa | i | phư, sa | ga | xi | tê | rư.",
             "sentence_vi": "Đang tìm ví.",
             "sentence_zh_tw": "正在找錢包。",
-            "sentence_pinyin": "Zhèngzài zhǎo qiánbāo."
+            "sentence_pinyin": "Zhèngzài zhǎo qiánbāo.",
+            "sentence_vi_approx_annotated": "sa | i | phư（ô）sa | ga | xi | tê | i | rư。"
           }
         ],
         "usage": {
@@ -4207,7 +4307,8 @@
             "sentence_vi_approx_mora": "kô | rê, ô | kư | rư?",
             "sentence_vi": "Gửi cái này không?",
             "sentence_zh_tw": "要傳這個嗎？",
-            "sentence_pinyin": "Yào chuán zhège ma?"
+            "sentence_pinyin": "Yào chuán zhège ma?",
+            "sentence_vi_approx_annotated": "kô | rê（ô）ô | kư | rư？"
           },
           {
             "pair_id": "L2-11-P02",
@@ -4228,7 +4329,8 @@
             "sentence_vi_approx_mora": "kô | rê, mi | sê | tê",
             "sentence_vi": "Cho mình xem cái này nhé.",
             "sentence_zh_tw": "給我看這個。",
-            "sentence_pinyin": "Gěi wǒ kàn zhège."
+            "sentence_pinyin": "Gěi wǒ kàn zhège.",
+            "sentence_vi_approx_annotated": "kô | rê（ô）mi | sê | tê。"
           },
           {
             "pair_id": "L2-11-P03",
@@ -4249,7 +4351,8 @@
             "sentence_vi_approx_mora": "mê | ● | sê | ê | ji | ô | kư | ● | ta?",
             "sentence_vi": "Gửi tin nhắn chưa?",
             "sentence_zh_tw": "訊息傳了嗎？",
-            "sentence_pinyin": "Xùnxí chuán le ma?"
+            "sentence_pinyin": "Xùnxí chuán le ma?",
+            "sentence_vi_approx_annotated": "mê | ● | sê | ê | ji（ô）ô | kư | ● | ta？"
           },
           {
             "pair_id": "L2-11-P04",
@@ -4270,7 +4373,8 @@
             "sentence_vi_approx_mora": "a | tô | dê | rê | n | ra | kư | sư | rư",
             "sentence_vi": "Lát nữa mình liên lạc.",
             "sentence_zh_tw": "我等一下再聯絡。",
-            "sentence_pinyin": "Wǒ děng yíxià zài liánluò."
+            "sentence_pinyin": "Wǒ děng yíxià zài liánluò.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）a | tô | dê | rê | n | ra | kư（ô）sư | rư。"
           },
           {
             "pair_id": "L2-11-P05",
@@ -4291,7 +4395,8 @@
             "sentence_vi_approx_mora": "a | tô | dê | ô | kư | rư",
             "sentence_vi": "Lát nữa mình gửi.",
             "sentence_zh_tw": "等一下傳給你。",
-            "sentence_pinyin": "Děng yíxià chuán gěi nǐ."
+            "sentence_pinyin": "Děng yíxià chuán gěi nǐ.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）a | tô | dê（sô | rê | ô）ô | kư | rư。"
           }
         ],
         "usage": {
@@ -4415,7 +4520,8 @@
             "sentence_vi_approx_mora": "tsư | ka | rê | ta",
             "sentence_vi": "Mệt rồi.",
             "sentence_zh_tw": "累了。",
-            "sentence_pinyin": "Lèi le."
+            "sentence_pinyin": "Lèi le.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）tsư | ka | rê | ta。"
           },
           {
             "pair_id": "L2-12-P02",
@@ -4436,7 +4542,8 @@
             "sentence_vi_approx_mora": "nê | mư | i",
             "sentence_vi": "Buồn ngủ.",
             "sentence_zh_tw": "想睡。",
-            "sentence_pinyin": "Xiǎng shuì."
+            "sentence_pinyin": "Xiǎng shuì.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）nê | mư | i。"
           },
           {
             "pair_id": "L2-12-P03",
@@ -4457,7 +4564,8 @@
             "sentence_vi_approx_mora": "ô | na | ka | sư | i | ta",
             "sentence_vi": "Đói bụng rồi.",
             "sentence_zh_tw": "肚子餓了。",
-            "sentence_pinyin": "Dùzi è le."
+            "sentence_pinyin": "Dùzi è le.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）ô | na | ka（ga）sư | i | ta。"
           },
           {
             "pair_id": "L2-12-P04",
@@ -4478,7 +4586,8 @@
             "sentence_vi_approx_mora": "nô | dô | ka | wa | i | ta",
             "sentence_vi": "Khát nước rồi.",
             "sentence_zh_tw": "口渴了。",
-            "sentence_pinyin": "Kǒu kě le."
+            "sentence_pinyin": "Kǒu kě le.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）nô | dô（ga）ka | wa | i | ta。"
           },
           {
             "pair_id": "L2-12-P05",
@@ -4499,7 +4608,8 @@
             "sentence_vi_approx_mora": "kô | kô, i | ta | i",
             "sentence_vi": "Chỗ này đau.",
             "sentence_zh_tw": "這裡痛。",
-            "sentence_pinyin": "Zhèlǐ tòng."
+            "sentence_pinyin": "Zhèlǐ tòng.",
+            "sentence_vi_approx_annotated": "kô | kô（ga）i | ta | i。"
           }
         ],
         "usage": {
@@ -4623,7 +4733,8 @@
             "sentence_vi_approx_mora": "kô | kô, sư | wa | rư?",
             "sentence_vi": "Ngồi ở đây không?",
             "sentence_zh_tw": "坐這裡嗎？",
-            "sentence_pinyin": "Zuò zhèlǐ ma?"
+            "sentence_pinyin": "Zuò zhèlǐ ma?",
+            "sentence_vi_approx_annotated": "kô | kô（ni）sư | wa | rư？"
           },
           {
             "pair_id": "L2-13-P02",
@@ -4644,7 +4755,8 @@
             "sentence_vi_approx_mora": "ta | ● | tê",
             "sentence_vi": "Đứng lên nhé.",
             "sentence_zh_tw": "站起來。",
-            "sentence_pinyin": "Zhàn qǐlái."
+            "sentence_pinyin": "Zhàn qǐlái.",
+            "sentence_vi_approx_annotated": "ta | ● | tê"
           },
           {
             "pair_id": "L2-13-P03",
@@ -4665,7 +4777,8 @@
             "sentence_vi_approx_mora": "mi | sê, ha | i | rư?",
             "sentence_vi": "Vào cửa hàng không?",
             "sentence_zh_tw": "要進店裡嗎？",
-            "sentence_pinyin": "Yào jìn diàn lǐ ma?"
+            "sentence_pinyin": "Yào jìn diàn lǐ ma?",
+            "sentence_vi_approx_annotated": "mi | sê（ni）ha | i | rư？"
           },
           {
             "pair_id": "L2-13-P04",
@@ -4686,7 +4799,8 @@
             "sentence_vi_approx_mora": "mi | sê, dê | rư?",
             "sentence_vi": "Ra khỏi cửa hàng không?",
             "sentence_zh_tw": "要離開店裡嗎？",
-            "sentence_pinyin": "Yào líkāi diàn lǐ ma?"
+            "sentence_pinyin": "Yào líkāi diàn lǐ ma?",
+            "sentence_vi_approx_annotated": "mi | sê（ô）dê | rư？"
           },
           {
             "pair_id": "L2-13-P05",
@@ -4707,7 +4821,8 @@
             "sentence_vi_approx_mora": "sa | n | ji, tsư | kư?",
             "sentence_vi": "Đến lúc 3 giờ à?",
             "sentence_zh_tw": "三點到嗎？",
-            "sentence_pinyin": "Sān diǎn dào ma?"
+            "sentence_pinyin": "Sān diǎn dào ma?",
+            "sentence_vi_approx_annotated": "sa | n | ji（ni）tsư | kư？"
           }
         ],
         "usage": {
@@ -4831,7 +4946,8 @@
             "sentence_vi_approx_mora": "a | xi | ta, dê | ki | rư?",
             "sentence_vi": "Ngày mai được không?",
             "sentence_zh_tw": "明天可以嗎？",
-            "sentence_pinyin": "Míngtiān kěyǐ ma?"
+            "sentence_pinyin": "Míngtiān kěyǐ ma?",
+            "sentence_vi_approx_annotated": "a | xi | ta（wa）dê | ki | rư？"
           },
           {
             "pair_id": "L2-14-P02",
@@ -4852,7 +4968,8 @@
             "sentence_vi_approx_mora": "kyô | ô | ha | mư | ri",
             "sentence_vi": "Hôm nay không được.",
             "sentence_zh_tw": "今天不行。",
-            "sentence_pinyin": "Jīntiān bùxíng."
+            "sentence_pinyin": "Jīntiān bùxíng.",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）mư | ri。"
           },
           {
             "pair_id": "L2-14-P03",
@@ -4873,7 +4990,8 @@
             "sentence_vi_approx_mora": "ji | ka | n, ka | ê | rư?",
             "sentence_vi": "Đổi giờ không?",
             "sentence_zh_tw": "要改時間嗎？",
-            "sentence_pinyin": "Yào gǎi shíjiān ma?"
+            "sentence_pinyin": "Yào gǎi shíjiān ma?",
+            "sentence_vi_approx_annotated": "ji | ka | n（ô）ka | ê | rư？"
           },
           {
             "pair_id": "L2-14-P04",
@@ -4894,7 +5012,8 @@
             "sentence_vi_approx_mora": "ô | kư | rê | rư",
             "sentence_vi": "Sẽ đến muộn.",
             "sentence_zh_tw": "會晚到。",
-            "sentence_pinyin": "Huì wǎndào."
+            "sentence_pinyin": "Huì wǎndào.",
+            "sentence_vi_approx_annotated": "ô | kư | rê | rư"
           },
           {
             "pair_id": "L2-14-P05",
@@ -4915,7 +5034,8 @@
             "sentence_vi_approx_mora": "i | sô | gư?",
             "sentence_vi": "Có vội không?",
             "sentence_zh_tw": "要趕快嗎？",
-            "sentence_pinyin": "Yào gǎnkuài ma?"
+            "sentence_pinyin": "Yào gǎnkuài ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）i | sô | gư？"
           }
         ],
         "usage": {
@@ -5039,7 +5159,8 @@
             "sentence_vi_approx_mora": "kô | rê, phư | ta | tsư | kư | da | sa | i",
             "sentence_vi": "Cho mình hai cái này.",
             "sentence_zh_tw": "這個請給我兩個。",
-            "sentence_pinyin": "Zhège qǐng gěi wǒ liǎng ge."
+            "sentence_pinyin": "Zhège qǐng gěi wǒ liǎng ge.",
+            "sentence_vi_approx_annotated": "kô | rê（ô）phư | ta | tsư | kư | da | sa | i。"
           },
           {
             "pair_id": "L2-15-P02",
@@ -5060,7 +5181,8 @@
             "sentence_vi_approx_mora": "pa | n, mi | ● | tsư | kư | da | sa | i",
             "sentence_vi": "Cho mình ba cái bánh mì.",
             "sentence_zh_tw": "麵包請給我三個。",
-            "sentence_pinyin": "Miànbāo qǐng gěi wǒ sān ge."
+            "sentence_pinyin": "Miànbāo qǐng gěi wǒ sān ge.",
+            "sentence_vi_approx_annotated": "pa | n（ô）mi | ● | tsư | kư | da | sa | i。"
           },
           {
             "pair_id": "L2-15-P03",
@@ -5081,7 +5203,8 @@
             "sentence_vi_approx_mora": "hi | tô | ri | dê | sư",
             "sentence_vi": "Một người.",
             "sentence_zh_tw": "一位。",
-            "sentence_pinyin": "Yí wèi."
+            "sentence_pinyin": "Yí wèi.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）hi | tô | ri | dê | sư。"
           },
           {
             "pair_id": "L2-15-P04",
@@ -5102,7 +5225,8 @@
             "sentence_vi_approx_mora": "phư | ta | ri | dê | sư",
             "sentence_vi": "Hai người.",
             "sentence_zh_tw": "兩位。",
-            "sentence_pinyin": "Liǎng wèi."
+            "sentence_pinyin": "Liǎng wèi.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | ta | chi | wa）phư | ta | ri | dê | sư。"
           },
           {
             "pair_id": "L2-15-P05",
@@ -5123,7 +5247,8 @@
             "sentence_vi_approx_mora": "na | n | ni | n?",
             "sentence_vi": "Mấy người?",
             "sentence_zh_tw": "幾位？",
-            "sentence_pinyin": "Jǐ wèi?"
+            "sentence_pinyin": "Jǐ wèi?",
+            "sentence_vi_approx_annotated": "（a | na | ta | ta | chi | wa）na | n | ni | n？"
           }
         ],
         "usage": {
@@ -5247,7 +5372,8 @@
             "sentence_vi_approx_mora": "kô | rê, ô | ô | ki | i?",
             "sentence_vi": "Cái này to không?",
             "sentence_zh_tw": "這個大嗎？",
-            "sentence_pinyin": "Zhège dà ma?"
+            "sentence_pinyin": "Zhège dà ma?",
+            "sentence_vi_approx_annotated": "kô | rê（wa）ô | ô | ki | i？"
           },
           {
             "pair_id": "L2-16-P02",
@@ -5268,7 +5394,8 @@
             "sentence_vi_approx_mora": "chi | i | sa | i",
             "sentence_vi": "Nhỏ.",
             "sentence_zh_tw": "很小。",
-            "sentence_pinyin": "Hěn xiǎo."
+            "sentence_pinyin": "Hěn xiǎo.",
+            "sentence_vi_approx_annotated": "chi | i | sa | i"
           },
           {
             "pair_id": "L2-16-P03",
@@ -5289,7 +5416,8 @@
             "sentence_vi_approx_mora": "kô | rê, ta | ka | i?",
             "sentence_vi": "Cái này đắt không?",
             "sentence_zh_tw": "這個貴嗎？",
-            "sentence_pinyin": "Zhège guì ma?"
+            "sentence_pinyin": "Zhège guì ma?",
+            "sentence_vi_approx_annotated": "kô | rê（wa）ta | ka | i？"
           },
           {
             "pair_id": "L2-16-P04",
@@ -5310,7 +5438,8 @@
             "sentence_vi_approx_mora": "kô | rê, ya | sư | i",
             "sentence_vi": "Cái này rẻ.",
             "sentence_zh_tw": "這個便宜。",
-            "sentence_pinyin": "Zhège piányi."
+            "sentence_pinyin": "Zhège piányi.",
+            "sentence_vi_approx_annotated": "kô | rê（wa）ya | sư | i。"
           },
           {
             "pair_id": "L2-16-P05",
@@ -5331,7 +5460,8 @@
             "sentence_vi_approx_mora": "kô | rê, chi | ga | ư",
             "sentence_vi": "Cái này không đúng / không phải cái này.",
             "sentence_zh_tw": "這個不對／不是這個。",
-            "sentence_pinyin": "Zhège bú duì / bú shì zhège."
+            "sentence_pinyin": "Zhège bú duì / bú shì zhège.",
+            "sentence_vi_approx_annotated": "kô | rê（wa）chi | ga | ư。"
           }
         ],
         "usage": {
@@ -5455,7 +5585,8 @@
             "sentence_vi_approx_mora": "kyô | ô, i | sô | ga | xi | i?",
             "sentence_vi": "Hôm nay bận không?",
             "sentence_zh_tw": "今天忙嗎？",
-            "sentence_pinyin": "Jīntiān máng ma?"
+            "sentence_pinyin": "Jīntiān máng ma?",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）i | sô | ga | xi | i？"
           },
           {
             "pair_id": "L2-17-P02",
@@ -5476,7 +5607,8 @@
             "sentence_vi_approx_mora": "i | ma | ka | ra | a | ư?",
             "sentence_vi": "Bây giờ gặp không?",
             "sentence_zh_tw": "現在見面嗎？",
-            "sentence_pinyin": "Xiànzài jiànmiàn ma?"
+            "sentence_pinyin": "Xiànzài jiànmiàn ma?",
+            "sentence_vi_approx_annotated": "i | ma | ka | ra | a | ư？"
           },
           {
             "pair_id": "L2-17-P03",
@@ -5497,7 +5629,8 @@
             "sentence_vi_approx_mora": "a | tô | dê | a | ư?",
             "sentence_vi": "Lát nữa gặp không?",
             "sentence_zh_tw": "等一下見面嗎？",
-            "sentence_pinyin": "Děng yíxià jiànmiàn ma?"
+            "sentence_pinyin": "Děng yíxià jiànmiàn ma?",
+            "sentence_vi_approx_annotated": "a | tô | dê | a | ư？"
           },
           {
             "pair_id": "L2-17-P04",
@@ -5518,7 +5651,8 @@
             "sentence_vi_approx_mora": "tô | mô | da | chi | tô | a | sô | bư?",
             "sentence_vi": "Đi chơi với bạn không?",
             "sentence_zh_tw": "跟朋友出去玩嗎？",
-            "sentence_pinyin": "Gēn péngyǒu chūqù wán ma?"
+            "sentence_pinyin": "Gēn péngyǒu chūqù wán ma?",
+            "sentence_vi_approx_annotated": "tô | mô | da | chi（tô）a | sô | bư？"
           },
           {
             "pair_id": "L2-17-P05",
@@ -5539,7 +5673,8 @@
             "sentence_vi_approx_mora": "i | ê, ka | ê | rư?",
             "sentence_vi": "Về nhà không?",
             "sentence_zh_tw": "要回家嗎？",
-            "sentence_pinyin": "Yào huí jiā ma?"
+            "sentence_pinyin": "Yào huí jiā ma?",
+            "sentence_vi_approx_annotated": "i | ê（ni）ka | ê | rư？"
           }
         ],
         "usage": {
@@ -5663,7 +5798,8 @@
             "sentence_vi_approx_mora": "kyô | ô, ê | i | ga | mi | rư?",
             "sentence_vi": "Hôm nay xem phim không?",
             "sentence_zh_tw": "今天看電影嗎？",
-            "sentence_pinyin": "Jīntiān kàn diànyǐng ma?"
+            "sentence_pinyin": "Jīntiān kàn diànyǐng ma?",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）ê | i | ga（ô）mi | rư？"
           },
           {
             "pair_id": "L2-18-P02",
@@ -5684,7 +5820,8 @@
             "sentence_vi_approx_mora": "kyô | ô, ta | nô | xi | i",
             "sentence_vi": "Hôm nay vui.",
             "sentence_zh_tw": "今天很開心。",
-            "sentence_pinyin": "Jīntiān hěn kāixīn."
+            "sentence_pinyin": "Jīntiān hěn kāixīn.",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）ta | nô | xi | i。"
           },
           {
             "pair_id": "L2-18-P03",
@@ -5705,7 +5842,8 @@
             "sentence_vi_approx_mora": "ê | i | ga, ô | mô | xi | rô | i?",
             "sentence_vi": "Phim thú vị không?",
             "sentence_zh_tw": "電影有趣嗎？",
-            "sentence_pinyin": "Diànyǐng yǒuqù ma?"
+            "sentence_pinyin": "Diànyǐng yǒuqù ma?",
+            "sentence_vi_approx_annotated": "ê | i | ga（wa）ô | mô | xi | rô | i？"
           },
           {
             "pair_id": "L2-18-P04",
@@ -5726,7 +5864,8 @@
             "sentence_vi_approx_mora": "kô | rê, ka | wa | i | i",
             "sentence_vi": "Cái này dễ thương.",
             "sentence_zh_tw": "這個很可愛。",
-            "sentence_pinyin": "Zhège hěn kě'ài."
+            "sentence_pinyin": "Zhège hěn kě'ài.",
+            "sentence_vi_approx_annotated": "kô | rê（wa）ka | wa | i | i。"
           },
           {
             "pair_id": "L2-18-P05",
@@ -5747,7 +5886,8 @@
             "sentence_vi_approx_mora": "kô | rê, ka | ● | kô | i | i",
             "sentence_vi": "Cái này ngầu.",
             "sentence_zh_tw": "這個很帥／很酷。",
-            "sentence_pinyin": "Zhège hěn shuài / hěn kù."
+            "sentence_pinyin": "Zhège hěn shuài / hěn kù.",
+            "sentence_vi_approx_annotated": "kô | rê（wa）ka | ● | kô | i | i。"
           }
         ],
         "usage": {
@@ -5871,7 +6011,8 @@
             "sentence_vi_approx_mora": "jư | gyô | ô, ha | ji | ma | rư?",
             "sentence_vi": "Sắp bắt đầu giờ học à?",
             "sentence_zh_tw": "要上課了嗎？",
-            "sentence_pinyin": "Yào shàngkè le ma?"
+            "sentence_pinyin": "Yào shàngkè le ma?",
+            "sentence_vi_approx_annotated": "jư | gyô | ô（wa）ha | ji | ma | rư？"
           },
           {
             "pair_id": "L2-19-P02",
@@ -5892,7 +6033,8 @@
             "sentence_vi_approx_mora": "xư | kư | da | i, ô | wa | ● | ta?",
             "sentence_vi": "Bài tập xong chưa?",
             "sentence_zh_tw": "作業做完了嗎？",
-            "sentence_pinyin": "Zuòyè zuòwán le ma?"
+            "sentence_pinyin": "Zuòyè zuòwán le ma?",
+            "sentence_vi_approx_annotated": "xư | kư | da | i（wa）ô | wa | ● | ta？"
           },
           {
             "pair_id": "L2-19-P03",
@@ -5913,7 +6055,8 @@
             "sentence_vi_approx_mora": "kyô | ô, ya | sư | mi?",
             "sentence_vi": "Hôm nay nghỉ à?",
             "sentence_zh_tw": "今天放假嗎？",
-            "sentence_pinyin": "Jīntiān fàngjià ma?"
+            "sentence_pinyin": "Jīntiān fàngjià ma?",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）ya | sư | mi？"
           },
           {
             "pair_id": "L2-19-P04",
@@ -5934,7 +6077,8 @@
             "sentence_vi_approx_mora": "tê | sư | tô, i | tsư?",
             "sentence_vi": "Khi nào kiểm tra?",
             "sentence_zh_tw": "考試什麼時候？",
-            "sentence_pinyin": "Kǎoshì shénme shíhou?"
+            "sentence_pinyin": "Kǎoshì shénme shíhou?",
+            "sentence_vi_approx_annotated": "tê | sư | tô（wa）i | tsư？"
           },
           {
             "pair_id": "L2-19-P05",
@@ -5955,7 +6099,8 @@
             "sentence_vi_approx_mora": "kô | rê, hi | tsư | yô | ô?",
             "sentence_vi": "Cái này cần không?",
             "sentence_zh_tw": "這個需要嗎？",
-            "sentence_pinyin": "Zhège xūyào ma?"
+            "sentence_pinyin": "Zhège xūyào ma?",
+            "sentence_vi_approx_annotated": "kô | rê（wa）hi | tsư | yô | ô？"
           }
         ],
         "usage": {
@@ -6079,7 +6224,8 @@
             "sentence_vi_approx_mora": "kô | rê, ka | ri | tê | i | i?",
             "sentence_vi": "Mượn cái này được không?",
             "sentence_zh_tw": "這個可以借嗎？",
-            "sentence_pinyin": "Zhège kěyǐ jiè ma?"
+            "sentence_pinyin": "Zhège kěyǐ jiè ma?",
+            "sentence_vi_approx_annotated": "kô | rê（ô）ka | ri | tê（mô）i | i？"
           },
           {
             "pair_id": "L2-20-P02",
@@ -6100,7 +6246,8 @@
             "sentence_vi_approx_mora": "kô | rê, ka | xi | tê",
             "sentence_vi": "Cho mình mượn cái này nhé.",
             "sentence_zh_tw": "這個借我。",
-            "sentence_pinyin": "Zhège jiè wǒ."
+            "sentence_pinyin": "Zhège jiè wǒ.",
+            "sentence_vi_approx_annotated": "kô | rê（ô）ka | xi | tê。"
           },
           {
             "pair_id": "L2-20-P03",
@@ -6121,7 +6268,8 @@
             "sentence_vi_approx_mora": "i | tsư | ka | ê | sư?",
             "sentence_vi": "Khi nào trả?",
             "sentence_zh_tw": "什麼時候還？",
-            "sentence_pinyin": "Shénme shíhou huán?"
+            "sentence_pinyin": "Shénme shíhou huán?",
+            "sentence_vi_approx_annotated": "i | tsư | ka | ê | sư？"
           },
           {
             "pair_id": "L2-20-P04",
@@ -6142,7 +6290,8 @@
             "sentence_vi_approx_mora": "tê | tsư | da | ● | tê",
             "sentence_vi": "Giúp mình nhé.",
             "sentence_zh_tw": "幫我一下。",
-            "sentence_pinyin": "Bāng wǒ yíxià."
+            "sentence_pinyin": "Bāng wǒ yíxià.",
+            "sentence_vi_approx_annotated": "tê | tsư | da | ● | tê"
           },
           {
             "pair_id": "L2-20-P05",
@@ -6163,7 +6312,8 @@
             "sentence_vi_approx_mora": "kô | rê, tsư | ka | ê | rư?",
             "sentence_vi": "Cái này dùng được không?",
             "sentence_zh_tw": "這個可以用嗎？",
-            "sentence_pinyin": "Zhège kěyǐ yòng ma?"
+            "sentence_pinyin": "Zhège kěyǐ yòng ma?",
+            "sentence_vi_approx_annotated": "kô | rê（wa）tsư | ka | ê | rư？"
           }
         ],
         "usage": {
@@ -6298,7 +6448,8 @@
             "sentence_vi_approx_mora": "kô | nô | dê | n | xa, tô | kyô | ô | i | kư?",
             "sentence_vi": "Tàu này đi Tokyo không?",
             "sentence_zh_tw": "這班電車去東京嗎？",
-            "sentence_pinyin": "Zhè bān diànchē qù Dōngjīng ma?"
+            "sentence_pinyin": "Zhè bān diànchē qù Dōngjīng ma?",
+            "sentence_vi_approx_annotated": "kô | nô | dê | n | xa（wa）tô | kyô | ô（ni）i | kư？"
           },
           {
             "pair_id": "L3-1-P02",
@@ -6319,7 +6470,8 @@
             "sentence_vi_approx_mora": "xa | xi | n, tô | ● | tê | i | i?",
             "sentence_vi": "Chụp ảnh được không?",
             "sentence_zh_tw": "可以拍照嗎？",
-            "sentence_pinyin": "Kěyǐ pāizhào ma?"
+            "sentence_pinyin": "Kěyǐ pāizhào ma?",
+            "sentence_vi_approx_annotated": "xa | xi | n（ô）tô | ● | tê（mô）i | i？"
           },
           {
             "pair_id": "L3-1-P03",
@@ -6340,7 +6492,8 @@
             "sentence_vi_approx_mora": "gi | n | kô | ô, dô | kô?",
             "sentence_vi": "Ngân hàng ở đâu?",
             "sentence_zh_tw": "銀行在哪裡？",
-            "sentence_pinyin": "Yínháng zài nǎlǐ?"
+            "sentence_pinyin": "Yínháng zài nǎlǐ?",
+            "sentence_vi_approx_annotated": "gi | n | kô | ô（wa）dô | kô？"
           },
           {
             "pair_id": "L3-1-P04",
@@ -6361,7 +6514,8 @@
             "sentence_vi_approx_mora": "ki | ● | pư, dô | kô | dê | ka | ư?",
             "sentence_vi": "Mua vé ở đâu?",
             "sentence_zh_tw": "票在哪裡買？",
-            "sentence_pinyin": "Piào zài nǎlǐ mǎi?"
+            "sentence_pinyin": "Piào zài nǎlǐ mǎi?",
+            "sentence_vi_approx_annotated": "ki | ● | pư（wa）dô | kô | dê | ka | ư？"
           },
           {
             "pair_id": "L3-1-P05",
@@ -6382,7 +6536,8 @@
             "sentence_vi_approx_mora": "ê | ki | ma | dê | ô | nê | ga | i | xi | ma | sư",
             "sentence_vi": "Làm ơn đưa tôi đến ga.",
             "sentence_zh_tw": "麻煩到車站。",
-            "sentence_pinyin": "Máfan dào chēzhàn."
+            "sentence_pinyin": "Máfan dào chēzhàn.",
+            "sentence_vi_approx_annotated": "ê | ki | ma | dê | ô | nê | ga | i | xi | ma | sư"
           }
         ],
         "usage": {
@@ -6506,7 +6661,8 @@
             "sentence_vi_approx_mora": "yô | ya | kư | xi | tê | ma | sư",
             "sentence_vi": "Tôi có đặt chỗ trước.",
             "sentence_zh_tw": "我有預約。",
-            "sentence_pinyin": "Wǒ yǒu yùyuē."
+            "sentence_pinyin": "Wǒ yǒu yùyuē.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）yô | ya | kư | xi | tê（i）ma | sư。"
           },
           {
             "pair_id": "L3-2-P02",
@@ -6527,7 +6683,8 @@
             "sentence_vi_approx_mora": "hê | ya, dô | kô | dê | sư | ka?",
             "sentence_vi": "Phòng ở đâu?",
             "sentence_zh_tw": "房間在哪裡？",
-            "sentence_pinyin": "Fángjiān zài nǎlǐ?"
+            "sentence_pinyin": "Fángjiān zài nǎlǐ?",
+            "sentence_vi_approx_annotated": "hê | ya（wa）dô | kô | dê | sư | ka？"
           },
           {
             "pair_id": "L3-2-P03",
@@ -6548,7 +6705,8 @@
             "sentence_vi_approx_mora": "ni | mô | tsư, kô | kô | dê | i | i | dê | sư | ka?",
             "sentence_vi": "Để hành lý ở đây được không?",
             "sentence_zh_tw": "行李放這裡可以嗎？",
-            "sentence_pinyin": "Xínglǐ fàng zhèlǐ kěyǐ ma?"
+            "sentence_pinyin": "Xínglǐ fàng zhèlǐ kěyǐ ma?",
+            "sentence_vi_approx_annotated": "ni | mô | tsư（wa）kô | kô | dê | i | i | dê | sư | ka？"
           },
           {
             "pair_id": "L3-2-P04",
@@ -6569,7 +6727,8 @@
             "sentence_vi_approx_mora": "ka | gi, ô | nê | ga | i | xi | ma | sư",
             "sentence_vi": "Cho tôi xin chìa khóa.",
             "sentence_zh_tw": "麻煩給我鑰匙。",
-            "sentence_pinyin": "Máfan gěi wǒ yàoshi."
+            "sentence_pinyin": "Máfan gěi wǒ yàoshi.",
+            "sentence_vi_approx_annotated": "ka | gi（ô）ô | nê | ga | i | xi | ma | sư。"
           },
           {
             "pair_id": "L3-2-P05",
@@ -6590,7 +6749,8 @@
             "sentence_vi_approx_mora": "ư | kê | tsư | kê, dô | kô | dê | sư | ka?",
             "sentence_vi": "Quầy lễ tân ở đâu?",
             "sentence_zh_tw": "櫃台在哪裡？",
-            "sentence_pinyin": "Guìtái zài nǎlǐ?"
+            "sentence_pinyin": "Guìtái zài nǎlǐ?",
+            "sentence_vi_approx_annotated": "ư | kê | tsư | kê（wa）dô | kô | dê | sư | ka？"
           }
         ],
         "usage": {
@@ -6714,7 +6874,8 @@
             "sentence_vi_approx_mora": "mi | gi | dê | sư | ka?",
             "sentence_vi": "Bên phải à?",
             "sentence_zh_tw": "是右邊嗎？",
-            "sentence_pinyin": "Shì yòubiān ma?"
+            "sentence_pinyin": "Shì yòubiān ma?",
+            "sentence_vi_approx_annotated": "mi | gi | dê | sư | ka？"
           },
           {
             "pair_id": "L3-3-P02",
@@ -6735,7 +6896,8 @@
             "sentence_vi_approx_mora": "hi | da | ri | dê | sư | ka?",
             "sentence_vi": "Bên trái à?",
             "sentence_zh_tw": "是左邊嗎？",
-            "sentence_pinyin": "Shì zuǒbiān ma?"
+            "sentence_pinyin": "Shì zuǒbiān ma?",
+            "sentence_vi_approx_annotated": "hi | da | ri | dê | sư | ka？"
           },
           {
             "pair_id": "L3-3-P03",
@@ -6756,7 +6918,8 @@
             "sentence_vi_approx_mora": "ma | ● | sư | gư | dê | sư | ka?",
             "sentence_vi": "Đi thẳng phải không?",
             "sentence_zh_tw": "直走嗎？",
-            "sentence_pinyin": "Zhí zǒu ma?"
+            "sentence_pinyin": "Zhí zǒu ma?",
+            "sentence_vi_approx_annotated": "（mi | chi | wa）ma | ● | sư | gư | dê | sư | ka？"
           },
           {
             "pair_id": "L3-3-P04",
@@ -6777,7 +6940,8 @@
             "sentence_vi_approx_mora": "chi | ka | i | dê | sư | ka?",
             "sentence_vi": "Gần không?",
             "sentence_zh_tw": "近嗎？",
-            "sentence_pinyin": "Jìn ma?"
+            "sentence_pinyin": "Jìn ma?",
+            "sentence_vi_approx_annotated": "chi | ka | i | dê | sư | ka？"
           },
           {
             "pair_id": "L3-3-P05",
@@ -6798,7 +6962,8 @@
             "sentence_vi_approx_mora": "tô | ô | i | dê | sư | ka?",
             "sentence_vi": "Xa không?",
             "sentence_zh_tw": "遠嗎？",
-            "sentence_pinyin": "Yuǎn ma?"
+            "sentence_pinyin": "Yuǎn ma?",
+            "sentence_vi_approx_annotated": "tô | ô | i | dê | sư | ka？"
           }
         ],
         "usage": {
@@ -6922,7 +7087,8 @@
             "sentence_vi_approx_mora": "ba | sư | nô | rư?",
             "sentence_vi": "Đi xe buýt không?",
             "sentence_zh_tw": "要搭公車嗎？",
-            "sentence_pinyin": "Yào dā gōngchē ma?"
+            "sentence_pinyin": "Yào dā gōngchē ma?",
+            "sentence_vi_approx_annotated": "ba | sư（ni）nô | rư？"
           },
           {
             "pair_id": "L3-4-P02",
@@ -6943,7 +7109,8 @@
             "sentence_vi_approx_mora": "ta | kư | xi | i | dê | i | kư?",
             "sentence_vi": "Đi bằng taxi không?",
             "sentence_zh_tw": "坐計程車去嗎？",
-            "sentence_pinyin": "Zuò jìchéngchē qù ma?"
+            "sentence_pinyin": "Zuò jìchéngchē qù ma?",
+            "sentence_vi_approx_annotated": "ta | kư | xi | i | dê | i | kư？"
           },
           {
             "pair_id": "L3-4-P03",
@@ -6964,7 +7131,8 @@
             "sentence_vi_approx_mora": "dê | gư | chi, dô | kô?",
             "sentence_vi": "Lối ra ở đâu?",
             "sentence_zh_tw": "出口在哪裡？",
-            "sentence_pinyin": "Chūkǒu zài nǎlǐ?"
+            "sentence_pinyin": "Chūkǒu zài nǎlǐ?",
+            "sentence_vi_approx_annotated": "dê | gư | chi（wa）dô | kô？"
           },
           {
             "pair_id": "L3-4-P04",
@@ -6985,7 +7153,8 @@
             "sentence_vi_approx_mora": "ka | i | da | n | a | rư?",
             "sentence_vi": "Có cầu thang không?",
             "sentence_zh_tw": "有樓梯嗎？",
-            "sentence_pinyin": "Yǒu lóutī ma?"
+            "sentence_pinyin": "Yǒu lóutī ma?",
+            "sentence_vi_approx_annotated": "ka | i | da | n（wa）a | rư？"
           },
           {
             "pair_id": "L3-4-P05",
@@ -7006,7 +7175,8 @@
             "sentence_vi_approx_mora": "ê | rê | bê | ê | ta | a, dô | kô?",
             "sentence_vi": "Thang máy ở đâu?",
             "sentence_zh_tw": "電梯在哪裡？",
-            "sentence_pinyin": "Diàntī zài nǎlǐ?"
+            "sentence_pinyin": "Diàntī zài nǎlǐ?",
+            "sentence_vi_approx_annotated": "ê | rê | bê | ê | ta | a（wa）dô | kô？"
           }
         ],
         "usage": {
@@ -7130,7 +7300,8 @@
             "sentence_vi_approx_mora": "ê | ki | nô | ma | ê",
             "sentence_vi": "Trước ga.",
             "sentence_zh_tw": "車站前面。",
-            "sentence_pinyin": "Chēzhàn qiánmiàn."
+            "sentence_pinyin": "Chēzhàn qiánmiàn.",
+            "sentence_vi_approx_annotated": "ê | ki（nô）ma | ê。"
           },
           {
             "pair_id": "L3-5-P02",
@@ -7151,7 +7322,8 @@
             "sentence_vi_approx_mora": "ư | xi | rô, mi | tê",
             "sentence_vi": "Nhìn phía sau nhé.",
             "sentence_zh_tw": "看後面。",
-            "sentence_pinyin": "Kàn hòumiàn."
+            "sentence_pinyin": "Kàn hòumiàn.",
+            "sentence_vi_approx_annotated": "ư | xi | rô（ô）mi | tê。"
           },
           {
             "pair_id": "L3-5-P03",
@@ -7172,7 +7344,8 @@
             "sentence_vi_approx_mora": "ka | i | da | n | nô | ư | ê",
             "sentence_vi": "Phía trên cầu thang.",
             "sentence_zh_tw": "樓梯上面。",
-            "sentence_pinyin": "Lóutī shàngmiàn."
+            "sentence_pinyin": "Lóutī shàngmiàn.",
+            "sentence_vi_approx_annotated": "ka | i | da | n（nô）ư | ê。"
           },
           {
             "pair_id": "L3-5-P04",
@@ -7193,7 +7366,8 @@
             "sentence_vi_approx_mora": "ka | i | da | n | nô | xi | ta",
             "sentence_vi": "Phía dưới cầu thang.",
             "sentence_zh_tw": "樓梯下面。",
-            "sentence_pinyin": "Lóutī xiàmiàn."
+            "sentence_pinyin": "Lóutī xiàmiàn.",
+            "sentence_vi_approx_annotated": "ka | i | da | n（nô）xi | ta。"
           },
           {
             "pair_id": "L3-5-P05",
@@ -7214,7 +7388,8 @@
             "sentence_vi_approx_mora": "mi | sê | nô | na | ka",
             "sentence_vi": "Bên trong cửa hàng.",
             "sentence_zh_tw": "店裡面。",
-            "sentence_pinyin": "Diàn lǐmiàn."
+            "sentence_pinyin": "Diàn lǐmiàn.",
+            "sentence_vi_approx_annotated": "mi | sê（nô）na | ka。"
           }
         ],
         "usage": {
@@ -7338,7 +7513,8 @@
             "sentence_vi_approx_mora": "ô | kư | rê, a | ri | ma | sư | ka?",
             "sentence_vi": "Có bị trễ không?",
             "sentence_zh_tw": "有晚點嗎？",
-            "sentence_pinyin": "Yǒu wǎndiǎn ma?"
+            "sentence_pinyin": "Yǒu wǎndiǎn ma?",
+            "sentence_vi_approx_annotated": "ô | kư | rê（wa）a | ri | ma | sư | ka？"
           },
           {
             "pair_id": "L3-6-P02",
@@ -7359,7 +7535,8 @@
             "sentence_vi_approx_mora": "tsư | gi, ô | ri | rư?",
             "sentence_vi": "Xuống ở ga tiếp theo à?",
             "sentence_zh_tw": "下一站下車嗎？",
-            "sentence_pinyin": "Xià yí zhàn xiàchē ma?"
+            "sentence_pinyin": "Xià yí zhàn xiàchē ma?",
+            "sentence_vi_approx_annotated": "tsư | gi（dê）ô | ri | rư？"
           },
           {
             "pair_id": "L3-6-P03",
@@ -7380,7 +7557,8 @@
             "sentence_vi_approx_mora": "dô | kô | dê | nô | ri | ka | ê | rư?",
             "sentence_vi": "Chuyển tàu ở đâu?",
             "sentence_zh_tw": "在哪裡轉乘？",
-            "sentence_pinyin": "Zài nǎlǐ zhuǎnchéng?"
+            "sentence_pinyin": "Zài nǎlǐ zhuǎnchéng?",
+            "sentence_vi_approx_annotated": "dô | kô | dê | nô | ri | ka | ê | rư？"
           },
           {
             "pair_id": "L3-6-P04",
@@ -7401,7 +7579,8 @@
             "sentence_vi_approx_mora": "hô | ô | mư, dô | kô?",
             "sentence_vi": "Sân ga ở đâu?",
             "sentence_zh_tw": "月台在哪裡？",
-            "sentence_pinyin": "Yuètái zài nǎlǐ?"
+            "sentence_pinyin": "Yuètái zài nǎlǐ?",
+            "sentence_vi_approx_annotated": "hô | ô | mư（wa）dô | kô？"
           },
           {
             "pair_id": "L3-6-P05",
@@ -7422,7 +7601,8 @@
             "sentence_vi_approx_mora": "dê | n | xa, ma | chi | ga | ê | ta",
             "sentence_vi": "Lên nhầm tàu rồi.",
             "sentence_zh_tw": "搭錯電車了。",
-            "sentence_pinyin": "Dā cuò diànchē le."
+            "sentence_pinyin": "Dā cuò diànchē le.",
+            "sentence_vi_approx_annotated": "dê | n | xa（ô）ma | chi | ga | ê | ta。"
           }
         ],
         "usage": {
@@ -7546,7 +7726,8 @@
             "sentence_vi_approx_mora": "ta | ô | rư, phư | ta | tsư | kư | da | sa | i",
             "sentence_vi": "Cho tôi hai khăn nhé.",
             "sentence_zh_tw": "請給我兩條毛巾。",
-            "sentence_pinyin": "Qǐng gěi wǒ liǎng tiáo máojīn."
+            "sentence_pinyin": "Qǐng gěi wǒ liǎng tiáo máojīn.",
+            "sentence_vi_approx_annotated": "ta | ô | rư（ô）phư | ta | tsư | kư | da | sa | i。"
           },
           {
             "pair_id": "L3-7-P02",
@@ -7567,7 +7748,8 @@
             "sentence_vi_approx_mora": "xa | wa | a, tsư | ka | ê | ma | sư | ka?",
             "sentence_vi": "Vòi sen dùng được không?",
             "sentence_zh_tw": "淋浴可以用嗎？",
-            "sentence_pinyin": "Línyù kěyǐ yòng ma?"
+            "sentence_pinyin": "Línyù kěyǐ yòng ma?",
+            "sentence_vi_approx_annotated": "xa | wa | a（wa）tsư | ka | ê | ma | sư | ka？"
           },
           {
             "pair_id": "L3-7-P03",
@@ -7588,7 +7770,8 @@
             "sentence_vi_approx_mora": "ô | yư, dê | ma | sư | ka?",
             "sentence_vi": "Có nước nóng không?",
             "sentence_zh_tw": "有熱水嗎？",
-            "sentence_pinyin": "Yǒu rèshuǐ ma?"
+            "sentence_pinyin": "Yǒu rèshuǐ ma?",
+            "sentence_vi_approx_annotated": "ô | yư（wa）dê | ma | sư | ka？"
           },
           {
             "pair_id": "L3-7-P04",
@@ -7609,7 +7792,8 @@
             "sentence_vi_approx_mora": "kô | n | sê | n | tô, dô | kô | dê | sư | ka?",
             "sentence_vi": "Ổ cắm ở đâu?",
             "sentence_zh_tw": "插座在哪裡？",
-            "sentence_pinyin": "Chāzuò zài nǎlǐ?"
+            "sentence_pinyin": "Chāzuò zài nǎlǐ?",
+            "sentence_vi_approx_annotated": "kô | n | sê | n | tô（wa）dô | kô | dê | sư | ka？"
           },
           {
             "pair_id": "L3-7-P05",
@@ -7630,7 +7814,8 @@
             "sentence_vi_approx_mora": "wa | i | fa | i, tsư | ka | ê | ma | sư | ka?",
             "sentence_vi": "Wi-Fi dùng được không?",
             "sentence_zh_tw": "Wi-Fi可以用嗎？",
-            "sentence_pinyin": "Wi-Fi kěyǐ yòng ma?"
+            "sentence_pinyin": "Wi-Fi kěyǐ yòng ma?",
+            "sentence_vi_approx_annotated": "wa | i | fa | i（wa）tsư | ka | ê | ma | sư | ka？"
           }
         ],
         "usage": {
@@ -7765,7 +7950,8 @@
             "sentence_vi_approx_mora": "mi | zư, kư | da | sa | i",
             "sentence_vi": "Cho tôi nước.",
             "sentence_zh_tw": "請給我水。",
-            "sentence_pinyin": "Qǐng gěi wǒ shuǐ."
+            "sentence_pinyin": "Qǐng gěi wǒ shuǐ.",
+            "sentence_vi_approx_annotated": "mi | zư（ô）kư | da | sa | i。"
           },
           {
             "pair_id": "L4-1-P02",
@@ -7786,7 +7972,8 @@
             "sentence_vi_approx_mora": "ô | cha, a | ri | ma | sư | ka?",
             "sentence_vi": "Có trà không?",
             "sentence_zh_tw": "有茶嗎？",
-            "sentence_pinyin": "Yǒu chá ma?"
+            "sentence_pinyin": "Yǒu chá ma?",
+            "sentence_vi_approx_annotated": "ô | cha（wa）a | ri | ma | sư | ka？"
           },
           {
             "pair_id": "L4-1-P03",
@@ -7807,7 +7994,8 @@
             "sentence_vi_approx_mora": "phư | kư | rô, i | ri | ma | sư | ka?",
             "sentence_vi": "Có cần túi không?",
             "sentence_zh_tw": "需要袋子嗎？",
-            "sentence_pinyin": "Xūyào dàizi ma?"
+            "sentence_pinyin": "Xūyào dàizi ma?",
+            "sentence_vi_approx_annotated": "phư | kư | rô（wa）i | ri | ma | sư | ka？"
           },
           {
             "pair_id": "L4-1-P04",
@@ -7828,7 +8016,8 @@
             "sentence_vi_approx_mora": "i | kư | ra | dê | sư | ka?",
             "sentence_vi": "Bao nhiêu tiền?",
             "sentence_zh_tw": "多少錢？",
-            "sentence_pinyin": "Duōshǎo qián?"
+            "sentence_pinyin": "Duōshǎo qián?",
+            "sentence_vi_approx_annotated": "i | kư | ra | dê | sư | ka？"
           },
           {
             "pair_id": "L4-1-P05",
@@ -7849,7 +8038,8 @@
             "sentence_vi_approx_mora": "da | i | jô | ô | bư | dê | sư",
             "sentence_vi": "Không cần / ổn ạ.",
             "sentence_zh_tw": "不用／沒問題。",
-            "sentence_pinyin": "Bùyòng / méi wèntí."
+            "sentence_pinyin": "Bùyòng / méi wèntí.",
+            "sentence_vi_approx_annotated": "da | i | jô | ô | bư | dê | sư"
           }
         ],
         "usage": {
@@ -7973,7 +8163,8 @@
             "sentence_vi_approx_mora": "chư | ư | mô | n, ô | nê | ga | i | xi | ma | sư",
             "sentence_vi": "Tôi muốn gọi món.",
             "sentence_zh_tw": "我要點餐，謝謝。",
-            "sentence_pinyin": "Wǒ yào diǎncān, xièxie."
+            "sentence_pinyin": "Wǒ yào diǎncān, xièxie.",
+            "sentence_vi_approx_annotated": "chư | ư | mô | n（ô）ô | nê | ga | i | xi | ma | sư。"
           },
           {
             "pair_id": "L4-2-P02",
@@ -7994,7 +8185,8 @@
             "sentence_vi_approx_mora": "ô | sư | sư | mê, na | n | dê | sư | ka?",
             "sentence_vi": "Bạn gợi ý món nào?",
             "sentence_zh_tw": "有什麼推薦的？",
-            "sentence_pinyin": "Yǒu shénme tuījiàn de?"
+            "sentence_pinyin": "Yǒu shénme tuījiàn de?",
+            "sentence_vi_approx_annotated": "ô | sư | sư | mê（wa）na | n | dê | sư | ka？"
           },
           {
             "pair_id": "L4-2-P03",
@@ -8015,7 +8207,8 @@
             "sentence_vi_approx_mora": "i | chi | ba | n | ni | n | ki, dô | rê | dê | sư | ka?",
             "sentence_vi": "Món nào được ưa chuộng nhất?",
             "sentence_zh_tw": "最受歡迎的是哪一個？",
-            "sentence_pinyin": "Zuì shòu huānyíng de shì nǎ yí ge?"
+            "sentence_pinyin": "Zuì shòu huānyíng de shì nǎ yí ge?",
+            "sentence_vi_approx_annotated": "i | chi | ba | n | ni | n | ki（na | nô | wa）dô | rê | dê | sư | ka？"
           },
           {
             "pair_id": "L4-2-P04",
@@ -8036,7 +8229,8 @@
             "sentence_vi_approx_mora": "kô | rê, ka | ra | i | dê | sư | ka?",
             "sentence_vi": "Món này cay không?",
             "sentence_zh_tw": "這個辣嗎？",
-            "sentence_pinyin": "Zhège là ma?"
+            "sentence_pinyin": "Zhège là ma?",
+            "sentence_vi_approx_annotated": "kô | rê（wa）ka | ra | i | dê | sư | ka？"
           },
           {
             "pair_id": "L4-2-P05",
@@ -8057,7 +8251,8 @@
             "sentence_vi_approx_mora": "a | ma | kư | na | i | nô, a | ri | ma | sư | ka?",
             "sentence_vi": "Có món nào không ngọt không?",
             "sentence_zh_tw": "有不甜的嗎？",
-            "sentence_pinyin": "Yǒu bù tián de ma?"
+            "sentence_pinyin": "Yǒu bù tián de ma?",
+            "sentence_vi_approx_annotated": "a | ma | kư | na | i | mô | nô（wa）a | ri | ma | sư | ka？"
           }
         ],
         "usage": {
@@ -8181,7 +8376,8 @@
             "sentence_vi_approx_mora": "gê | n | ki | n | da | kê | dê | sư | ka?",
             "sentence_vi": "Chỉ trả tiền mặt thôi à?",
             "sentence_zh_tw": "只能付現金嗎？",
-            "sentence_pinyin": "Zhǐ néng fù xiànjīn ma?"
+            "sentence_pinyin": "Zhǐ néng fù xiànjīn ma?",
+            "sentence_vi_approx_annotated": "（xi | ha | ra | i | wa）gê | n | ki | n | da | kê | dê | sư | ka？"
           },
           {
             "pair_id": "L4-3-P02",
@@ -8202,7 +8398,8 @@
             "sentence_vi_approx_mora": "ka | a | dô, tsư | ka | ê | ma | sư | ka?",
             "sentence_vi": "Có dùng thẻ được không?",
             "sentence_zh_tw": "可以刷卡嗎？",
-            "sentence_pinyin": "Kěyǐ shuākǎ ma?"
+            "sentence_pinyin": "Kěyǐ shuākǎ ma?",
+            "sentence_vi_approx_annotated": "ka | a | dô（wa）tsư | ka | ê | ma | sư | ka？"
           },
           {
             "pair_id": "L4-3-P03",
@@ -8223,7 +8420,8 @@
             "sentence_vi_approx_mora": "ô | ka | i | kê | i, ô | nê | ga | i | xi | ma | sư",
             "sentence_vi": "Làm ơn tính tiền.",
             "sentence_zh_tw": "麻煩結帳。",
-            "sentence_pinyin": "Máfan jiézhàng."
+            "sentence_pinyin": "Máfan jiézhàng.",
+            "sentence_vi_approx_annotated": "ô | ka | i | kê | i（ô）ô | nê | ga | i | xi | ma | sư。"
           },
           {
             "pair_id": "L4-3-P04",
@@ -8244,7 +8442,8 @@
             "sentence_vi_approx_mora": "rê | xi | i | tô, kư | da | sa | i",
             "sentence_vi": "Cho tôi hóa đơn/biên lai.",
             "sentence_zh_tw": "請給我收據。",
-            "sentence_pinyin": "Qǐng gěi wǒ shōujù."
+            "sentence_pinyin": "Qǐng gěi wǒ shōujù.",
+            "sentence_vi_approx_annotated": "rê | xi | i | tô（ô）kư | da | sa | i。"
           },
           {
             "pair_id": "L4-3-P05",
@@ -8265,7 +8464,8 @@
             "sentence_vi_approx_mora": "sê | n | ê | n | dê | sư",
             "sentence_vi": "1.000 yên.",
             "sentence_zh_tw": "一千日圓。",
-            "sentence_pinyin": "Yìqiān Rìyuán."
+            "sentence_pinyin": "Yìqiān Rìyuán.",
+            "sentence_vi_approx_annotated": "（gô | ô | kê | i | wa）sê | n | ê | n | dê | sư。"
           }
         ],
         "usage": {
@@ -8389,7 +8589,8 @@
             "sentence_vi_approx_mora": "a | ta | ta | mê | ma | sư | ka?",
             "sentence_vi": "Có hâm nóng không?",
             "sentence_zh_tw": "需要加熱嗎？",
-            "sentence_pinyin": "Xūyào jiārè ma?"
+            "sentence_pinyin": "Xūyào jiārè ma?",
+            "sentence_vi_approx_annotated": "a | ta | ta | mê | ma | sư | ka？"
           },
           {
             "pair_id": "L4-4-P02",
@@ -8410,7 +8611,8 @@
             "sentence_vi_approx_mora": "ha | xi, i | ri | ma | sư | ka?",
             "sentence_vi": "Có cần đũa không?",
             "sentence_zh_tw": "需要筷子嗎？",
-            "sentence_pinyin": "Xūyào kuàizi ma?"
+            "sentence_pinyin": "Xūyào kuàizi ma?",
+            "sentence_vi_approx_annotated": "ha | xi（wa）i | ri | ma | sư | ka？"
           },
           {
             "pair_id": "L4-4-P03",
@@ -8431,7 +8633,8 @@
             "sentence_vi_approx_mora": "sư | pư | ư | n, i | ri | ma | sư | ka?",
             "sentence_vi": "Có cần thìa/muỗng không?",
             "sentence_zh_tw": "需要湯匙嗎？",
-            "sentence_pinyin": "Xūyào tāngchí ma?"
+            "sentence_pinyin": "Xūyào tāngchí ma?",
+            "sentence_vi_approx_annotated": "sư | pư | ư | n（wa）i | ri | ma | sư | ka？"
           },
           {
             "pair_id": "L4-4-P04",
@@ -8452,7 +8655,8 @@
             "sentence_vi_approx_mora": "tê | n | na | i | dê | sư | ka?",
             "sentence_vi": "Dùng tại chỗ ạ?",
             "sentence_zh_tw": "內用嗎？",
-            "sentence_pinyin": "Nèiyòng ma?"
+            "sentence_pinyin": "Nèiyòng ma?",
+            "sentence_vi_approx_annotated": "tê | n | na | i | dê | sư | ka？"
           },
           {
             "pair_id": "L4-4-P05",
@@ -8473,7 +8677,8 @@
             "sentence_vi_approx_mora": "mô | chi | ka | ê | ri | dê | sư | ka?",
             "sentence_vi": "Mang đi à?",
             "sentence_zh_tw": "外帶嗎？",
-            "sentence_pinyin": "Wàidài ma?"
+            "sentence_pinyin": "Wàidài ma?",
+            "sentence_vi_approx_annotated": "mô | chi | ka | ê | ri | dê | sư | ka？"
           }
         ],
         "usage": {
@@ -8597,7 +8802,8 @@
             "sentence_vi_approx_mora": "kô | nô | sa | i | zư, a | ri | ma | sư | ka?",
             "sentence_vi": "Có kích cỡ này không?",
             "sentence_zh_tw": "有這個尺寸嗎？",
-            "sentence_pinyin": "Yǒu zhège chǐcùn ma?"
+            "sentence_pinyin": "Yǒu zhège chǐcùn ma?",
+            "sentence_vi_approx_annotated": "kô | nô | sa | i | zư（wa）a | ri | ma | sư | ka？"
           },
           {
             "pair_id": "L4-5-P02",
@@ -8618,7 +8824,8 @@
             "sentence_vi_approx_mora": "kô | nô | i | rô, a | ri | ma | sư | ka?",
             "sentence_vi": "Có màu này không?",
             "sentence_zh_tw": "有這個顏色嗎？",
-            "sentence_pinyin": "Yǒu zhège yánsè ma?"
+            "sentence_pinyin": "Yǒu zhège yánsè ma?",
+            "sentence_vi_approx_annotated": "kô | nô | i | rô（wa）a | ri | ma | sư | ka？"
           },
           {
             "pair_id": "L4-5-P03",
@@ -8639,7 +8846,8 @@
             "sentence_vi_approx_mora": "xi | cha | kư | xi | tê | i | i | dê | sư | ka?",
             "sentence_vi": "Có thể thử đồ không?",
             "sentence_zh_tw": "可以試穿嗎？",
-            "sentence_pinyin": "Kěyǐ shìchuān ma?"
+            "sentence_pinyin": "Kěyǐ shìchuān ma?",
+            "sentence_vi_approx_annotated": "xi | cha | kư | xi | tê（mô）i | i | dê | sư | ka？"
           },
           {
             "pair_id": "L4-5-P04",
@@ -8660,7 +8868,8 @@
             "sentence_vi_approx_mora": "za | i | kô, a | ri | ma | sư | ka?",
             "sentence_vi": "Còn hàng không?",
             "sentence_zh_tw": "還有庫存嗎？",
-            "sentence_pinyin": "Hái yǒu kùcún ma?"
+            "sentence_pinyin": "Hái yǒu kùcún ma?",
+            "sentence_vi_approx_annotated": "za | i | kô（wa）a | ri | ma | sư | ka？"
           },
           {
             "pair_id": "L4-5-P05",
@@ -8681,7 +8890,8 @@
             "sentence_vi_approx_mora": "kô | ô | ka | n | dê | ki | ma | sư | ka?",
             "sentence_vi": "Có đổi hàng được không?",
             "sentence_zh_tw": "可以換貨嗎？",
-            "sentence_pinyin": "Kěyǐ huànhuò ma?"
+            "sentence_pinyin": "Kěyǐ huànhuò ma?",
+            "sentence_vi_approx_annotated": "kô | ô | ka | n | dê | ki | ma | sư | ka？"
           }
         ],
         "usage": {
@@ -8805,7 +9015,8 @@
             "sentence_vi_approx_mora": "kô | rê, mô | ô | hi | tô | tsư | kư | da | sa | i",
             "sentence_vi": "Cho tôi thêm một cái này nữa.",
             "sentence_zh_tw": "這個再一個。",
-            "sentence_pinyin": "Zhège zài yí ge."
+            "sentence_pinyin": "Zhège zài yí ge.",
+            "sentence_vi_approx_annotated": "kô | rê（ô）mô | ô | hi | tô | tsư | kư | da | sa | i。"
           },
           {
             "pair_id": "L4-6-P02",
@@ -8826,7 +9037,8 @@
             "sentence_vi_approx_mora": "kô | rê, na | xi | dê | ô | nê | ga | i | xi | ma | sư",
             "sentence_vi": "Bỏ cái này giúp tôi nhé.",
             "sentence_zh_tw": "這個不要，麻煩了。",
-            "sentence_pinyin": "Zhège bùyào, máfan le."
+            "sentence_pinyin": "Zhège bùyào, máfan le.",
+            "sentence_vi_approx_annotated": "kô | rê（wa）na | xi | dê | ô | nê | ga | i | xi | ma | sư。"
           },
           {
             "pair_id": "L4-6-P03",
@@ -8847,7 +9059,8 @@
             "sentence_vi_approx_mora": "gô | ha | n, sư | kư | na | mê | dê | ô | nê | ga | i | xi | ma | sư",
             "sentence_vi": "Cho ít cơm hơn một chút nhé.",
             "sentence_zh_tw": "飯少一點，麻煩了。",
-            "sentence_pinyin": "Fàn shǎo yìdiǎn, máfan le."
+            "sentence_pinyin": "Fàn shǎo yìdiǎn, máfan le.",
+            "sentence_vi_approx_annotated": "gô | ha | n（wa）sư | kư | na | mê | dê | ô | nê | ga | i | xi | ma | sư。"
           },
           {
             "pair_id": "L4-6-P04",
@@ -8868,7 +9081,8 @@
             "sentence_vi_approx_mora": "ka | i | kê | i, bê | tsư | bê | tsư | dê | ô | nê | ga | i | xi | ma | sư",
             "sentence_vi": "Tính riêng giúp tôi.",
             "sentence_zh_tw": "請分開結帳。",
-            "sentence_pinyin": "Qǐng fēnkāi jiézhàng."
+            "sentence_pinyin": "Qǐng fēnkāi jiézhàng.",
+            "sentence_vi_approx_annotated": "ka | i | kê | i（wa）bê | tsư | bê | tsư | dê | ô | nê | ga | i | xi | ma | sư。"
           },
           {
             "pair_id": "L4-6-P05",
@@ -8889,7 +9103,8 @@
             "sentence_vi_approx_mora": "kô | rê, tsư | i | ka | dê | ki | ma | sư | ka?",
             "sentence_vi": "Có thể gọi thêm cái này không?",
             "sentence_zh_tw": "這個可以加點嗎？",
-            "sentence_pinyin": "Zhège kěyǐ jiādiǎn ma?"
+            "sentence_pinyin": "Zhège kěyǐ jiādiǎn ma?",
+            "sentence_vi_approx_annotated": "kô | rê（ô）tsư | i | ka | dê | ki | ma | sư | ka？"
           }
         ],
         "usage": {
@@ -9024,7 +9239,8 @@
             "sentence_vi_approx_mora": "hô | n | tô | ô?",
             "sentence_vi": "Thật à?",
             "sentence_zh_tw": "真的嗎？",
-            "sentence_pinyin": "Zhēn de ma?"
+            "sentence_pinyin": "Zhēn de ma?",
+            "sentence_vi_approx_annotated": "hô | n | tô | ô？"
           },
           {
             "pair_id": "L5-1-P02",
@@ -9045,7 +9261,8 @@
             "sentence_vi_approx_mora": "chô | ● | tô | ma | ● | tê",
             "sentence_vi": "Chờ chút.",
             "sentence_zh_tw": "等一下。",
-            "sentence_pinyin": "Děng yíxià."
+            "sentence_pinyin": "Děng yíxià.",
+            "sentence_vi_approx_annotated": "chô | ● | tô | ma | ● | tê（kư | da | sa | i）。"
           },
           {
             "pair_id": "L5-1-P03",
@@ -9066,7 +9283,8 @@
             "sentence_vi_approx_mora": "mô | ô | ta | bê | ta?",
             "sentence_vi": "Ăn rồi à?",
             "sentence_zh_tw": "你已經吃了嗎？",
-            "sentence_pinyin": "Nǐ yǐjīng chī le ma?"
+            "sentence_pinyin": "Nǐ yǐjīng chī le ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）mô | ô（gô | ha | n | ô）ta | bê | ta？"
           },
           {
             "pair_id": "L5-1-P04",
@@ -9087,7 +9305,8 @@
             "sentence_vi_approx_mora": "ma | da",
             "sentence_vi": "Chưa.",
             "sentence_zh_tw": "還沒。",
-            "sentence_pinyin": "Hái méi."
+            "sentence_pinyin": "Hái méi.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）ma | da（ta | bê | tê | i | na | i）。"
           },
           {
             "pair_id": "L5-1-P05",
@@ -9108,7 +9327,8 @@
             "sentence_vi_approx_mora": "i | ● | xô | ni | i | kô | ô",
             "sentence_vi": "Đi cùng nhé.",
             "sentence_zh_tw": "一起去吧。",
-            "sentence_pinyin": "Yìqǐ qù ba."
+            "sentence_pinyin": "Yìqǐ qù ba.",
+            "sentence_vi_approx_annotated": "i | ● | xô | ni | i | kô | ô"
           }
         ],
         "usage": {
@@ -9232,7 +9452,8 @@
             "sentence_vi_approx_mora": "kyô | ô, hi | ma?",
             "sentence_vi": "Hôm nay rảnh không?",
             "sentence_zh_tw": "今天有空嗎？",
-            "sentence_pinyin": "Jīntiān yǒu kòng ma?"
+            "sentence_pinyin": "Jīntiān yǒu kòng ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）kyô | ô、hi | ma？"
           },
           {
             "pair_id": "L5-2-P02",
@@ -9253,7 +9474,8 @@
             "sentence_vi_approx_mora": "kyô | ô | wa | ya | kư | sô | kư | a | rư",
             "sentence_vi": "Hôm nay có hẹn.",
             "sentence_zh_tw": "今天有約。",
-            "sentence_pinyin": "Jīntiān yǒu yuē."
+            "sentence_pinyin": "Jīntiān yǒu yuē.",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）ya | kư | sô | kư（ga）a | rư。"
           },
           {
             "pair_id": "L5-2-P03",
@@ -9274,7 +9496,8 @@
             "sentence_vi_approx_mora": "kyô | ô | wa | yô | ô | ji | a | rư",
             "sentence_vi": "Hôm nay có việc.",
             "sentence_zh_tw": "今天有事。",
-            "sentence_pinyin": "Jīntiān yǒu shì."
+            "sentence_pinyin": "Jīntiān yǒu shì.",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）yô | ô | ji（ga）a | rư。"
           },
           {
             "pair_id": "L5-2-P04",
@@ -9295,7 +9518,8 @@
             "sentence_vi_approx_mora": "kô | n | đô, i | ● | xô | ni | i | ka | na | i?",
             "sentence_vi": "Lần sau đi cùng không?",
             "sentence_zh_tw": "下次一起去嗎？",
-            "sentence_pinyin": "Xiàcì yìqǐ qù ma?"
+            "sentence_pinyin": "Xiàcì yìqǐ qù ma?",
+            "sentence_vi_approx_annotated": "kô | n | đô、 i | ● | xô | ni | i | ka | na | i？"
           },
           {
             "pair_id": "L5-2-P05",
@@ -9316,7 +9540,8 @@
             "sentence_vi_approx_mora": "ma | ta | rê | n | ra | kư | sư | rư",
             "sentence_vi": "Mình sẽ liên lạc lại.",
             "sentence_zh_tw": "我再聯絡你。",
-            "sentence_pinyin": "Wǒ zài liánluò nǐ."
+            "sentence_pinyin": "Wǒ zài liánluò nǐ.",
+            "sentence_vi_approx_annotated": "（wa | ta | xi | wa）ma | ta | rê | n | ra | kư（ô）sư | rư。"
           }
         ],
         "usage": {
@@ -9440,7 +9665,8 @@
             "sentence_vi_approx_mora": "sô | ô | na | n | da",
             "sentence_vi": "Ra là vậy.",
             "sentence_zh_tw": "原來是這樣。",
-            "sentence_pinyin": "Yuánlái shì zhèyàng."
+            "sentence_pinyin": "Yuánlái shì zhèyàng.",
+            "sentence_vi_approx_annotated": "sô | ô（na）nô（da）。"
           },
           {
             "pair_id": "L5-3-P02",
@@ -9461,7 +9687,8 @@
             "sentence_vi_approx_mora": "na | rư | hô | dô",
             "sentence_vi": "Ra là vậy / hiểu rồi.",
             "sentence_zh_tw": "原來如此。",
-            "sentence_pinyin": "Yuánlái rúcǐ."
+            "sentence_pinyin": "Yuánlái rúcǐ.",
+            "sentence_vi_approx_annotated": "na | rư | hô | dô"
           },
           {
             "pair_id": "L5-3-P03",
@@ -9482,7 +9709,8 @@
             "sentence_vi_approx_mora": "ta | bư | n | da | i | jô | ô | bư",
             "sentence_vi": "Chắc là ổn.",
             "sentence_zh_tw": "應該沒問題。",
-            "sentence_pinyin": "Yīnggāi méi wèntí."
+            "sentence_pinyin": "Yīnggāi méi wèntí.",
+            "sentence_vi_approx_annotated": "（sô | rê | wa）ta | bư | n | da | i | jô | ô | bư。"
           },
           {
             "pair_id": "L5-3-P04",
@@ -9503,7 +9731,8 @@
             "sentence_vi_approx_mora": "ta | xi | ka | ni",
             "sentence_vi": "Đúng thật.",
             "sentence_zh_tw": "確實。",
-            "sentence_pinyin": "Quèshí."
+            "sentence_pinyin": "Quèshí.",
+            "sentence_vi_approx_annotated": "（sô | rê | wa）ta | xi | ka | ni（sô | ô | da）。"
           },
           {
             "pair_id": "L5-3-P05",
@@ -9524,7 +9753,8 @@
             "sentence_vi_approx_mora": "sô | rê, sư | gô | i | nê",
             "sentence_vi": "Cái đó ghê thật / hay đấy.",
             "sentence_zh_tw": "那個很厲害耶。",
-            "sentence_pinyin": "Nàge hěn lìhai ye."
+            "sentence_pinyin": "Nàge hěn lìhai ye.",
+            "sentence_vi_approx_annotated": "sô | rê（wa）sư | gô | i | nê。"
           }
         ],
         "usage": {
@@ -9659,7 +9889,8 @@
             "sentence_vi_approx_mora": "na | n | dê | ô | kư | rê | rư?",
             "sentence_vi": "Sao lại đến muộn?",
             "sentence_zh_tw": "為什麼會遲到？",
-            "sentence_pinyin": "Wèishénme huì chídào?"
+            "sentence_pinyin": "Wèishénme huì chídào?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）na | n | dê | ô | kư | rê | rư？"
           },
           {
             "pair_id": "L6-1-P02",
@@ -9680,7 +9911,8 @@
             "sentence_vi_approx_mora": "dê | n | xa, ô | kư | rê | tê | rư | ka | ra",
             "sentence_vi": "Vì tàu đang trễ.",
             "sentence_zh_tw": "因為電車晚點。",
-            "sentence_pinyin": "Yīnwèi diànchē wǎndiǎn."
+            "sentence_pinyin": "Yīnwèi diànchē wǎndiǎn.",
+            "sentence_vi_approx_annotated": "dê | n | xa（ga）ô | kư | rê | tê | i | rư | ka | ra。"
           },
           {
             "pair_id": "L6-1-P03",
@@ -9701,7 +9933,8 @@
             "sentence_vi_approx_mora": "tsư | ka | rê | ta?",
             "sentence_vi": "Mệt à?",
             "sentence_zh_tw": "累了嗎？",
-            "sentence_pinyin": "Lèi le ma?"
+            "sentence_pinyin": "Lèi le ma?",
+            "sentence_vi_approx_annotated": "（a | na | ta | wa）tsư | ka | rê | ta？"
           },
           {
             "pair_id": "L6-1-P04",
@@ -9722,7 +9955,8 @@
             "sentence_vi_approx_mora": "ư | n. dê | mô | da | i | jô | ô | bư",
             "sentence_vi": "Ừ. Nhưng vẫn ổn.",
             "sentence_zh_tw": "嗯。不過沒問題。",
-            "sentence_pinyin": "Ń. Búguò méi wèntí."
+            "sentence_pinyin": "Ń. Búguò méi wèntí.",
+            "sentence_vi_approx_annotated": "ư | n。dê | mô（wa | ta | xi | wa）da | i | jô | ô | bư。"
           },
           {
             "pair_id": "L6-1-P05",
@@ -9743,7 +9977,8 @@
             "sentence_vi_approx_mora": "kyô | ô | wa | mư | ri. yô | ô | ji | a | rư | ka | ra",
             "sentence_vi": "Hôm nay không được. Vì có việc.",
             "sentence_zh_tw": "今天不行，因為有事。",
-            "sentence_pinyin": "Jīntiān bùxíng, yīnwèi yǒu shì."
+            "sentence_pinyin": "Jīntiān bùxíng, yīnwèi yǒu shì.",
+            "sentence_vi_approx_annotated": "kyô | ô（wa）mư | ri。yô | ô | ji（ga）a | rư | ka | ra。"
           }
         ],
         "usage": {
@@ -9867,7 +10102,8 @@
             "sentence_vi_approx_mora": "ni | hô | n, i | ● | ta | kô | tô | a | rư?",
             "sentence_vi": "Đã từng đi Nhật chưa?",
             "sentence_zh_tw": "去過日本嗎？",
-            "sentence_pinyin": "Qùguo Rìběn ma?"
+            "sentence_pinyin": "Qùguo Rìběn ma?",
+            "sentence_vi_approx_annotated": "ni | hô | n（ni）i | ● | ta | kô | tô（ga）a | rư？"
           },
           {
             "pair_id": "L6-2-P02",
@@ -9888,7 +10124,8 @@
             "sentence_vi_approx_mora": "ư | n, i | ● | ka | i | a | rư",
             "sentence_vi": "Ừ, một lần.",
             "sentence_zh_tw": "嗯，有一次。",
-            "sentence_pinyin": "Ń, yǒu yí cì."
+            "sentence_pinyin": "Ń, yǒu yí cì.",
+            "sentence_vi_approx_annotated": "ư | n、i | ● | ka | i（i | ● | ta | kô | tô | ga）a | rư。"
           },
           {
             "pair_id": "L6-2-P03",
@@ -9909,7 +10146,8 @@
             "sentence_vi_approx_mora": "kô | nô | mi | sê, ki | ta | kô | tô | a | rư?",
             "sentence_vi": "Đã từng đến quán này chưa?",
             "sentence_zh_tw": "來過這家店嗎？",
-            "sentence_pinyin": "Láiguo zhè jiā diàn ma?"
+            "sentence_pinyin": "Láiguo zhè jiā diàn ma?",
+            "sentence_vi_approx_annotated": "kô | nô | mi | sê（ni）ki | ta | kô | tô（ga）a | rư？"
           },
           {
             "pair_id": "L6-2-P04",
@@ -9930,7 +10168,8 @@
             "sentence_vi_approx_mora": "i | i | ê, na | i",
             "sentence_vi": "Không, chưa.",
             "sentence_zh_tw": "沒有。",
-            "sentence_pinyin": "Méiyǒu."
+            "sentence_pinyin": "Méiyǒu.",
+            "sentence_vi_approx_annotated": "i | i | ê、（ki | ta | kô | tô | ga）na | i。"
           },
           {
             "pair_id": "L6-2-P05",
@@ -9951,7 +10190,8 @@
             "sentence_vi_approx_mora": "ma | ê | ni | i | ● | ka | i | ki | ta",
             "sentence_vi": "Trước đây đã đến một lần.",
             "sentence_zh_tw": "以前來過一次。",
-            "sentence_pinyin": "Yǐqián láiguo yí cì."
+            "sentence_pinyin": "Yǐqián láiguo yí cì.",
+            "sentence_vi_approx_annotated": "ma | ê | ni | i | ● | ka | i | ki | ta"
           }
         ],
         "usage": {
@@ -10075,7 +10315,8 @@
             "sentence_vi_approx_mora": "pa | n | tô | gô | ha | n, dô | ● | chi | ga | sư | ki?",
             "sentence_vi": "Bánh mì và cơm, thích cái nào?",
             "sentence_zh_tw": "麵包和飯，喜歡哪個？",
-            "sentence_pinyin": "Miànbāo hé fàn, xǐhuān nǎge?"
+            "sentence_pinyin": "Miànbāo hé fàn, xǐhuān nǎge?",
+            "sentence_vi_approx_annotated": "pa | n | tô | gô | ha | n（dê | wa）、dô | ● | chi | ga | sư | ki？"
           },
           {
             "pair_id": "L6-3-P02",
@@ -10096,7 +10337,8 @@
             "sentence_vi_approx_mora": "gô | ha | n | nô | hô | ô | ga | sư | ki",
             "sentence_vi": "Mình thích cơm hơn.",
             "sentence_zh_tw": "比較喜歡飯。",
-            "sentence_pinyin": "Bǐjiào xǐhuān fàn."
+            "sentence_pinyin": "Bǐjiào xǐhuān fàn.",
+            "sentence_vi_approx_annotated": "gô | ha | n | nô | hô | ô | ga | sư | ki"
           },
           {
             "pair_id": "L6-3-P03",
@@ -10117,7 +10359,8 @@
             "sentence_vi_approx_mora": "dê | n | xa | tô | ba | sư, dô | ● | chi | ga | ha | ya | i?",
             "sentence_vi": "Tàu và xe buýt, cái nào nhanh hơn?",
             "sentence_zh_tw": "電車和公車，哪個比較快？",
-            "sentence_pinyin": "Diànchē hé gōngchē, nǎge bǐjiào kuài?"
+            "sentence_pinyin": "Diànchē hé gōngchē, nǎge bǐjiào kuài?",
+            "sentence_vi_approx_annotated": "dê | n | xa | tô | ba | sư（dê | wa）、dô | ● | chi | ga | ha | ya | i？"
           },
           {
             "pair_id": "L6-3-P04",
@@ -10138,7 +10381,8 @@
             "sentence_vi_approx_mora": "dê | n | xa | nô | hô | ô | ga | ha | ya | i",
             "sentence_vi": "Tàu nhanh hơn.",
             "sentence_zh_tw": "電車比較快。",
-            "sentence_pinyin": "Diànchē bǐjiào kuài."
+            "sentence_pinyin": "Diànchē bǐjiào kuài.",
+            "sentence_vi_approx_annotated": "dê | n | xa | nô | hô | ô | ga | ha | ya | i"
           },
           {
             "pair_id": "L6-3-P05",
@@ -10159,7 +10403,8 @@
             "sentence_vi_approx_mora": "kô | rê | wa | sô | rê | yô | ri | ya | sư | i",
             "sentence_vi": "Cái này rẻ hơn cái đó.",
             "sentence_zh_tw": "這個比那個便宜。",
-            "sentence_pinyin": "Zhège bǐ nàge piányí."
+            "sentence_pinyin": "Zhège bǐ nàge piányí.",
+            "sentence_vi_approx_annotated": "kô | rê | wa | sô | rê | yô | ri | ya | sư | i"
           }
         ],
         "usage": {
@@ -10283,7 +10528,8 @@
             "sentence_vi_approx_mora": "a | xi | ta, dô | ô | sư | rư?",
             "sentence_vi": "Ngày mai làm gì?",
             "sentence_zh_tw": "明天怎麼安排？",
-            "sentence_pinyin": "Míngtiān zěnme ānpái?"
+            "sentence_pinyin": "Míngtiān zěnme ānpái?",
+            "sentence_vi_approx_annotated": "a | xi | ta（wa）dô | ô | sư | rư？"
           },
           {
             "pair_id": "L6-4-P02",
@@ -10304,7 +10550,8 @@
             "sentence_vi_approx_mora": "ma | zư | ga | ● | kô | ô | i | kư",
             "sentence_vi": "Trước hết đi học.",
             "sentence_zh_tw": "先去學校。",
-            "sentence_pinyin": "Xiān qù xuéxiào."
+            "sentence_pinyin": "Xiān qù xuéxiào.",
+            "sentence_vi_approx_annotated": "ma | zư | ga | ● | kô | ô（ni）i | kư。"
           },
           {
             "pair_id": "L6-4-P03",
@@ -10325,7 +10572,8 @@
             "sentence_vi_approx_mora": "sô | rê | ka | ra | tô | mô | da | chi | tô | gô | ha | n | ta | bê | rư",
             "sentence_vi": "Sau đó ăn cơm với bạn.",
             "sentence_zh_tw": "然後和朋友吃飯。",
-            "sentence_pinyin": "Ránhòu hé péngyǒu chīfàn."
+            "sentence_pinyin": "Ránhòu hé péngyǒu chīfàn.",
+            "sentence_vi_approx_annotated": "sô | rê | ka | ra | tô | mô | da | chi | tô | gô | ha | n（ô）ta | bê | rư。"
           },
           {
             "pair_id": "L6-4-P04",
@@ -10346,7 +10594,8 @@
             "sentence_vi_approx_mora": "sa | n | ji | ni | jư | gyô | ô | ô | wa | rư. sô | rê | ka | ra | ka | ê | rư",
             "sentence_vi": "3 giờ học xong, sau đó về.",
             "sentence_zh_tw": "三點下課，然後回去。",
-            "sentence_pinyin": "Sān diǎn xiàkè, ránhòu huíqù."
+            "sentence_pinyin": "Sān diǎn xiàkè, ránhòu huíqù.",
+            "sentence_vi_approx_annotated": "sa | n | ji | ni | jư | gyô | ô（ga）ô | wa | rư。sô | rê | ka | ra | ka | ê | rư。"
           },
           {
             "pair_id": "L6-4-P05",
@@ -10367,7 +10616,8 @@
             "sentence_vi_approx_mora": "a | sa | wa | ga | ● | kô | ô. yô | rư | wa | tô | mô | da | chi | tô | a | ư",
             "sentence_vi": "Buổi sáng ở trường. Buổi tối gặp bạn.",
             "sentence_zh_tw": "早上在學校，晚上和朋友見面。",
-            "sentence_pinyin": "Zǎoshang zài xuéxiào, wǎnshang hé péngyǒu jiànmiàn."
+            "sentence_pinyin": "Zǎoshang zài xuéxiào, wǎnshang hé péngyǒu jiànmiàn.",
+            "sentence_vi_approx_annotated": "a | sa | wa | ga | ● | kô | ô。 yô | rư | wa | tô | mô | da | chi | tô | a | ư"
           }
         ],
         "usage": {
@@ -10491,7 +10741,8 @@
             "sentence_vi_approx_mora": "ê | i | ga, dô | ô | da | ● | ta?",
             "sentence_vi": "Phim thế nào?",
             "sentence_zh_tw": "電影怎麼樣？",
-            "sentence_pinyin": "Diànyǐng zěnmeyàng?"
+            "sentence_pinyin": "Diànyǐng zěnmeyàng?",
+            "sentence_vi_approx_annotated": "ê | i | ga（wa）dô | ô | da | ● | ta？"
           },
           {
             "pair_id": "L6-5-P02",
@@ -10512,7 +10763,8 @@
             "sentence_vi_approx_mora": "ta | nô | xi | ka | ● | ta. ô | mô | xi | rô | ka | ● | ta",
             "sentence_vi": "Vui. Cũng thú vị.",
             "sentence_zh_tw": "很開心，也很有趣。",
-            "sentence_pinyin": "Hěn kāixīn, yě hěn yǒuqù."
+            "sentence_pinyin": "Hěn kāixīn, yě hěn yǒuqù.",
+            "sentence_vi_approx_annotated": "ta | nô | xi | ka | ● | ta。 ô | mô | xi | rô | ka | ● | ta"
           },
           {
             "pair_id": "L6-5-P03",
@@ -10533,7 +10785,8 @@
             "sentence_vi_approx_mora": "ga | ● | kô | ô, dô | ô | da | ● | ta?",
             "sentence_vi": "Ở trường thế nào?",
             "sentence_zh_tw": "學校怎麼樣？",
-            "sentence_pinyin": "Xuéxiào zěnmeyàng?"
+            "sentence_pinyin": "Xuéxiào zěnmeyàng?",
+            "sentence_vi_approx_annotated": "ga | ● | kô | ô（wa）dô | ô | da | ● | ta？"
           },
           {
             "pair_id": "L6-5-P04",
@@ -10554,7 +10807,8 @@
             "sentence_vi_approx_mora": "tsư | ka | rê | ta. dê | mô | ta | nô | xi | ka | ● | ta",
             "sentence_vi": "Mệt. Nhưng vui.",
             "sentence_zh_tw": "累了，不過很開心。",
-            "sentence_pinyin": "Lèi le, búguò hěn kāixīn."
+            "sentence_pinyin": "Lèi le, búguò hěn kāixīn.",
+            "sentence_vi_approx_annotated": "tsư | ka | rê | ta。 dê | mô | ta | nô | xi | ka | ● | ta"
           },
           {
             "pair_id": "L6-5-P05",
@@ -10575,7 +10829,8 @@
             "sentence_vi_approx_mora": "sô | rê | dê?",
             "sentence_vi": "Rồi sao?",
             "sentence_zh_tw": "然後呢？",
-            "sentence_pinyin": "Ránhòu ne?"
+            "sentence_pinyin": "Ránhòu ne?",
+            "sentence_vi_approx_annotated": "sô | rê | dê？"
           }
         ],
         "usage": {

@@ -1,10 +1,11 @@
-const CACHE = "akigusa-school-v14";
-const LIVE_DATA = new Set(["learning.json", "content-library.json", "scenic.json"]);
+const CACHE = "akigusa-school-v19";
+const LIVE_DATA = new Set(["learning.json", "content-library.json", "scenic.json", "quick-words.json", "praise.json"]);
 const CORE = [
-  "./", "manifest.webmanifest", "learning.json", "content-library.json", "scenic.json",
+  "./", "manifest.webmanifest", "learning.json", "content-library.json", "scenic.json", "quick-words.json", "praise.json",
   "aki-hero.webp", "aki-hero-sunflower.webp", "aki-hero-sakura.webp",
   "aki-hero-hydrangea.webp", "aki-hero-cosmos.webp",
   "aki-hero-camellia-red-panda.webp", "panda-study-flowers.webp",
+  "aki-hero-fuji-travel.webp",
   "rabbit-kana-practice.webp", "fluffy-alpaca-level.webp",
   "red-panda-review-flower.webp", "sea-otter-radio.webp",
   "owl-listening.webp", "squirrel-flower-rewards.webp",
