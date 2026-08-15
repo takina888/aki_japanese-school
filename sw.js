@@ -1,7 +1,7 @@
-const RELEASE = "V014";
+const RELEASE = "V015";
 const CACHE_PREFIXES = ["akigusa-school-", "akigusa-school:"];
-const CACHE = "akigusa-school-v20";
-const PREVIOUS_CACHE = "akigusa-school-v19";
+const CACHE = "akigusa-school-v21";
+const PREVIOUS_CACHE = "akigusa-school-v20";
 const RETAINED_CACHES = new Set([CACHE, PREVIOUS_CACHE]);
 
 const LIVE_DATA = new Set([
@@ -18,7 +18,7 @@ const LIVE_DATA = new Set([
 // The flat GitHub Pages builder replaces this marker with the content-hashed
 // JavaScript and CSS filenames emitted by Vite. Their immutable names make a
 // cache-first strategy safe without allowing an old HTML document to linger.
-const GENERATED_SHELL = ["framework-CXnKph_e.js", "index-HvHylJgX.css", "index-_MRO4G0n.js", "layout-segment-context-BqFLGuJX.js", "page-BbT0oFwj.js", "page-b8jrE69Y.css", "rolldown-runtime-S-ySWqyJ.js"];
+const GENERATED_SHELL = ["framework-CXnKph_e.js", "index-CclfYWuZ.css", "index-CrSEnUKH.js", "layout-segment-context-CYo6tYD1.js", "page-BZpJIqrL.css", "page-BpU9oKGt.js", "rolldown-runtime-S-ySWqyJ.js"];
 const GENERATED_SHELL_FILES = new Set(GENERATED_SHELL);
 
 const CORE = [
@@ -26,7 +26,8 @@ const CORE = [
   "quick-words.json", "praise.json", "life-advice.json", "release.json",
   "aki-hero.webp", "aki-hero-sunflower.webp", "aki-hero-sakura.webp",
   "aki-hero-hydrangea.webp", "aki-hero-cosmos.webp",
-  "aki-hero-camellia-red-panda.webp", "panda-study-flowers.webp",
+  "aki-hero-camellia-red-panda.webp", "aki-hero-camellia-red-panda-mobile.webp",
+  "panda-study-flowers.webp",
   "aki-hero-fuji-travel.webp",
   "rabbit-kana-practice.webp", "fluffy-alpaca-level.webp",
   "red-panda-review-flower.webp", "sea-otter-radio.webp",
