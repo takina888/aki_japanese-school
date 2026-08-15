@@ -1,43 +1,47 @@
-秋草の日本語学校 V013 — V011完全上書き用
+秋草の日本語学校 V014 — GitHub Pages完全上書き用
 Build date: 2026-08-15
-Source commit: fce4ced50b7b2dd96d46f65ce2fb5b845da464c5
+Source base commit: fce4ced50b7b2dd96d46f65ce2fb5b845da464c5
+Source snapshot manifest SHA-256: 1f3b896ae60789545663dbe677b2f970cf8ef4d65678732b291c4ae558b697dc
 
 このZIPは差分ではなく、GitHub Pages公開物の完全セットです。
-V011が置かれているリポジトリへ、そのまま上書きできます。
+既存の公開リポジトリへ、中身をすべて完全上書きしてください。
 
 アップロード方法
-1. ZIPを展開します。
-2. 展開後に見える58ファイルをすべて選択します。
+1. このZIPを展開します。
+2. 展開後に見える66ファイルをすべて選択します。
 3. GitHubの aki_japanese-school リポジトリの main ブランチ直下へアップロードします。
 4. 同名ファイルの置換確認が出たら、すべて上書きします。
-5. ZIPや展開フォルダそのものは入れず、58ファイルをリポジトリのルートへ置きます。
+5. ZIPや展開フォルダそのものは入れず、66ファイルそのものをリポジトリのルートへ置きます。
 6. GitHub PagesのSourceは main / (root) のままにします。
 
-旧版のハッシュ付きJS/CSSが残ってもV013からは参照されません。整理したい場合だけ、旧版の
+古いハッシュ付きJS/CSSが残ってもV014からは参照されません。整理したい場合だけ、旧版の
 index-*.js、page-*.js、index-*.css、page-*.css等を削除してから、この完全セットを入れてください。
 
-V013の主な更新
-- STEP 0を150語・15場面×10語へ拡張。単語121件、固定フレーズ29件。
-- 「おなかすいた」など、文法より先に一まとまりで覚える表現を初期教材へ追加。
-- 省略復元のある211文すべてで、VI近似にも同位置の全角括弧で省略音を表示。
-  例：中国（に）行く？ → chư・ư・gô・kư（ni）i・kư？
-- かな1文字と単語単独のブラウザTTSは使用せず、文脈のある文章だけを補助音声に使用。
-- メインイラストを曜日別7種類へ変更。日曜は富士山・列車・白猫と黒猫の日本旅行画。
-- 既存120＋新規140＝260候補の応援コメントを学習場面に合わせて表示。
-- 日本の風景は1日1か所・5枚、過去10日、日・繁中・VIの説明を維持。
-- Jazzを含む7局、右端の開閉ハンドル、専用ラジオページを維持。
-- Service Workerをv19へ更新し、起動時に教材・風景・応援データの新版を確認。
+V014の主な更新
+- STEP 0を190件・19カテゴリへ拡張し、色、数量、1〜10、方向・場所を追加。
+- 生活漢字300件・15カテゴリを、かな、Romaji、VI語義・補足付きで追加。
+- 現地時刻に合う挨拶、土日の言葉、50件の生活ヒントを追加。
+- 任意操作の現在地天気に、現在・今日・明日のJA＋VI＋繁中表示を追加。位置情報は保存しません。
+- 主要な学習・進捗・風景・ラジオ操作のVI補助とスマートフォン配置を改善。
+- release情報、復旧ページ、Service Worker akigusa-school-v20で旧キャッシュからの更新を強化。
 
 検証結果
-- 公開アプリ本体: 56ファイル
-- README・SHA一覧込み: 58ファイル
+- 公開アプリ本体: 64ファイル
+- README・SHA一覧込み: 66/100ファイル
 - サブフォルダ: 0
 - 非ASCIIファイル名: 0
-- 1フォルダ当たり: 58/100以下
-- 自動テスト: 23/23合格
-- 教材内容検査・本番ビルド・静的公開変換: 合格
-- ESLint: エラー0、既知の画像最適化警告30
+- シンボリックリンク: 0
+- 自動テスト: 41/41合格
+- ESLint: エラー0、警告30
+- 教材内容検査・本番ビルド・静的公開変換・内部SHA・ZIP CRC: 合格
+
+主なファイル
+- index.html / index-*.css / page-*.css / index-*.js / page-*.js / framework-*.js
+- quick-words.json / life-kanji.json / life-advice.json
+- learning.json / content-library.json / scenic.json / praise.json
+- stroke-order-hiragana.json / stroke-order-katakana.json / stroke-order-license.txt
+- release.json / reset.html / sw.js / manifest.webmanifest / .nojekyll
+- UPLOAD_README.txt / SHA256SUMS.txt
 
 公開後の確認URL
-https://takina888.github.io/aki_japanese-school/?v=V013
-
+https://takina888.github.io/aki_japanese-school/?v=V014

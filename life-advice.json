@@ -1,0 +1,456 @@
+{
+  "version": "V014",
+  "count": 50,
+  "items": [
+    {
+      "id": "LA-001",
+      "ja_title": "小さく始める",
+      "ja_body": "最初の一歩は、30秒だけでも十分です。",
+      "vi_title": "Bắt đầu thật nhỏ",
+      "vi_body": "Bước đầu tiên chỉ cần 30 giây cũng đã đủ rồi.",
+      "zh_tw_title": "從小開始",
+      "zh_tw_body": "第一步就算只有30秒，也很夠了。"
+    },
+    {
+      "id": "LA-002",
+      "ja_title": "ひとつを喜ぶ",
+      "ja_body": "今日は「ひとつできた」を大切にしてみませんか。",
+      "vi_title": "Vui với một việc",
+      "vi_body": "Hôm nay, bạn có thể trân trọng một việc mình đã làm được.",
+      "zh_tw_title": "為一件事開心",
+      "zh_tw_body": "今天，不妨為自己完成的一件事開心一下。"
+    },
+    {
+      "id": "LA-003",
+      "ja_title": "ひと呼吸おく",
+      "ja_body": "迷ったら、ひと呼吸ぶんだけ立ち止まっても大丈夫。",
+      "vi_title": "Dừng lại một nhịp",
+      "vi_body": "Khi phân vân, bạn cứ dừng lại trong một nhịp thở cũng được.",
+      "zh_tw_title": "停一個呼吸",
+      "zh_tw_body": "猶豫的時候，停下來呼吸一下也沒關係。"
+    },
+    {
+      "id": "LA-004",
+      "ja_title": "自分の歩幅で",
+      "ja_body": "速さより、今日の自分に合う歩幅を選んでみて。",
+      "vi_title": "Theo bước của mình",
+      "vi_body": "Thay vì chú ý đến tốc độ, hãy thử chọn nhịp hợp với bạn hôm nay.",
+      "zh_tw_title": "照自己的步伐",
+      "zh_tw_body": "比起速度，不妨選擇適合今天自己的步伐。"
+    },
+    {
+      "id": "LA-005",
+      "ja_title": "間違いの中の発見",
+      "ja_body": "うまくいかなかった所から、次のヒントが見つかることもあります。",
+      "vi_title": "Gợi ý từ sai sót",
+      "vi_body": "Chỗ chưa suôn sẻ thường cất giấu một gợi ý cho lần tới.",
+      "zh_tw_title": "錯誤裡的發現",
+      "zh_tw_body": "不順利的地方，常藏著下一次可以用的提示。"
+    },
+    {
+      "id": "LA-006",
+      "ja_title": "明日への小さな贈り物",
+      "ja_body": "明日の自分が助かることを、ひとつだけ用意しておくのも素敵です。",
+      "vi_title": "Món quà cho ngày mai",
+      "vi_body": "Chuẩn bị sẵn một việc nhỏ để ngày mai nhẹ nhàng hơn cũng rất hay.",
+      "zh_tw_title": "給明天的小禮物",
+      "zh_tw_body": "先為明天的自己準備一件有幫助的小事，也很不錯。"
+    },
+    {
+      "id": "LA-007",
+      "ja_title": "小さな場所から",
+      "ja_body": "机のすみをひと区画だけ整えると、気分も少し軽くなるかも。",
+      "vi_title": "Gọn một góc nhỏ",
+      "vi_body": "Dọn một góc nhỏ trên bàn thôi cũng có thể làm lòng nhẹ hơn một chút.",
+      "zh_tw_title": "整理一個小角落",
+      "zh_tw_body": "只整理桌面的一小角，心情也可能跟著輕一點。"
+    },
+    {
+      "id": "LA-008",
+      "ja_title": "よかったを見つける",
+      "ja_body": "今日の「ちょっとよかった」を、ひとつ覚えておくのもいいですね。",
+      "vi_title": "Giữ lại điều vui",
+      "vi_body": "Hãy giữ lại trong lòng một điều nho nhỏ khiến hôm nay dễ chịu hơn.",
+      "zh_tw_title": "記住一件好事",
+      "zh_tw_body": "把今天一件「有點不錯」的小事留在心裡吧。"
+    },
+    {
+      "id": "LA-009",
+      "ja_title": "少し頼ってみる",
+      "ja_body": "ひとりで重い日は、小さなお願いをひとつしてみてもいい。",
+      "vi_title": "Nhờ một chút cũng được",
+      "vi_body": "Khi mọi thứ hơi nặng nề, bạn có thể nhờ ai đó giúp một việc nhỏ.",
+      "zh_tw_title": "稍微依靠一下",
+      "zh_tw_body": "覺得一個人有點累時，也可以提出一個小小的請求。"
+    },
+    {
+      "id": "LA-010",
+      "ja_title": "好奇心を道しるべに",
+      "ja_body": "「ちょっと気になる」を、今日の行き先にしてみませんか。",
+      "vi_title": "Đi theo sự tò mò",
+      "vi_body": "Hôm nay, thử để một điều khiến bạn tò mò dẫn đường nhé.",
+      "zh_tw_title": "跟著好奇心走",
+      "zh_tw_body": "今天，不妨讓一件有點好奇的事帶路。"
+    },
+    {
+      "id": "LA-011",
+      "ja_title": "何もしない数分",
+      "ja_body": "予定の間に、何もしない3分を置いてみるのもありです。",
+      "vi_title": "Ba phút thảnh thơi",
+      "vi_body": "Bạn có thể chừa ba phút không làm gì giữa các việc.",
+      "zh_tw_title": "留三分鐘空白",
+      "zh_tw_body": "行程之間，也可以留三分鐘什麼都不做。"
+    },
+    {
+      "id": "LA-012",
+      "ja_title": "進んだ分を見る",
+      "ja_body": "残りより先に、ここまで進んだ分を眺めてみて。",
+      "vi_title": "Nhìn phần đã đi qua",
+      "vi_body": "Trước khi nhìn phần còn lại, hãy thử ngắm quãng đường bạn đã đi.",
+      "zh_tw_title": "看看走過的路",
+      "zh_tw_body": "先別看還剩多少，看看自己已經走了多遠。"
+    },
+    {
+      "id": "LA-013",
+      "ja_title": "急がない選択",
+      "ja_body": "急がないほうが心地よいなら、その速さも立派な選択です。",
+      "vi_title": "Không vội cũng hay",
+      "vi_body": "Nếu đi chậm khiến bạn dễ chịu hơn, đó cũng là một lựa chọn đẹp.",
+      "zh_tw_title": "不急也是選擇",
+      "zh_tw_body": "如果慢一點比較舒服，這也是很好的選擇。"
+    },
+    {
+      "id": "LA-014",
+      "ja_title": "考え直してもいい",
+      "ja_body": "新しいことに気づいたら、途中で考えを変えても大丈夫。",
+      "vi_title": "Đổi ý cũng được",
+      "vi_body": "Khi nhận ra điều mới, bạn hoàn toàn có thể đổi ý giữa chừng.",
+      "zh_tw_title": "改變想法也可以",
+      "zh_tw_body": "有了新的發現，中途改變想法也沒關係。"
+    },
+    {
+      "id": "LA-015",
+      "ja_title": "未完成の魅力",
+      "ja_body": "完璧でなくても、今の形にしかない良さがあります。",
+      "vi_title": "Vẻ đẹp chưa trọn",
+      "vi_body": "Dù chưa hoàn hảo, dáng vẻ hiện tại vẫn có nét đẹp riêng.",
+      "zh_tw_title": "未完成的魅力",
+      "zh_tw_body": "就算還不完美，現在的樣子也有獨特的美。"
+    },
+    {
+      "id": "LA-016",
+      "ja_title": "ありがとうを届ける",
+      "ja_body": "浮かんだ人に、短い「ありがとう」を送る日もいいですね。",
+      "vi_title": "Gửi một lời cảm ơn",
+      "vi_body": "Hôm nay cũng hợp để gửi lời cảm ơn ngắn đến người bạn vừa nghĩ tới.",
+      "zh_tw_title": "送出一句謝謝",
+      "zh_tw_body": "今天也很適合向剛剛想到的人，送上一句簡短的謝謝。"
+    },
+    {
+      "id": "LA-017",
+      "ja_title": "自分にもいい言葉を",
+      "ja_body": "友だちにかけるような優しい言葉を、自分にもひとつどうぞ。",
+      "vi_title": "Nói dịu dàng với mình",
+      "vi_body": "Hãy tặng mình một câu dịu dàng như cách bạn nói với một người bạn.",
+      "zh_tw_title": "也對自己溫柔",
+      "zh_tw_body": "送自己一句像對朋友說的溫柔話語吧。"
+    },
+    {
+      "id": "LA-018",
+      "ja_title": "窓の外を眺める",
+      "ja_body": "目の前がいっぱいになったら、窓の外の色をひとつ探してみて。",
+      "vi_title": "Nhìn ra ngoài cửa sổ",
+      "vi_body": "Khi trước mắt quá nhiều việc, thử tìm một màu sắc ngoài cửa sổ nhé.",
+      "zh_tw_title": "看看窗外",
+      "zh_tw_body": "眼前塞滿事情時，試著找找窗外的一種顏色。"
+    },
+    {
+      "id": "LA-019",
+      "ja_title": "好きな一曲を",
+      "ja_body": "気分を切り替えたい時は、好きな曲を一曲だけ聴くのもよさそう。",
+      "vi_title": "Một bài hát mình thích",
+      "vi_body": "Khi muốn đổi không khí, chỉ nghe một bài mình thích cũng rất hay.",
+      "zh_tw_title": "聽一首喜歡的歌",
+      "zh_tw_body": "想轉換心情時，聽一首喜歡的歌也不錯。"
+    },
+    {
+      "id": "LA-020",
+      "ja_title": "今はひとつだけ",
+      "ja_body": "やることが多い時ほど、今のひとつだけに場所をあけてみて。",
+      "vi_title": "Bây giờ chỉ một việc",
+      "vi_body": "Khi có nhiều việc, bạn có thể dành sự chú ý cho một việc trước mắt.",
+      "zh_tw_title": "現在只做一件事",
+      "zh_tw_body": "事情越多，越可以先把空間留給眼前這一件。"
+    },
+    {
+      "id": "LA-021",
+      "ja_title": "画面を少し離れる",
+      "ja_body": "3分だけ画面を伏せて、近くの景色を見てみるのも新鮮です。",
+      "vi_title": "Rời màn hình một chút",
+      "vi_body": "Tạm rời màn hình ba phút và nhìn quanh cũng có thể đem lại cảm giác mới.",
+      "zh_tw_title": "暫時離開螢幕",
+      "zh_tw_body": "離開螢幕三分鐘，看看周圍的景色，也會有點新鮮。"
+    },
+    {
+      "id": "LA-022",
+      "ja_title": "一行だけ書く",
+      "ja_body": "頭の中のことを一行だけ書くと、次が見えやすくなるかも。",
+      "vi_title": "Viết một dòng thôi",
+      "vi_body": "Viết một dòng về điều đang ở trong đầu có thể giúp bước tiếp theo rõ hơn.",
+      "zh_tw_title": "只寫一行",
+      "zh_tw_body": "把腦中的想法寫成一行，下一步也許就會清楚一些。"
+    },
+    {
+      "id": "LA-023",
+      "ja_title": "今決めなくてもいい",
+      "ja_body": "答えがまだ見えないなら、「あとで決める」も選べます。",
+      "vi_title": "Chưa cần quyết định",
+      "vi_body": "Nếu chưa thấy câu trả lời, bạn vẫn có thể chọn để sau mới quyết định.",
+      "zh_tw_title": "現在不用決定",
+      "zh_tw_body": "如果答案還不清楚，也可以選擇晚點再決定。"
+    },
+    {
+      "id": "LA-024",
+      "ja_title": "難しいを伝える",
+      "ja_body": "「今は難しい」と穏やかに伝えることも、自分を守る方法です。",
+      "vi_title": "Nói điều đang khó",
+      "vi_body": "Nhẹ nhàng nói “lúc này hơi khó” cũng là một cách bảo vệ khoảng riêng của mình.",
+      "zh_tw_title": "說出現在有困難",
+      "zh_tw_body": "平靜地說「現在有點難」，也是照顧自己的方式。"
+    },
+    {
+      "id": "LA-025",
+      "ja_title": "あいさつから広がる",
+      "ja_body": "いつもより少し明るいあいさつが、いい流れを連れてくるかも。",
+      "vi_title": "Bắt đầu bằng lời chào",
+      "vi_body": "Một lời chào tươi hơn thường ngày có thể mang đến bầu không khí dễ chịu.",
+      "zh_tw_title": "從一聲招呼開始",
+      "zh_tw_body": "比平常明亮一點的招呼，也許會帶來好氣氛。"
+    },
+    {
+      "id": "LA-026",
+      "ja_title": "声にしてみる",
+      "ja_body": "覚えたいことは、小さな声で一度読んでみると親しみが増します。",
+      "vi_title": "Thử đọc thành tiếng",
+      "vi_body": "Đọc khẽ điều muốn nhớ một lần có thể khiến nó trở nên gần gũi hơn.",
+      "zh_tw_title": "試著念出聲",
+      "zh_tw_body": "想記住的事，小聲念一次，也許就會變得更熟悉。"
+    },
+    {
+      "id": "LA-027",
+      "ja_title": "質問は前進",
+      "ja_body": "わからないことをひとつ聞けたら、それだけで道は少し明るくなります。",
+      "vi_title": "Hỏi là đang tiến lên",
+      "vi_body": "Chỉ cần hỏi được một điều chưa rõ, con đường đã sáng thêm một chút.",
+      "zh_tw_title": "提問就是前進",
+      "zh_tw_body": "能問出一件不懂的事，前方就會再亮一點。"
+    },
+    {
+      "id": "LA-028",
+      "ja_title": "寄り道を楽しむ",
+      "ja_body": "予定外の寄り道から、思いがけない好きが見つかることもあります。",
+      "vi_title": "Thưởng thức đường vòng",
+      "vi_body": "Một lối rẽ ngoài kế hoạch đôi khi dẫn bạn đến một điều yêu thích bất ngờ.",
+      "zh_tw_title": "享受繞路",
+      "zh_tw_body": "計畫外的繞路，有時會遇見意想不到的喜歡。"
+    },
+    {
+      "id": "LA-029",
+      "ja_title": "小さく笑えること",
+      "ja_body": "今日ちょっと笑えたことを、心のポケットに入れておいて。",
+      "vi_title": "Giữ một nụ cười nhỏ",
+      "vi_body": "Hãy cất lại một điều đã khiến bạn mỉm cười hôm nay nhé.",
+      "zh_tw_title": "收好一個小笑容",
+      "zh_tw_body": "把今天讓你微微一笑的事，放進心裡的口袋吧。"
+    },
+    {
+      "id": "LA-030",
+      "ja_title": "やさしさを一滴",
+      "ja_body": "小さな親切は、渡した人にも受け取った人にもやわらかく残ります。",
+      "vi_title": "Một giọt tử tế",
+      "vi_body": "Một cử chỉ tử tế nhỏ có thể để lại sự ấm áp cho cả người trao lẫn người nhận.",
+      "zh_tw_title": "一點點善意",
+      "zh_tw_body": "小小的善意，會溫柔地留在付出與收到的人心裡。"
+    },
+    {
+      "id": "LA-031",
+      "ja_title": "十分よいところで",
+      "ja_body": "「これで十分」と区切ると、次に使える元気も残せます。",
+      "vi_title": "Đủ tốt là được",
+      "vi_body": "Dừng ở mức “thế này là đủ” giúp bạn dành lại năng lượng cho việc tiếp theo.",
+      "zh_tw_title": "夠好就很好",
+      "zh_tw_body": "在「這樣就夠了」的地方收尾，也能為下一件事留點力氣。"
+    },
+    {
+      "id": "LA-032",
+      "ja_title": "見えないがんばりも",
+      "ja_body": "誰にも見えなかった工夫を、自分だけはちゃんと知っています。",
+      "vi_title": "Nỗ lực thầm lặng",
+      "vi_body": "Dù không ai thấy những cố gắng thầm lặng ấy, chính bạn vẫn biết rõ.",
+      "zh_tw_title": "看不見的努力",
+      "zh_tw_body": "那些沒被別人看見的用心，你自己一直都知道。"
+    },
+    {
+      "id": "LA-033",
+      "ja_title": "いつでも再スタート",
+      "ja_body": "止まったあとにもう一度始める力も、あなたの力です。",
+      "vi_title": "Luôn có thể bắt đầu lại",
+      "vi_body": "Khả năng bắt đầu lại sau khi dừng chân cũng là sức mạnh của bạn.",
+      "zh_tw_title": "隨時可以再出發",
+      "zh_tw_body": "停下來之後還能重新開始，也是你的力量。"
+    },
+    {
+      "id": "LA-034",
+      "ja_title": "お気に入りを使う日",
+      "ja_body": "お気に入りのカップやペンを、今日こそ普段使いにしてみて。",
+      "vi_title": "Dùng món mình yêu thích",
+      "vi_body": "Hôm nay, thử dùng chiếc cốc hay cây bút bạn vẫn luôn yêu thích nhé.",
+      "zh_tw_title": "用喜歡的東西",
+      "zh_tw_body": "今天就把喜歡的杯子或筆，拿來日常使用吧。"
+    },
+    {
+      "id": "LA-035",
+      "ja_title": "始めやすくしておく",
+      "ja_body": "道具をひとつ出しておくだけで、次の一歩が近くなります。",
+      "vi_title": "Để việc bắt đầu dễ hơn",
+      "vi_body": "Chỉ cần đặt sẵn một dụng cụ, bước khởi đầu đã gần hơn rồi.",
+      "zh_tw_title": "讓開始更容易",
+      "zh_tw_body": "先把一樣工具放好，下一步就會離你更近。"
+    },
+    {
+      "id": "LA-036",
+      "ja_title": "今日を一枚残す",
+      "ja_body": "何気ない景色を一枚残すと、普通の今日も小さな記念日になります。",
+      "vi_title": "Giữ lại một khung hình",
+      "vi_body": "Lưu một bức ảnh đời thường có thể biến hôm nay thành kỷ niệm nhỏ.",
+      "zh_tw_title": "為今天留一張照片",
+      "zh_tw_body": "拍下一幕平凡的風景，普通的今天也會成為小小紀念日。"
+    },
+    {
+      "id": "LA-037",
+      "ja_title": "ふと思った人へ",
+      "ja_body": "ふと思い出した人に、短い便りを送ってみるのもいいですね。",
+      "vi_title": "Nhắn người vừa nhớ tới",
+      "vi_body": "Bạn có thể gửi một tin nhắn ngắn cho người vừa hiện lên trong tâm trí.",
+      "zh_tw_title": "傳訊息給想起的人",
+      "zh_tw_body": "不妨傳個簡短的訊息給剛剛想起的那個人。"
+    },
+    {
+      "id": "LA-038",
+      "ja_title": "言葉をやわらかく",
+      "ja_body": "同じことでも、やわらかい言葉を選ぶと会話に余白が生まれます。",
+      "vi_title": "Chọn lời mềm mại",
+      "vi_body": "Cùng một điều, cách nói mềm mại sẽ tạo thêm khoảng thở cho cuộc trò chuyện.",
+      "zh_tw_title": "把話說柔和一點",
+      "zh_tw_body": "同一件事換成柔和的說法，對話就多了一點空間。"
+    },
+    {
+      "id": "LA-039",
+      "ja_title": "余白を守る",
+      "ja_body": "気が進まない予定には、やさしく断る選択も残しておいて。",
+      "vi_title": "Giữ khoảng trống cho mình",
+      "vi_body": "Nếu một lời mời chưa phù hợp, bạn vẫn có thể nhẹ nhàng từ chối.",
+      "zh_tw_title": "守住自己的空間",
+      "zh_tw_body": "對不太適合的邀約，也可以保留溫和拒絕的選擇。"
+    },
+    {
+      "id": "LA-040",
+      "ja_title": "待ち時間を眺め時間に",
+      "ja_body": "待っている間、周りの面白い形を三つ探すと小さな遊びになります。",
+      "vi_title": "Biến lúc chờ thành trò vui",
+      "vi_body": "Trong lúc chờ, thử tìm ba hình dáng thú vị quanh mình để chơi một chút.",
+      "zh_tw_title": "把等待變成觀察",
+      "zh_tw_body": "等待時找找周圍三個有趣的形狀，就成了一場小遊戲。"
+    },
+    {
+      "id": "LA-041",
+      "ja_title": "気持ちに名前を",
+      "ja_body": "今の気持ちを一言で呼んでみると、少し扱いやすくなるかも。",
+      "vi_title": "Gọi tên cảm xúc",
+      "vi_body": "Thử gọi tên cảm xúc hiện tại bằng một từ, bạn có thể thấy dễ hiểu cảm xúc ấy hơn.",
+      "zh_tw_title": "替心情取個名字",
+      "zh_tw_body": "試著用一個詞說出現在的心情，也許會更容易理解它。"
+    },
+    {
+      "id": "LA-042",
+      "ja_title": "初心者を楽しむ",
+      "ja_body": "初めてだからこそ見える景色を、ゆっくり味わってみて。",
+      "vi_title": "Tận hưởng lúc mới bắt đầu",
+      "vi_body": "Hãy thong thả ngắm những điều chỉ người mới bắt đầu mới nhìn thấy.",
+      "zh_tw_title": "享受初學時光",
+      "zh_tw_body": "慢慢欣賞那些只有剛開始時才看得見的風景吧。"
+    },
+    {
+      "id": "LA-043",
+      "ja_title": "一ページの前進",
+      "ja_body": "一冊を終えなくても、一ページ開けば今日の前進です。",
+      "vi_title": "Tiến một trang",
+      "vi_body": "Không cần đọc hết cuốn sách; mở được một trang cũng là tiến bộ hôm nay.",
+      "zh_tw_title": "前進一頁",
+      "zh_tw_body": "不必讀完整本書，翻開一頁就是今天的前進。"
+    },
+    {
+      "id": "LA-044",
+      "ja_title": "季節をひとつ見つける",
+      "ja_body": "空気や花、食べ物の中から、今日の季節をひとつ探してみて。",
+      "vi_title": "Tìm một dấu mùa",
+      "vi_body": "Thử tìm một dấu hiệu của mùa hôm nay trong không khí, hoa lá hay món ăn.",
+      "zh_tw_title": "找一個季節線索",
+      "zh_tw_body": "從空氣、花朵或食物裡，找一個今天的季節線索吧。"
+    },
+    {
+      "id": "LA-045",
+      "ja_title": "小さく終わらせる",
+      "ja_body": "すぐ終わることをひとつ片づけると、気持ちに丸がつきます。",
+      "vi_title": "Khép lại một việc nhỏ",
+      "vi_body": "Hoàn tất một việc có thể làm nhanh sẽ mang lại cảm giác trọn vẹn nho nhỏ.",
+      "zh_tw_title": "完成一件小事",
+      "zh_tw_body": "處理完一件很快能做好的事，心裡也會多一份完成感。"
+    },
+    {
+      "id": "LA-046",
+      "ja_title": "予定にすき間を",
+      "ja_body": "予定を詰めきらず、何かが入れるすき間を残す日も素敵です。",
+      "vi_title": "Chừa chỗ trong lịch",
+      "vi_body": "Không xếp lịch kín và chừa chỗ cho điều bất ngờ cũng là một cách hay.",
+      "zh_tw_title": "行程留一點空隙",
+      "zh_tw_body": "不把行程排滿，留點空間給意外出現的美好，也很棒。"
+    },
+    {
+      "id": "LA-047",
+      "ja_title": "支えに気づく",
+      "ja_body": "今日を支えてくれた人や物をひとつ見つけると、景色が少し温まります。",
+      "vi_title": "Nhận ra điều nâng đỡ",
+      "vi_body": "Nhận ra một người hay món đồ đã giúp mình hôm nay có thể làm khung cảnh ấm áp hơn.",
+      "zh_tw_title": "看見身邊的支持",
+      "zh_tw_body": "發現今天支持自己的一個人或一樣東西，眼前也會溫暖些。"
+    },
+    {
+      "id": "LA-048",
+      "ja_title": "小さな冒険",
+      "ja_body": "帰り道を一本変えるだけでも、今日は少し新しくなります。",
+      "vi_title": "Một chuyến phiêu lưu nhỏ",
+      "vi_body": "Chỉ cần đổi một con đường về, hôm nay đã có thêm chút mới mẻ.",
+      "zh_tw_title": "小小的冒險",
+      "zh_tw_body": "回家時換一條路，今天就多了一點新鮮。"
+    },
+    {
+      "id": "LA-049",
+      "ja_title": "今日を採点しない",
+      "ja_body": "今日は点数をつけず、「ここまで」でそっと閉じてもいい日です。",
+      "vi_title": "Không chấm điểm hôm nay",
+      "vi_body": "Hôm nay, bạn có thể không chấm điểm mà chỉ nhẹ nhàng khép lại ở đây.",
+      "zh_tw_title": "今天不打分數",
+      "zh_tw_body": "今天可以不打分數，只輕輕地說「先到這裡」。"
+    },
+    {
+      "id": "LA-050",
+      "ja_title": "明日は新しい余白",
+      "ja_body": "今日できなかったことも、明日また選び直せます。",
+      "vi_title": "Ngày mai còn khoảng mới",
+      "vi_body": "Điều chưa làm được hôm nay, ngày mai bạn vẫn có thể chọn lại.",
+      "zh_tw_title": "明天還有新的空白",
+      "zh_tw_body": "今天還沒做到的事，明天仍然可以重新選擇。"
+    }
+  ]
+}

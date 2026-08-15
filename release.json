@@ -1,0 +1,6 @@
+{
+  "app": "akigusa-japanese-school",
+  "release": "V014",
+  "build": "V014-20260815-cache-recovery-01",
+  "serviceWorkerCache": "akigusa-school-v20"
+}
