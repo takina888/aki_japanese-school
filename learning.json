@@ -132,43 +132,46 @@
           "usage_id": "L1-1-G01",
           "level_id": "L1",
           "lesson_id": "L1-1",
-          "mobile_title_vi": "Hỏi bằng câu thật ngắn",
-          "mobile_title_zh_tw": "用很短的句子提問",
-          "example_1_ja": "学生？",
-          "example_1_vi": "Là sinh viên à?",
-          "example_2_ja": "名前、何？",
-          "example_2_vi": "Bạn tên gì?",
-          "detail_vi": "Không cần tạo câu dài ngay từ đầu. Với người quen, một từ hoặc câu ngắn + giọng hỏi đã đủ: 「学生？」「名前、何？」「日本、好き？」.",
-          "detail_zh_tw": "一開始不需要造長句。和熟人說話時，一個詞或短句加疑問語調就能提問，例如「学生？」「名前、何？」「日本、好き？」。",
-          "example_3_ja": "日本、好き？",
-          "example_3_vi": "Thích Nhật Bản không?"
+          "mobile_title_vi": "Trật tự câu tiếng Nhật — vị ngữ ở cuối",
+          "mobile_title_zh_tw": "句子順序：述語在最後",
+          "example_1_ja": "私は学生（です）。",
+          "example_1_vi": "Tôi là sinh viên.",
+          "example_2_ja": "私はご飯を食べます。",
+          "example_2_vi": "Tôi ăn cơm.",
+          "detail_vi": "Thứ tự ở phía trước vị ngữ có thể thay đổi theo ngữ cảnh, và chủ ngữ thường được lược khi đã rõ. Với người mới học, trước tiên hãy nhớ khung 「chủ đề + thông tin bổ sung + vị ngữ」. Ví dụ: 「私は／ご飯を／食べます。」",
+          "detail_zh_tw": "述語前面的成分可以依語境調整，主語清楚時也常省略。初學時先記住「話題＋補充資訊＋述語」這個骨架，例如「私は／ご飯を／食べます」。",
+          "example_3_ja": "明日、会社に行きます。",
+          "example_3_vi": "Ngày mai tôi đi công ty.",
+          "example_1_vi_approx": "oa・ta・shi・oa・ga・kư・xê・i（dê・xư）。",
+          "example_2_vi_approx": "oa・ta・shi・oa・gô・ha・ng・ô・ta・bê・ma・xư。",
+          "example_3_vi_approx": "a・shi・ta、ka・i・xa・ni・i・ki・ma・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L1-1-G01-Q01",
-            "question_vi": "Mục tiêu chính của cách nói ngắn trong bài là gì?",
-            "question_zh_tw": "這一課短問句的主要目的什麼？",
+            "question_vi": "Câu nào có trật tự tiếng Nhật tự nhiên nhất?",
+            "question_zh_tw": "哪一句的日文語序最自然？",
             "choices": [
-              "hỏi bằng từ/câu ngắn",
-              "nói số điện thoại",
-              "viết email dài"
+              "私はご飯を食べます。",
+              "私は食べますご飯を。",
+              "食べます私はご飯を。"
             ],
-            "answer": "hỏi bằng từ/câu ngắn",
+            "answer": "私はご飯を食べます。",
             "target_type": "usage",
             "target_id": "L1-1-G01",
-            "modality": "text_choice",
+            "modality": "sentence_order",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-1-G01-Q02",
-            "question_vi": "Câu nào là câu hỏi ngắn tự nhiên?",
-            "question_zh_tw": "哪一句是自然的短問句？",
+            "question_vi": "Trong 「明日、会社に行きます。」, vị ngữ ở cuối câu là phần nào?",
+            "question_zh_tw": "「明日、会社に行きます。」中，句尾的述語是哪一部分？",
             "choices": [
-              "学生をです。",
-              "学生？",
-              "学生たい。"
+              "行きます",
+              "会社に",
+              "明日"
             ],
-            "answer": "学生？",
+            "answer": "行きます",
             "target_type": "usage",
             "target_id": "L1-1-G01",
             "modality": "text_choice",
@@ -176,44 +179,150 @@
           },
           {
             "quiz_id": "L1-1-G01-Q03",
-            "question_vi": "「名前、何？」 nghĩa là gì?",
-            "question_zh_tw": "「名前、何？」是什麼意思？",
+            "question_vi": "Muốn nói “Ngày mai tôi đi công ty”, câu nào đúng?",
+            "question_zh_tw": "要說「明天去公司」，哪一句正確？",
             "choices": [
-              "Bạn đi đâu?",
-              "Bạn mấy tuổi?",
-              "Bạn tên gì?"
+              "明日、会社に行きます。",
+              "明日、行きます会社に。",
+              "会社に明日です行きます。"
             ],
-            "answer": "Bạn tên gì?",
+            "answer": "明日、会社に行きます。",
             "target_type": "usage",
             "target_id": "L1-1-G01",
-            "modality": "text_choice",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-1-G01-Q04",
-            "question_vi": "Khi nói với người quen, điều nào đúng?",
-            "question_zh_tw": "和熟人說話時，哪一點正確？",
+            "question_vi": "Câu nào đặt động từ ở cuối đúng cách?",
+            "question_zh_tw": "哪一句把動詞正確放在句尾？",
             "choices": [
-              "Câu ngắn + giọng hỏi có thể đủ",
-              "Luôn phải dùng câu rất dài",
-              "Không được lược gì cả"
+              "私は水を飲みます。",
+              "私は飲みます水を。",
+              "飲みます私は水を。"
             ],
-            "answer": "Câu ngắn + giọng hỏi có thể đủ",
+            "answer": "私は水を飲みます。",
+            "target_type": "usage",
+            "target_id": "L1-1-G01",
+            "modality": "sentence_order",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-1-G01-Q05",
+            "question_vi": "Trong 「今日は暑いです。」, vị ngữ là phần nào?",
+            "question_zh_tw": "「今日は暑いです。」中的述語是哪一部分？",
+            "choices": [
+              "暑いです",
+              "今日は",
+              "今日"
+            ],
+            "answer": "暑いです",
             "target_type": "usage",
             "target_id": "L1-1-G01",
             "modality": "text_choice",
             "shuffle_options": "Yes"
           },
           {
-            "quiz_id": "L1-1-G01-Q05",
-            "question_vi": "Bài này ưu tiên điều gì?",
-            "question_zh_tw": "這一課優先什麼？",
+            "quiz_id": "L1-1-G01-Q06",
+            "question_vi": "Chọn câu tiếng Nhật phù hợp với “Tôi học tiếng Nhật mỗi ngày.”",
+            "question_zh_tw": "選出符合「我每天學日文」的日文。",
             "choices": [
-              "học thuật ngữ ngữ pháp",
-              "nói được ngay bằng câu ngắn",
-              "học câu dài trước"
+              "毎日、日本語を勉強します。",
+              "毎日、勉強します日本語を。",
+              "日本語を毎日です。"
             ],
-            "answer": "nói được ngay bằng câu ngắn",
+            "answer": "毎日、日本語を勉強します。",
+            "target_type": "usage",
+            "target_id": "L1-1-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-1-G01-Q07",
+            "question_vi": "Trong 「私は学生です。」, phần nào nằm ở cuối câu?",
+            "question_zh_tw": "「私は学生です。」中，哪一部分在句尾？",
+            "choices": [
+              "学生です",
+              "私は",
+              "私"
+            ],
+            "answer": "学生です",
+            "target_type": "usage",
+            "target_id": "L1-1-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-1-G01-Q08",
+            "question_vi": "Câu nào giữ phần nói chính ở cuối câu?",
+            "question_zh_tw": "哪一句把主要述語放在句尾？",
+            "choices": [
+              "今日は暑いです。",
+              "今日はです暑い。",
+              "暑い今日はです。"
+            ],
+            "answer": "今日は暑いです。",
+            "target_type": "usage",
+            "target_id": "L1-1-G01",
+            "modality": "sentence_order",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-1-G01-Q09",
+            "question_vi": "Nghe câu rồi chọn nghĩa gần nhất.",
+            "question_zh_tw": "請聽句子，選出最接近的意思。",
+            "choices": [
+              "Ngày mai tôi đi công ty.",
+              "Hôm qua tôi đã đi công ty.",
+              "Ngày mai tôi ăn cơm."
+            ],
+            "answer": "Ngày mai tôi đi công ty.",
+            "target_type": "usage",
+            "target_id": "L1-1-G01",
+            "modality": "listening_choice",
+            "shuffle_options": "Yes",
+            "prompt_ja": "明日、会社に行きます。"
+          },
+          {
+            "quiz_id": "L1-1-G01-Q10",
+            "question_vi": "Câu nào giữ đúng khung “chủ đề + thông tin bổ sung + vị ngữ”?",
+            "question_zh_tw": "哪一句符合「話題＋補充資訊＋述語」的骨架？",
+            "choices": [
+              "私は日本語を勉強します。",
+              "私は勉強します日本語を。",
+              "勉強します私は日本語。"
+            ],
+            "answer": "私は日本語を勉強します。",
+            "target_type": "usage",
+            "target_id": "L1-1-G01",
+            "modality": "sentence_order",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-1-G01-Q11",
+            "question_vi": "Trong câu tiếng Nhật cơ bản, phần nào thường đứng cuối?",
+            "question_zh_tw": "日文基本句子中，哪一部分通常放在最後？",
+            "choices": [
+              "述語（vị ngữ）",
+              "主語（chủ語）",
+              "時間詞（từ chỉ thời gian）"
+            ],
+            "answer": "述語（vị ngữ）",
+            "target_type": "usage",
+            "target_id": "L1-1-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-1-G01-Q12",
+            "question_vi": "Quy tắc đầu tiên nên nhớ về trật tự câu tiếng Nhật là gì?",
+            "question_zh_tw": "學日文語序時，最先要記住的規則是什麼？",
+            "choices": [
+              "述語は基本的に文の最後",
+              "主語は必ず文の最後",
+              "助詞は必ず文の最初"
+            ],
+            "answer": "述語は基本的に文の最後",
             "target_type": "usage",
             "target_id": "L1-1-G01",
             "modality": "text_choice",
@@ -345,28 +454,31 @@
           "usage_id": "L1-2-G01",
           "level_id": "L1",
           "lesson_id": "L1-2",
-          "mobile_title_vi": "Hỏi ngắn bằng giọng lên",
-          "mobile_title_zh_tw": "用上揚語氣短問",
-          "example_1_ja": "学生？",
-          "example_1_vi": "Là sinh viên à?",
-          "example_2_ja": "わかる？",
-          "example_2_vi": "Hiểu không?",
-          "detail_vi": "Với bạn bè, nhiều câu chỉ cần dạng ngắn và lên giọng ở cuối. Không phải lúc nào cũng cần 「ですか」.",
-          "detail_zh_tw": "和朋友說話時，普通形短句加疑問語調就能提問，不一定每次都要「ですか」。",
-          "example_3_ja": "行く？",
-          "example_3_vi": "Đi không?"
+          "mobile_title_vi": "Câu danh từ — A は B（です）",
+          "mobile_title_zh_tw": "名詞句：A は B（です）",
+          "example_1_ja": "私は秋（です）。",
+          "example_1_vi": "Tôi là Aki.",
+          "example_2_ja": "私は学生（です）。",
+          "example_2_vi": "Tôi là sinh viên.",
+          "detail_vi": "「は」 viết là “ha” nhưng khi là trợ từ thì đọc là “wa”. Trong bài này, 「（です）」 được đặt trong ngoặc để nhìn rõ phần cốt lõi 「A は B」 và phần lịch sự.",
+          "detail_zh_tw": "助詞「は」寫作「は」，但在這裡讀作「わ」。本課把「（です）」放在括號中，讓「A は B」的基本骨架與禮貌部分更容易看清楚。",
+          "example_3_ja": "ここは学校（です）。",
+          "example_3_vi": "Đây là trường học.",
+          "example_1_vi_approx": "oa・ta・shi・oa・a・ki（dê・xư）。",
+          "example_2_vi_approx": "oa・ta・shi・oa・ga・kư・xê・i（dê・xư）。",
+          "example_3_vi_approx": "kô・kô・oa・ga・●・kô・ư（dê・xư）。"
         },
         "quizzes": [
           {
             "quiz_id": "L1-2-G01-Q01",
-            "question_vi": "Mẫu 「Câu hỏi ngắn bằng giọng lên ở cuối」 chủ yếu giúp bạn làm gì?",
-            "question_zh_tw": "「句尾上揚形成短問句」這個句型主要用來做什麼？",
+            "question_vi": "Câu nào đúng theo mẫu 「A は B（です）」?",
+            "question_zh_tw": "哪一句符合「A は B（です）」？",
             "choices": [
-              "hỏi một địa chỉ dài",
-              "nói số điện thoại",
-              "hỏi rất ngắn trong hội thoại"
+              "私は学生（です）。",
+              "私は学生を。",
+              "私は学生に行きます。"
             ],
-            "answer": "hỏi rất ngắn trong hội thoại",
+            "answer": "私は学生（です）。",
             "target_type": "usage",
             "target_id": "L1-2-G01",
             "modality": "text_choice",
@@ -374,14 +486,14 @@
           },
           {
             "quiz_id": "L1-2-G01-Q02",
-            "question_vi": "Câu nào dưới đây là ví dụ đúng của mẫu đang học?",
-            "question_zh_tw": "下面哪一句是這個句型的正確例子？",
+            "question_vi": "Trong câu danh từ, B nói A là ai / là cái gì. Chọn mô tả đúng.",
+            "question_zh_tw": "名詞句中的B用來說明A是誰／是什麼。選出正確說明。",
             "choices": [
-              "学生？",
-              "これはをです。",
-              "行くたいです。"
+              "A là ai / là cái gì",
+              "A làm hành động gì",
+              "A đi đến đâu"
             ],
-            "answer": "学生？",
+            "answer": "A là ai / là cái gì",
             "target_type": "usage",
             "target_id": "L1-2-G01",
             "modality": "text_choice",
@@ -389,29 +501,29 @@
           },
           {
             "quiz_id": "L1-2-G01-Q03",
-            "question_vi": "「わかる？」 có nghĩa gần nhất với câu nào?",
-            "question_zh_tw": "「わかる？」最接近下面哪一個意思？",
+            "question_vi": "Câu tự giới thiệu nào tự nhiên?",
+            "question_zh_tw": "哪一句自我介紹較自然？",
             "choices": [
-              "Là sinh viên à?",
-              "Hiểu không?",
-              "Đi không?"
+              "私は秋です。",
+              "私は秋をです。",
+              "私は秋に行きます。"
             ],
-            "answer": "Hiểu không?",
+            "answer": "私は秋です。",
             "target_type": "usage",
             "target_id": "L1-2-G01",
-            "modality": "text_choice",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-2-G01-Q04",
-            "question_vi": "Điểm nào quan trọng nhất khi dùng mẫu này?",
-            "question_zh_tw": "使用這個句型時，最重要的重點是什麼？",
+            "question_vi": "「ここは学校です。」 thuộc loại câu nào?",
+            "question_zh_tw": "「ここは学校です。」是哪一種句子？",
             "choices": [
-              "Phải luôn nói đầy đủ chủ ngữ.",
-              "Chỉ dùng được trong văn viết.",
-              "Dùng câu ngắn và lên giọng ở cuối."
+              "名詞の文",
+              "動詞の文",
+              "形容詞の文"
             ],
-            "answer": "Dùng câu ngắn và lên giọng ở cuối.",
+            "answer": "名詞の文",
             "target_type": "usage",
             "target_id": "L1-2-G01",
             "modality": "text_choice",
@@ -419,17 +531,123 @@
           },
           {
             "quiz_id": "L1-2-G01-Q05",
-            "question_vi": "Khi nói chuyện thực tế, nên nhớ điều nào?",
-            "question_zh_tw": "實際對話時，應該記住哪一點？",
+            "question_vi": "Mẫu cơ bản của câu danh từ là gì?",
+            "question_zh_tw": "名詞句的基本句型是什麼？",
             "choices": [
-              "Với người lạ, dùng cách lịch sự hơn như 「〜ですか」.",
-              "Càng thêm nhiều từ càng tự nhiên.",
-              "Không cần nghe phát âm tiếng Nhật."
+              "A は B（です）",
+              "A を B に",
+              "A で B を"
             ],
-            "answer": "Với người lạ, dùng cách lịch sự hơn như 「〜ですか」.",
+            "answer": "A は B（です）",
             "target_type": "usage",
             "target_id": "L1-2-G01",
             "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-2-G01-Q06",
+            "question_vi": "Chọn câu tiếng Nhật phù hợp với “Tôi là sinh viên.”",
+            "question_zh_tw": "選出符合「我是學生」的日文。",
+            "choices": [
+              "私は学生です。",
+              "私は学生を食べます。",
+              "私は学生に行きます。"
+            ],
+            "answer": "私は学生です。",
+            "target_type": "usage",
+            "target_id": "L1-2-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-2-G01-Q07",
+            "question_vi": "Câu nào tự nhiên để nói “Anh Tanaka là giáo viên”?",
+            "question_zh_tw": "要說「田中先生是老師」，哪一句自然？",
+            "choices": [
+              "田中さんは先生です。",
+              "田中さんを先生です。",
+              "田中さんは先生を。"
+            ],
+            "answer": "田中さんは先生です。",
+            "target_type": "usage",
+            "target_id": "L1-2-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-2-G01-Q08",
+            "question_vi": "Trong 「私は秋（です）。」, phần trong ngoặc có vai trò gì?",
+            "question_zh_tw": "「私は秋（です）。」中，括號裡的部分有什麼作用？",
+            "choices": [
+              "Làm câu lịch sự hơn",
+              "Biến câu thành quá khứ",
+              "Biến danh từ thành động từ"
+            ],
+            "answer": "Làm câu lịch sự hơn",
+            "target_type": "usage",
+            "target_id": "L1-2-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-2-G01-Q09",
+            "question_vi": "Nghe câu rồi chọn nghĩa gần nhất.",
+            "question_zh_tw": "請聽句子，選出最接近的意思。",
+            "choices": [
+              "Tôi là Aki.",
+              "Tôi đi gặp Aki.",
+              "Tôi thích mùa thu."
+            ],
+            "answer": "Tôi là Aki.",
+            "target_type": "usage",
+            "target_id": "L1-2-G01",
+            "modality": "listening_choice",
+            "shuffle_options": "Yes",
+            "prompt_ja": "私は秋です。"
+          },
+          {
+            "quiz_id": "L1-2-G01-Q10",
+            "question_vi": "Điền trợ từ đúng: 「ここ＿学校です。」",
+            "question_zh_tw": "填入正確助詞：「ここ＿学校です。」",
+            "choices": [
+              "は",
+              "を",
+              "に"
+            ],
+            "answer": "は",
+            "target_type": "usage",
+            "target_id": "L1-2-G01",
+            "modality": "fill_blank",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-2-G01-Q11",
+            "question_vi": "Câu nào KHÔNG phải câu danh từ?",
+            "question_zh_tw": "哪一句不是名詞句？",
+            "choices": [
+              "私は学生です。",
+              "ここは学校です。",
+              "私はご飯を食べます。"
+            ],
+            "answer": "私はご飯を食べます。",
+            "target_type": "usage",
+            "target_id": "L1-2-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-2-G01-Q12",
+            "question_vi": "Câu nào là cách giới thiệu bản thân tự nhiên trong tình huống thông thường?",
+            "question_zh_tw": "一般場合自我介紹時，哪一句最自然？",
+            "choices": [
+              "私は秋です。",
+              "私は秋だ。",
+              "秋を私です。"
+            ],
+            "answer": "私は秋です。",
+            "target_type": "usage",
+            "target_id": "L1-2-G01",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           }
         ]
@@ -558,43 +776,46 @@
           "usage_id": "L1-3-G01",
           "level_id": "L1",
           "lesson_id": "L1-3",
-          "mobile_title_vi": "Nói giờ và giờ rưỡi",
-          "mobile_title_zh_tw": "說整點與半點",
-          "example_1_ja": "3時。",
-          "example_1_vi": "3 giờ.",
-          "example_2_ja": "3時半。",
-          "example_2_vi": "3 giờ rưỡi.",
-          "detail_vi": "Số + 「時」 để nói giờ. Thêm 「半」 để nói “rưỡi”. Chỉ nói thời gian cũng có thể đủ.",
-          "detail_zh_tw": "數字＋「時」表示整點，加「半」表示半點。只說時間也可以很自然。",
-          "example_3_ja": "何時？",
-          "example_3_vi": "Mấy giờ?"
+          "mobile_title_vi": "Câu động từ — động từ ở cuối",
+          "mobile_title_zh_tw": "動詞句：動詞放在最後",
+          "example_1_ja": "私はご飯を食べます。",
+          "example_1_vi": "Tôi ăn cơm.",
+          "example_2_ja": "私は水を飲みます。",
+          "example_2_vi": "Tôi uống nước.",
+          "detail_vi": "Trước tiên hãy nhìn câu như các khối: 「私は｜ご飯を｜食べます」. Không cần nhớ hết chức năng của 「は」「を」 ngay hôm nay; phần trợ từ sẽ được học riêng sau. Mục tiêu ở đây là đặt động từ ở cuối.",
+          "detail_zh_tw": "先把句子看成幾個區塊：「私は｜ご飯を｜食べます」。今天不用一次記完「は」「を」的所有功能，助詞後面會分開學；這一課先掌握「動詞放在最後」。",
+          "example_3_ja": "私は日本語を勉強します。",
+          "example_3_vi": "Tôi học tiếng Nhật.",
+          "example_1_vi_approx": "oa・ta・shi・oa・gô・ha・ng・ô・ta・bê・ma・xư。",
+          "example_2_vi_approx": "oa・ta・shi・oa・mi・zư・ô・nô・mi・ma・xư。",
+          "example_3_vi_approx": "oa・ta・shi・oa・ni・hô・ng・gô・ô・bê・ng・kyô・ư・shi・ma・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L1-3-G01-Q01",
-            "question_vi": "Mẫu 「「〜時 / 〜時半」: giờ / giờ rưỡi」 chủ yếu giúp bạn làm gì?",
-            "question_zh_tw": "「「〜時／〜時半」＝幾點／幾點半」這個句型主要用來做什麼？",
+            "question_vi": "Câu nào đặt động từ đúng ở cuối?",
+            "question_zh_tw": "哪一句把動詞正確放在句尾？",
             "choices": [
-              "hỏi một địa chỉ dài",
-              "nói giờ và giờ rưỡi",
-              "nói số điện thoại"
+              "私は水を飲みます。",
+              "私は飲みます水を。",
+              "飲みます私は水を。"
             ],
-            "answer": "nói giờ và giờ rưỡi",
+            "answer": "私は水を飲みます。",
             "target_type": "usage",
             "target_id": "L1-3-G01",
-            "modality": "text_choice",
+            "modality": "sentence_order",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-3-G01-Q02",
-            "question_vi": "Câu nào dưới đây là ví dụ đúng của mẫu đang học?",
-            "question_zh_tw": "下面哪一句是這個句型的正確例子？",
+            "question_vi": "Trong 「私は日本語を勉強します。」, động từ là phần nào?",
+            "question_zh_tw": "「私は日本語を勉強します。」中的動詞是哪一部分？",
             "choices": [
-              "これはをです。",
-              "行くたいです。",
-              "3時。"
+              "勉強します",
+              "日本語を",
+              "私は"
             ],
-            "answer": "3時。",
+            "answer": "勉強します",
             "target_type": "usage",
             "target_id": "L1-3-G01",
             "modality": "text_choice",
@@ -602,29 +823,29 @@
           },
           {
             "quiz_id": "L1-3-G01-Q03",
-            "question_vi": "「3時半。」 có nghĩa gần nhất với câu nào?",
-            "question_zh_tw": "「3時半。」最接近下面哪一個意思？",
+            "question_vi": "Muốn nói “Tôi ăn cơm”, câu nào tự nhiên?",
+            "question_zh_tw": "要說「我吃飯」，哪一句自然？",
             "choices": [
-              "3 giờ rưỡi.",
-              "3 giờ.",
-              "Mấy giờ?"
+              "私はご飯を食べます。",
+              "私は食べますをご飯。",
+              "ご飯私はを食べます。"
             ],
-            "answer": "3 giờ rưỡi.",
+            "answer": "私はご飯を食べます。",
             "target_type": "usage",
             "target_id": "L1-3-G01",
-            "modality": "text_choice",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-3-G01-Q04",
-            "question_vi": "Điểm nào quan trọng nhất khi dùng mẫu này?",
-            "question_zh_tw": "使用這個句型時，最重要的重點是什麼？",
+            "question_vi": "Câu nào là câu động từ?",
+            "question_zh_tw": "哪一句是動詞句？",
             "choices": [
-              "Phải luôn nói đầy đủ chủ ngữ.",
-              "Số + 「時」; thêm 「半」 để nói “rưỡi”.",
-              "Chỉ dùng được trong văn viết."
+              "私は水を飲みます。",
+              "私は学生です。",
+              "この店は高いです。"
             ],
-            "answer": "Số + 「時」; thêm 「半」 để nói “rưỡi”.",
+            "answer": "私は水を飲みます。",
             "target_type": "usage",
             "target_id": "L1-3-G01",
             "modality": "text_choice",
@@ -632,14 +853,120 @@
           },
           {
             "quiz_id": "L1-3-G01-Q05",
-            "question_vi": "Khi nói chuyện thực tế, nên nhớ điều nào?",
-            "question_zh_tw": "實際對話時，應該記住哪一點？",
+            "question_vi": "Trong câu động từ cơ bản, “làm gì” thường nằm ở đâu?",
+            "question_zh_tw": "基本動詞句中，「做什麼」通常放在哪裡？",
             "choices": [
-              "Càng thêm nhiều từ càng tự nhiên.",
-              "Không cần nghe phát âm tiếng Nhật.",
-              "Trong hẹn gặp, chỉ nói thời gian cũng có thể đủ."
+              "文の最後",
+              "文の最初だけ",
+              "助詞の前だけ"
             ],
-            "answer": "Trong hẹn gặp, chỉ nói thời gian cũng có thể đủ.",
+            "answer": "文の最後",
+            "target_type": "usage",
+            "target_id": "L1-3-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-3-G01-Q06",
+            "question_vi": "Chọn câu tiếng Nhật phù hợp với “Tôi học tiếng Nhật.”",
+            "question_zh_tw": "選出符合「我學日文」的日文。",
+            "choices": [
+              "私は日本語を勉強します。",
+              "私は勉強します日本語を。",
+              "日本語は私です。"
+            ],
+            "answer": "私は日本語を勉強します。",
+            "target_type": "usage",
+            "target_id": "L1-3-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-3-G01-Q07",
+            "question_vi": "Câu nào dùng động từ 「行きます」 đúng vị trí?",
+            "question_zh_tw": "哪一句把「行きます」放在正確位置？",
+            "choices": [
+              "明日、会社に行きます。",
+              "明日、行きます会社に。",
+              "行きます明日会社に。"
+            ],
+            "answer": "明日、会社に行きます。",
+            "target_type": "usage",
+            "target_id": "L1-3-G01",
+            "modality": "sentence_order",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-3-G01-Q08",
+            "question_vi": "Trong 「私はご飯を食べます。」, vị ngữ là gì?",
+            "question_zh_tw": "「私はご飯を食べます。」中的述語是什麼？",
+            "choices": [
+              "食べます",
+              "ご飯を",
+              "私は"
+            ],
+            "answer": "食べます",
+            "target_type": "usage",
+            "target_id": "L1-3-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-3-G01-Q09",
+            "question_vi": "Nghe câu rồi chọn nghĩa gần nhất.",
+            "question_zh_tw": "請聽句子，選出最接近的意思。",
+            "choices": [
+              "Tôi uống nước.",
+              "Tôi ăn cơm.",
+              "Tôi đi công ty."
+            ],
+            "answer": "Tôi uống nước.",
+            "target_type": "usage",
+            "target_id": "L1-3-G01",
+            "modality": "listening_choice",
+            "shuffle_options": "Yes",
+            "prompt_ja": "私は水を飲みます。"
+          },
+          {
+            "quiz_id": "L1-3-G01-Q10",
+            "question_vi": "Câu nào có cấu trúc đúng “(chủ đề) + (đối tượng/nơi chốn...) + động từ”?",
+            "question_zh_tw": "哪一句符合「（話題）＋（對象／場所等）＋動詞」？",
+            "choices": [
+              "私はご飯を食べます。",
+              "私は食べますご飯を。",
+              "ご飯を私はです。"
+            ],
+            "answer": "私はご飯を食べます。",
+            "target_type": "usage",
+            "target_id": "L1-3-G01",
+            "modality": "sentence_order",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-3-G01-Q11",
+            "question_vi": "Chọn động từ trong câu 「明日、日本に行きます。」",
+            "question_zh_tw": "選出「明日、日本に行きます。」中的動詞。",
+            "choices": [
+              "行きます",
+              "日本に",
+              "明日"
+            ],
+            "answer": "行きます",
+            "target_type": "usage",
+            "target_id": "L1-3-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-3-G01-Q12",
+            "question_vi": "Khung cơ bản nào phù hợp nhất với câu động từ?",
+            "question_zh_tw": "哪個最符合基本動詞句的骨架？",
+            "choices": [
+              "（話題）＋（対象・場所など）＋動詞",
+              "動詞＋話題＋です",
+              "対象＋です＋動詞"
+            ],
+            "answer": "（話題）＋（対象・場所など）＋動詞",
             "target_type": "usage",
             "target_id": "L1-3-G01",
             "modality": "text_choice",
@@ -771,28 +1098,31 @@
           "usage_id": "L1-4-G01",
           "level_id": "L1",
           "lesson_id": "L1-4",
-          "mobile_title_vi": "Chỉ đồ vật và địa điểm",
-          "mobile_title_zh_tw": "指東西與地點",
-          "example_1_ja": "これ、何？",
-          "example_1_vi": "Cái này là gì?",
-          "example_2_ja": "ここでいい？",
-          "example_2_vi": "Ở đây được không?",
-          "detail_vi": "「これ／それ」 dùng cho đồ vật; 「ここ／そこ／どこ」 dùng cho địa điểm. Có thể nói rất ngắn.",
-          "detail_zh_tw": "「これ／それ」指東西；「ここ／そこ／どこ」指地點。口語可以非常短。",
-          "example_3_ja": "トイレ、どこ？",
-          "example_3_vi": "Nhà vệ sinh ở đâu?"
+          "mobile_title_vi": "Câu tính từ — nói trạng thái / đặc điểm",
+          "mobile_title_zh_tw": "形容詞句：說狀態與特徵",
+          "example_1_ja": "この店は高いです。",
+          "example_1_vi": "Cửa hàng này đắt.",
+          "example_2_ja": "この部屋は静かです。",
+          "example_2_vi": "Phòng này yên tĩnh.",
+          "detail_vi": "Tiếng Nhật có tính từ い và tính từ な. Cách biến đổi của hai nhóm sẽ học riêng sau. Bài này chỉ cần nhận ra cấu trúc: 「A は + đặc điểm / trạng thái + です」.",
+          "detail_zh_tw": "日文有「い形容詞」與「な形容詞」，兩類的變化方式後面會分開學。這一課先看懂「A は＋狀態／特徵＋です」的基本句型。",
+          "example_3_ja": "今日は暑いです。",
+          "example_3_vi": "Hôm nay trời nóng.",
+          "example_1_vi_approx": "kô・nô・mi・xê・oa・ta・ka・i・dê・xư。",
+          "example_2_vi_approx": "kô・nô・hê・ya・oa・shi・zư・ka・dê・xư。",
+          "example_3_vi_approx": "kyô・ư・oa・a・tsư・i・dê・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L1-4-G01-Q01",
-            "question_vi": "Mẫu 「「これ・それ・ここ・そこ・どこ」」 chủ yếu giúp bạn làm gì?",
-            "question_zh_tw": "「「これ・それ・ここ・そこ・どこ」」這個句型主要用來做什麼？",
+            "question_vi": "Câu nào dùng tính từ để nói đặc điểm?",
+            "question_zh_tw": "哪一句用形容詞說明特徵？",
             "choices": [
-              "chỉ đồ vật và địa điểm",
-              "hỏi một địa chỉ dài",
-              "nói số điện thoại"
+              "この店は高いです。",
+              "私は水を飲みます。",
+              "私は学生です。"
             ],
-            "answer": "chỉ đồ vật và địa điểm",
+            "answer": "この店は高いです。",
             "target_type": "usage",
             "target_id": "L1-4-G01",
             "modality": "text_choice",
@@ -800,14 +1130,14 @@
           },
           {
             "quiz_id": "L1-4-G01-Q02",
-            "question_vi": "Câu nào dưới đây là ví dụ đúng của mẫu đang học?",
-            "question_zh_tw": "下面哪一句是這個句型的正確例子？",
+            "question_vi": "「この部屋は静かです。」 có nghĩa là gì?",
+            "question_zh_tw": "「この部屋は静かです。」是在說什麼？",
             "choices": [
-              "これはをです。",
-              "これ、何？",
-              "行くたいです。"
+              "Phòng này yên tĩnh",
+              "Phòng này uống nước",
+              "Phòng này là sinh viên"
             ],
-            "answer": "これ、何？",
+            "answer": "Phòng này yên tĩnh",
             "target_type": "usage",
             "target_id": "L1-4-G01",
             "modality": "text_choice",
@@ -815,29 +1145,29 @@
           },
           {
             "quiz_id": "L1-4-G01-Q03",
-            "question_vi": "「ここでいい？」 có nghĩa gần nhất với câu nào?",
-            "question_zh_tw": "「ここでいい？」最接近下面哪一個意思？",
+            "question_vi": "Câu nào tự nhiên?",
+            "question_zh_tw": "哪一句自然？",
             "choices": [
-              "Cái này là gì?",
-              "Nhà vệ sinh ở đâu?",
-              "Ở đây được không?"
+              "今日は暑いです。",
+              "今日は暑いをです。",
+              "今日はです暑い。"
             ],
-            "answer": "Ở đây được không?",
+            "answer": "今日は暑いです。",
             "target_type": "usage",
             "target_id": "L1-4-G01",
-            "modality": "text_choice",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-4-G01-Q04",
-            "question_vi": "Điểm nào quan trọng nhất khi dùng mẫu này?",
-            "question_zh_tw": "使用這個句型時，最重要的重點是什麼？",
+            "question_vi": "Câu nào là câu tính từ?",
+            "question_zh_tw": "哪一句是形容詞句？",
             "choices": [
-              "「これ／それ」 cho đồ vật; 「ここ／そこ／どこ」 cho nơi chốn.",
-              "Phải luôn nói đầy đủ chủ ngữ.",
-              "Chỉ dùng được trong văn viết."
+              "この部屋は静かです。",
+              "私は学生です。",
+              "私は水を飲みます。"
             ],
-            "answer": "「これ／それ」 cho đồ vật; 「ここ／そこ／どこ」 cho nơi chốn.",
+            "answer": "この部屋は静かです。",
             "target_type": "usage",
             "target_id": "L1-4-G01",
             "modality": "text_choice",
@@ -845,14 +1175,120 @@
           },
           {
             "quiz_id": "L1-4-G01-Q05",
-            "question_vi": "Khi nói chuyện thực tế, nên nhớ điều nào?",
-            "question_zh_tw": "實際對話時，應該記住哪一點？",
+            "question_vi": "Mẫu cơ bản đang học là gì?",
+            "question_zh_tw": "本課正在學的基本句型是什麼？",
             "choices": [
-              "Càng thêm nhiều từ càng tự nhiên.",
-              "Có thể nói rất ngắn như 「トイレ、どこ？」.",
-              "Không cần nghe phát âm tiếng Nhật."
+              "A は 形容詞 ＋ です",
+              "A を 形容詞 ＋ ます",
+              "形容詞 ＋ A を"
             ],
-            "answer": "Có thể nói rất ngắn như 「トイレ、どこ？」.",
+            "answer": "A は 形容詞 ＋ です",
+            "target_type": "usage",
+            "target_id": "L1-4-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-4-G01-Q06",
+            "question_vi": "Chọn câu tiếng Nhật phù hợp với “Cửa hàng này đắt.”",
+            "question_zh_tw": "選出符合「這間店很貴」的日文。",
+            "choices": [
+              "この店は高いです。",
+              "この店を高いです。",
+              "この店は高いを。"
+            ],
+            "answer": "この店は高いです。",
+            "target_type": "usage",
+            "target_id": "L1-4-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-4-G01-Q07",
+            "question_vi": "Muốn nói “Căn phòng này yên tĩnh”, câu nào tự nhiên?",
+            "question_zh_tw": "要說「這個房間很安靜」，哪一句自然？",
+            "choices": [
+              "この部屋は静かです。",
+              "この部屋は学生です。",
+              "この部屋を行きます。"
+            ],
+            "answer": "この部屋は静かです。",
+            "target_type": "usage",
+            "target_id": "L1-4-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-4-G01-Q08",
+            "question_vi": "Muốn nói “Hôm nay nóng”, câu nào tự nhiên?",
+            "question_zh_tw": "要說「今天很熱」，哪一句自然？",
+            "choices": [
+              "今日は暑いです。",
+              "今日は学校です。",
+              "今日を暑いです。"
+            ],
+            "answer": "今日は暑いです。",
+            "target_type": "usage",
+            "target_id": "L1-4-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-4-G01-Q09",
+            "question_vi": "Nghe câu rồi chọn nghĩa gần nhất.",
+            "question_zh_tw": "請聽句子，選出最接近的意思。",
+            "choices": [
+              "Cửa hàng này rẻ.",
+              "Cửa hàng này đắt.",
+              "Cửa hàng này yên tĩnh."
+            ],
+            "answer": "Cửa hàng này rẻ.",
+            "target_type": "usage",
+            "target_id": "L1-4-G01",
+            "modality": "listening_choice",
+            "shuffle_options": "Yes",
+            "prompt_ja": "この店は安いです。"
+          },
+          {
+            "quiz_id": "L1-4-G01-Q10",
+            "question_vi": "Câu nào KHÔNG phải câu tính từ?",
+            "question_zh_tw": "哪一句不是形容詞句？",
+            "choices": [
+              "私は学生です。",
+              "この店は高いです。",
+              "今日は暑いです。"
+            ],
+            "answer": "私は学生です。",
+            "target_type": "usage",
+            "target_id": "L1-4-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-4-G01-Q11",
+            "question_vi": "Câu nào có trật tự tự nhiên?",
+            "question_zh_tw": "哪一句語序自然？",
+            "choices": [
+              "この店は高いです。",
+              "この店はです高い。",
+              "高いこの店はです。"
+            ],
+            "answer": "この店は高いです。",
+            "target_type": "usage",
+            "target_id": "L1-4-G01",
+            "modality": "sentence_order",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-4-G01-Q12",
+            "question_vi": "Câu tính từ dùng để nói điều gì trước tiên?",
+            "question_zh_tw": "形容詞句首先用來說什麼？",
+            "choices": [
+              "Trạng thái / đặc điểm",
+              "Chỉ hành động",
+              "Chỉ quyền sở hữu"
+            ],
+            "answer": "Trạng thái / đặc điểm",
             "target_type": "usage",
             "target_id": "L1-4-G01",
             "modality": "text_choice",
@@ -984,28 +1420,31 @@
           "usage_id": "L1-5-G01",
           "level_id": "L1",
           "lesson_id": "L1-5",
-          "mobile_title_vi": "Đặt thời gian ở đầu câu",
-          "mobile_title_zh_tw": "時間詞放句首",
-          "example_1_ja": "朝、何食べる？",
-          "example_1_vi": "Buổi sáng ăn gì?",
-          "example_2_ja": "昼、ご飯食べる？",
-          "example_2_vi": "Buổi trưa ăn cơm không?",
-          "detail_vi": "Đặt 「朝／昼／夜」 ở đầu câu rồi dùng lại mẫu đã biết. Trong hội thoại, không cần thêm 「は」 nếu ý đã rõ.",
-          "detail_zh_tw": "把「朝／昼／夜」放在句首，再接已經會的短句。口語中語意清楚時，不一定要加「は」。",
-          "example_3_ja": "夜、何する？",
-          "example_3_vi": "Buổi tối làm gì?"
+          "mobile_title_vi": "Trợ từ「は」— nói về chủ đề nào",
+          "mobile_title_zh_tw": "助詞「は」：提示話題",
+          "example_1_ja": "私は秋（です）。",
+          "example_1_vi": "Tôi là Aki.",
+          "example_2_ja": "今日は休み（です）。",
+          "example_2_vi": "Hôm nay là ngày nghỉ.",
+          "detail_vi": "Đừng cố dịch 「は」 thành một từ cố định trong tiếng Việt. Hãy hiểu nó như dấu hiệu “còn về A thì…”. Ví dụ: 「私は秋です」 = “Còn về tôi, tôi là Aki”.",
+          "detail_zh_tw": "不要把「は」硬翻成固定的一個中文詞。先把它理解成「說到A的話……」的話題標記，例如「私は秋です」就是先把「私」設為話題。",
+          "example_3_ja": "この店は安いです。",
+          "example_3_vi": "Cửa hàng này rẻ.",
+          "example_1_vi_approx": "oa・ta・shi・oa・a・ki（dê・xư）。",
+          "example_2_vi_approx": "kyô・ư・oa・ya・xư・mi（dê・xư）。",
+          "example_3_vi_approx": "kô・nô・mi・xê・oa・ya・xư・i・dê・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L1-5-G01-Q01",
-            "question_vi": "Cách đơn giản nhất để nói “buổi tối làm gì?” là câu nào?",
-            "question_zh_tw": "最簡單說「晚上做什麼？」是哪一句？",
+            "question_vi": "Trợ từ 「は」 trong câu này đọc thế nào?",
+            "question_zh_tw": "助詞「は」怎麼讀？",
             "choices": [
-              "夜を何です？",
-              "何夜するです。",
-              "夜、何する？"
+              "wa",
+              "ha",
+              "wo"
             ],
-            "answer": "夜、何する？",
+            "answer": "wa",
             "target_type": "usage",
             "target_id": "L1-5-G01",
             "modality": "text_choice",
@@ -1013,14 +1452,14 @@
           },
           {
             "quiz_id": "L1-5-G01-Q02",
-            "question_vi": "Trong câu 「朝、何食べる？」, 「朝」 làm nhiệm vụ gì?",
-            "question_zh_tw": "「朝、何食べる？」裡的「朝」是什麼作用？",
+            "question_vi": "Trong 「私は秋です。」, 「は」 đặt phần nào làm chủ đề?",
+            "question_zh_tw": "「私は秋です。」中，「は」把哪一部分設為話題？",
             "choices": [
-              "Nói thời gian",
-              "Nói địa điểm",
-              "Nói người"
+              "私",
+              "秋",
+              "です"
             ],
-            "answer": "Nói thời gian",
+            "answer": "私",
             "target_type": "usage",
             "target_id": "L1-5-G01",
             "modality": "text_choice",
@@ -1028,29 +1467,29 @@
           },
           {
             "quiz_id": "L1-5-G01-Q03",
-            "question_vi": "「3時、遅い？」 có nghĩa gần nhất là gì?",
-            "question_zh_tw": "「3時、遅い？」最接近哪個意思？",
+            "question_vi": "Câu nào dùng 「は」 tự nhiên?",
+            "question_zh_tw": "哪一句自然使用「は」？",
             "choices": [
-              "3 giờ ở đâu?",
-              "3 giờ có muộn không?",
-              "Có ăn lúc 3 giờ không?"
+              "今日は休みです。",
+              "今日を休みです。",
+              "今日に休みを。"
             ],
-            "answer": "3 giờ có muộn không?",
+            "answer": "今日は休みです。",
             "target_type": "usage",
             "target_id": "L1-5-G01",
-            "modality": "text_choice",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-5-G01-Q04",
-            "question_vi": "Khi ngữ cảnh rõ, có bắt buộc phải thêm 「は」 sau 「朝／昼／夜」 không?",
-            "question_zh_tw": "情境清楚時，「朝／昼／夜」後面一定要加「は」嗎？",
+            "question_vi": "Khi mới học, nên hiểu 「は」 gần với ý nào nhất?",
+            "question_zh_tw": "初學時最容易怎麼理解「は」？",
             "choices": [
-              "Luôn bắt buộc",
-              "Chỉ khi nói số điện thoại",
-              "Không bắt buộc"
+              "dấu hiệu “còn về A thì…”",
+              "luôn luôn có nghĩa là “của”",
+              "luôn luôn chỉ nơi chốn"
             ],
-            "answer": "Không bắt buộc",
+            "answer": "dấu hiệu “còn về A thì…”",
             "target_type": "usage",
             "target_id": "L1-5-G01",
             "modality": "text_choice",
@@ -1058,14 +1497,120 @@
           },
           {
             "quiz_id": "L1-5-G01-Q05",
-            "question_vi": "Mục tiêu của mẫu này là gì?",
-            "question_zh_tw": "這個句型的主要目標是什麼？",
+            "question_vi": "Khung cơ bản của 「は」 là gì?",
+            "question_zh_tw": "「は」的基本骨架是什麼？",
             "choices": [
-              "Dùng lại động từ đã biết với từ thời gian",
-              "Học thêm thật nhiều động từ mới",
-              "Luôn nói câu đầy đủ dài"
+              "話題＋は＋説明",
+              "動詞＋は＋場所",
+              "対象＋は＋を"
             ],
-            "answer": "Dùng lại động từ đã biết với từ thời gian",
+            "answer": "話題＋は＋説明",
+            "target_type": "usage",
+            "target_id": "L1-5-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-5-G01-Q06",
+            "question_vi": "Điền trợ từ đúng: 「私＿秋です。」",
+            "question_zh_tw": "填入正確助詞：「私＿秋です。」",
+            "choices": [
+              "は",
+              "を",
+              "に"
+            ],
+            "answer": "は",
+            "target_type": "usage",
+            "target_id": "L1-5-G01",
+            "modality": "fill_blank",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-5-G01-Q07",
+            "question_vi": "Trong 「この店は安いです。」, chủ đề là phần nào?",
+            "question_zh_tw": "「この店は安いです。」中，話題是哪一部分？",
+            "choices": [
+              "この店",
+              "安い",
+              "です"
+            ],
+            "answer": "この店",
+            "target_type": "usage",
+            "target_id": "L1-5-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-5-G01-Q08",
+            "question_vi": "Câu nào dùng 「は」 để nêu chủ đề rồi giải thích?",
+            "question_zh_tw": "哪一句用「は」先提出話題再說明？",
+            "choices": [
+              "私は学生です。",
+              "私を学生です。",
+              "私に学生を。"
+            ],
+            "answer": "私は学生です。",
+            "target_type": "usage",
+            "target_id": "L1-5-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-5-G01-Q09",
+            "question_vi": "Nghe câu rồi chọn nghĩa gần nhất.",
+            "question_zh_tw": "請聽句子，選出最接近的意思。",
+            "choices": [
+              "Hôm nay nghỉ.",
+              "Hôm nay đi làm.",
+              "Ngày mai nghỉ."
+            ],
+            "answer": "Hôm nay nghỉ.",
+            "target_type": "usage",
+            "target_id": "L1-5-G01",
+            "modality": "listening_choice",
+            "shuffle_options": "Yes",
+            "prompt_ja": "今日は休みです。"
+          },
+          {
+            "quiz_id": "L1-5-G01-Q10",
+            "question_vi": "Trong 「今日は休みです。」, 「は」 đọc là gì?",
+            "question_zh_tw": "「今日は休みです。」中的「は」讀作什麼？",
+            "choices": [
+              "わ（wa）",
+              "は（ha）",
+              "を（wo）"
+            ],
+            "answer": "わ（wa）",
+            "target_type": "usage",
+            "target_id": "L1-5-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-5-G01-Q11",
+            "question_vi": "Muốn nói “Còn về tôi thì, tôi là sinh viên”, câu nào tự nhiên?",
+            "question_zh_tw": "要表達「說到我，我是學生」，哪一句自然？",
+            "choices": [
+              "私は学生です。",
+              "私を学生です。",
+              "学生は私をです。"
+            ],
+            "answer": "私は学生です。",
+            "target_type": "usage",
+            "target_id": "L1-5-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-5-G01-Q12",
+            "question_vi": "Câu nào KHÔNG dùng 「は」 như dấu chủ đề?",
+            "question_zh_tw": "哪一句沒有使用「は」作為話題標記？",
+            "choices": [
+              "私は秋です。",
+              "この店は安いです。",
+              "ご飯を食べます。"
+            ],
+            "answer": "ご飯を食べます。",
             "target_type": "usage",
             "target_id": "L1-5-G01",
             "modality": "text_choice",
@@ -1197,43 +1742,46 @@
           "usage_id": "L1-6-G01",
           "level_id": "L1",
           "lesson_id": "L1-6",
-          "mobile_title_vi": "Thay tên món ăn",
-          "mobile_title_zh_tw": "替換食物名詞",
-          "example_1_ja": "パン食べる？",
-          "example_1_vi": "Ăn bánh mì không?",
-          "example_2_ja": "卵買う？",
-          "example_2_vi": "Mua trứng không?",
-          "detail_vi": "Không học thêm cấu trúc mới. Chỉ thay danh từ phía trước 「食べる・買う・好き・ほしい」.",
-          "detail_zh_tw": "不增加新句型，只替換「食べる・買う・好き・ほしい」前面的食物名詞。",
-          "example_3_ja": "野菜ほしい？",
-          "example_3_vi": "Muốn rau không?"
+          "mobile_title_vi": "Trợ từ「を」— đối tượng của hành động",
+          "mobile_title_zh_tw": "助詞「を」— 動作的對象",
+          "example_1_ja": "ご飯を食べます。",
+          "example_1_vi": "Tôi ăn cơm.",
+          "example_2_ja": "水を飲みます。",
+          "example_2_vi": "Tôi uống nước.",
+          "detail_vi": "Trợ từ 「を」 được phát âm là “o”. Mẫu cơ bản là 「danh từ + を + động từ」. Hãy nhìn 「何を làm gì」 thay vì ghi nhớ từng câu riêng lẻ.",
+          "detail_zh_tw": "助詞「を」讀作「お」。基本形式是「名詞＋を＋動詞」。重點是看懂「對什麼做動作」，不必把每一句分開死背。",
+          "example_3_ja": "日本語を勉強します。",
+          "example_3_vi": "Tôi học tiếng Nhật.",
+          "example_1_vi_approx": "gô・ha・ng・ô・ta・bê・ma・xư。",
+          "example_2_vi_approx": "mi・zư・ô・nô・mi・ma・xư。",
+          "example_3_vi_approx": "ni・hô・ng・gô・ô・bê・ng・kyô・ư・shi・ma・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L1-6-G01-Q01",
-            "question_vi": "Muốn hỏi “ăn cá không?”, câu nào ngắn nhất?",
-            "question_zh_tw": "想問「要吃魚嗎？」最短是哪一句？",
+            "question_vi": "Điền trợ từ: 「ご飯＿食べます。」",
+            "question_zh_tw": "填入助詞：「ご飯＿食べます。」",
             "choices": [
-              "魚をですか？",
-              "魚食べる？",
-              "食べる魚です。"
+              "を",
+              "に",
+              "で"
             ],
-            "answer": "魚食べる？",
+            "answer": "を",
             "target_type": "usage",
             "target_id": "L1-6-G01",
-            "modality": "text_choice",
+            "modality": "fill_blank",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-6-G01-Q02",
-            "question_vi": "Điểm chính của bài này là gì?",
-            "question_zh_tw": "這一課最重要的重點是什麼？",
+            "question_vi": "Trong 「水を飲みます」, 「を」 đánh dấu gì?",
+            "question_zh_tw": "助詞「を」在「水を飲みます」中標示什麼？",
             "choices": [
-              "Học thêm nhiều động từ mới",
-              "Luôn nói câu dài",
-              "Thay danh từ, giữ động từ cũ"
+              "Đối tượng của hành động",
+              "Điểm đến",
+              "Nơi thực hiện hành động"
             ],
-            "answer": "Thay danh từ, giữ động từ cũ",
+            "answer": "Đối tượng của hành động",
             "target_type": "usage",
             "target_id": "L1-6-G01",
             "modality": "text_choice",
@@ -1241,47 +1789,153 @@
           },
           {
             "quiz_id": "L1-6-G01-Q03",
-            "question_vi": "「卵買う？」 có nghĩa gần nhất là gì?",
-            "question_zh_tw": "「卵買う？」最接近哪個意思？",
+            "question_vi": "Câu nào đúng?",
+            "question_zh_tw": "哪一句正確？",
             "choices": [
-              "Mua trứng không?",
-              "Ăn trứng chưa?",
-              "Trứng ở đâu?"
+              "日本語を勉強します。",
+              "日本語に勉強します。",
+              "日本語で勉強をしますを。"
             ],
-            "answer": "Mua trứng không?",
+            "answer": "日本語を勉強します。",
             "target_type": "usage",
             "target_id": "L1-6-G01",
-            "modality": "text_choice",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-6-G01-Q04",
-            "question_vi": "Muốn hỏi sở thích về thịt, câu nào tự nhiên?",
-            "question_zh_tw": "想問喜不喜歡肉，哪一句自然？",
+            "question_vi": "Muốn nói “ăn bánh mì”, câu nào tự nhiên?",
+            "question_zh_tw": "要說「吃麵包」，哪一句自然？",
             "choices": [
-              "肉あるです？",
-              "肉好き？",
-              "肉を好きます？"
+              "パンを食べます。",
+              "パンに食べます。",
+              "パンで食べます。"
             ],
-            "answer": "肉好き？",
+            "answer": "パンを食べます。",
+            "target_type": "usage",
+            "target_id": "L1-6-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-6-G01-Q05",
+            "question_vi": "Chọn câu có trật tự tự nhiên.",
+            "question_zh_tw": "把詞排成自然的日文句子。",
+            "choices": [
+              "私は本を読みます。",
+              "私は読みます本を。",
+              "本を私は読みますを。"
+            ],
+            "answer": "私は本を読みます。",
+            "target_type": "usage",
+            "target_id": "L1-6-G01",
+            "modality": "sentence_order",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-6-G01-Q06",
+            "question_vi": "Nghe tiếng Nhật rồi chọn nghĩa gần nhất.",
+            "question_zh_tw": "聽日文後，選出最接近的意思。",
+            "choices": [
+              "Tôi uống nước.",
+              "Tôi đi đến trường.",
+              "Tôi học ở công ty."
+            ],
+            "answer": "Tôi uống nước.",
+            "target_type": "usage",
+            "target_id": "L1-6-G01",
+            "modality": "listening_choice",
+            "shuffle_options": "Yes",
+            "prompt_ja": "水を飲みます。"
+          },
+          {
+            "quiz_id": "L1-6-G01-Q07",
+            "question_vi": "Trong 「写真を撮ります」, đối tượng của hành động là gì?",
+            "question_zh_tw": "「写真を撮ります」中的動作對象是哪一個？",
+            "choices": [
+              "写真",
+              "撮ります",
+              "を"
+            ],
+            "answer": "写真",
             "target_type": "usage",
             "target_id": "L1-6-G01",
             "modality": "text_choice",
             "shuffle_options": "Yes"
           },
           {
-            "quiz_id": "L1-6-G01-Q05",
-            "question_vi": "Tại sao học 5 danh từ này có hiệu quả?",
-            "question_zh_tw": "為什麼學這5個名詞很有效？",
+            "quiz_id": "L1-6-G01-Q08",
+            "question_vi": "Đưa 「コーヒー」 vào câu với 「飲みます」, câu nào đúng?",
+            "question_zh_tw": "要把「コーヒー」放進「飲みます」的句子，哪一句正確？",
             "choices": [
-              "Mỗi từ cần một mẫu riêng",
-              "Chỉ dùng được trong nhà hàng",
-              "Có thể dùng lại với nhiều động từ cũ"
+              "コーヒーを飲みます。",
+              "コーヒーに飲みます。",
+              "コーヒーで飲みます。"
             ],
-            "answer": "Có thể dùng lại với nhiều động từ cũ",
+            "answer": "コーヒーを飲みます。",
+            "target_type": "usage",
+            "target_id": "L1-6-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-6-G01-Q09",
+            "question_vi": "Câu nào dùng 「を」 không tự nhiên?",
+            "question_zh_tw": "哪一句的「を」用法不自然？",
+            "choices": [
+              "学校を行きます。",
+              "ご飯を食べます。",
+              "日本語を勉強します。"
+            ],
+            "answer": "学校を行きます。",
+            "target_type": "usage",
+            "target_id": "L1-6-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-6-G01-Q10",
+            "question_vi": "Có thể trả lời 「何を食べますか？」 như thế nào?",
+            "question_zh_tw": "「何を食べますか？」可以怎麼回答？",
+            "choices": [
+              "パンを食べます。",
+              "学校に行きます。",
+              "家で勉強します。"
+            ],
+            "answer": "パンを食べます。",
+            "target_type": "usage",
+            "target_id": "L1-6-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-6-G01-Q11",
+            "question_vi": "Mẫu cơ bản là gì?",
+            "question_zh_tw": "基本形式是哪一個？",
+            "choices": [
+              "名詞＋を＋動詞",
+              "場所＋に＋移動動詞",
+              "人＋と＋動詞"
+            ],
+            "answer": "名詞＋を＋動詞",
             "target_type": "usage",
             "target_id": "L1-6-G01",
             "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-6-G01-Q12",
+            "question_vi": "Muốn nói “học tiếng Nhật”, chọn câu nào?",
+            "question_zh_tw": "想說「學日文」，應選哪一句？",
+            "choices": [
+              "日本語を勉強します。",
+              "日本語を行きます。",
+              "日本語に飲みます。"
+            ],
+            "answer": "日本語を勉強します。",
+            "target_type": "usage",
+            "target_id": "L1-6-G01",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           }
         ]
@@ -1410,43 +2064,46 @@
           "usage_id": "L1-7-G01",
           "level_id": "L1",
           "lesson_id": "L1-7",
-          "mobile_title_vi": "Dùng từ để hỏi thật ngắn",
-          "mobile_title_zh_tw": "用疑問詞短問",
-          "example_1_ja": "誰来る？",
-          "example_1_vi": "Ai sẽ đến?",
-          "example_2_ja": "いつ行く？",
-          "example_2_vi": "Khi nào đi?",
-          "detail_vi": "「誰／どれ／どっち／いつ／なんで」 có thể dùng rất ngắn. Khi cần thêm thông tin, chỉ ghép với động từ đã biết như 「行く・来る」.",
-          "detail_zh_tw": "「誰／どれ／どっち／いつ／なんで」都能用很短的形式。需要更多資訊時，只要搭配已經會的「行く・来る」等動詞。",
-          "example_3_ja": "なんで？",
-          "example_3_vi": "Tại sao?"
+          "mobile_title_vi": "Trợ từ「に」— điểm đến",
+          "mobile_title_zh_tw": "「に」表示目的地",
+          "example_1_ja": "学校に行きます。",
+          "example_1_vi": "Tôi đi đến trường.",
+          "example_2_ja": "会社に行きます。",
+          "example_2_vi": "Tôi đi đến công ty.",
+          "detail_vi": "Mẫu cơ bản là 「địa điểm + に + động từ di chuyển」. Bài này chỉ học chức năng “điểm đến” của 「に」; cách dùng 「に」 với thời gian sẽ học riêng sau.",
+          "detail_zh_tw": "基本形式是「地點＋に＋移動動詞」。這一課只學「に」表示目的地的用法；表示時間的「に」之後再另外學。",
+          "example_3_ja": "家に帰ります。",
+          "example_3_vi": "Tôi về nhà.",
+          "example_1_vi_approx": "ga・●・kô・ư・ni・i・ki・ma・xư。",
+          "example_2_vi_approx": "ka・i・xa・ni・i・ki・ma・xư。",
+          "example_3_vi_approx": "i・ê・ni・ka・ê・ri・ma・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L1-7-G01-Q01",
-            "question_vi": "Muốn hỏi “ai sẽ đến?”, câu nào tự nhiên?",
-            "question_zh_tw": "想問「誰會來？」哪一句自然？",
+            "question_vi": "Điền trợ từ: 「学校＿行きます。」",
+            "question_zh_tw": "填入助詞：「学校＿行きます。」",
             "choices": [
-              "誰来る？",
-              "どれ来る？",
-              "いつ誰です。"
+              "に",
+              "を",
+              "で"
             ],
-            "answer": "誰来る？",
+            "answer": "に",
             "target_type": "usage",
             "target_id": "L1-7-G01",
-            "modality": "text_choice",
+            "modality": "fill_blank",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-7-G01-Q02",
-            "question_vi": "Khi có vài lựa chọn, hỏi “cái nào?” bằng từ nào?",
-            "question_zh_tw": "有幾個選項時，「哪一個？」用哪個詞？",
+            "question_vi": "Trong 「家に帰ります」, 「に」 chỉ gì?",
+            "question_zh_tw": "「家に帰ります」中的「に」表示什麼？",
             "choices": [
-              "誰？",
-              "どれ？",
-              "なんで？"
+              "Điểm đến",
+              "Đối tượng của hành động",
+              "Người đi cùng"
             ],
-            "answer": "どれ？",
+            "answer": "Điểm đến",
             "target_type": "usage",
             "target_id": "L1-7-G01",
             "modality": "text_choice",
@@ -1454,47 +2111,153 @@
           },
           {
             "quiz_id": "L1-7-G01-Q03",
-            "question_vi": "「どっち行く？」 nghĩa là gì?",
-            "question_zh_tw": "「どっち行く？」是什麼意思？",
+            "question_vi": "Câu nào đúng?",
+            "question_zh_tw": "哪一句正確？",
             "choices": [
-              "Ai đi?",
-              "Khi nào đi?",
-              "Đi bên nào?"
+              "会社に行きます。",
+              "会社で行きます。",
+              "会社を行きます。"
             ],
-            "answer": "Đi bên nào?",
+            "answer": "会社に行きます。",
             "target_type": "usage",
             "target_id": "L1-7-G01",
-            "modality": "text_choice",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-7-G01-Q04",
-            "question_vi": "Muốn hỏi “khi nào đi?”, câu nào ngắn nhất?",
-            "question_zh_tw": "想問「什麼時候去？」最短是哪一句？",
+            "question_vi": "Muốn nói “đi đến ga”, câu nào tự nhiên?",
+            "question_zh_tw": "要說「去車站」，哪一句自然？",
             "choices": [
-              "いつ行く？",
-              "誰行く？",
-              "どれ行く？"
+              "駅に行きます。",
+              "駅で行きます。",
+              "駅を行きます。"
             ],
-            "answer": "いつ行く？",
+            "answer": "駅に行きます。",
+            "target_type": "usage",
+            "target_id": "L1-7-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-7-G01-Q05",
+            "question_vi": "Chọn câu có trật tự tự nhiên.",
+            "question_zh_tw": "把詞排成自然的日文句子。",
+            "choices": [
+              "明日、学校に行きます。",
+              "明日、行きます学校に。",
+              "学校に明日です行きます。"
+            ],
+            "answer": "明日、学校に行きます。",
+            "target_type": "usage",
+            "target_id": "L1-7-G01",
+            "modality": "sentence_order",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-7-G01-Q06",
+            "question_vi": "Nghe tiếng Nhật rồi chọn nghĩa gần nhất.",
+            "question_zh_tw": "聽日文後，選出最接近的意思。",
+            "choices": [
+              "Tôi về nhà.",
+              "Tôi ăn ở nhà.",
+              "Tôi uống nước."
+            ],
+            "answer": "Tôi về nhà.",
+            "target_type": "usage",
+            "target_id": "L1-7-G01",
+            "modality": "listening_choice",
+            "shuffle_options": "Yes",
+            "prompt_ja": "家に帰ります。"
+          },
+          {
+            "quiz_id": "L1-7-G01-Q07",
+            "question_vi": "Trong 「日本に来ます」, điểm đến là gì?",
+            "question_zh_tw": "「日本に来ます」中的目的地是哪一個？",
+            "choices": [
+              "日本",
+              "来ます",
+              "に"
+            ],
+            "answer": "日本",
             "target_type": "usage",
             "target_id": "L1-7-G01",
             "modality": "text_choice",
             "shuffle_options": "Yes"
           },
           {
-            "quiz_id": "L1-7-G01-Q05",
-            "question_vi": "Khi ngữ cảnh rõ, chỉ nói 「なんで？」 có được không?",
-            "question_zh_tw": "情境清楚時，只說「なんで？」可以嗎？",
+            "quiz_id": "L1-7-G01-Q08",
+            "question_vi": "Câu nào nghĩa là “đi đến trường”, không phải “làm việc gì ở trường”?",
+            "question_zh_tw": "哪一句表示「去學校」而不是「在學校做事」？",
             "choices": [
-              "Không bao giờ",
-              "Có",
-              "Chỉ khi viết"
+              "学校に行きます。",
+              "学校で勉強します。",
+              "学校で食べます。"
             ],
-            "answer": "Có",
+            "answer": "学校に行きます。",
+            "target_type": "usage",
+            "target_id": "L1-7-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-7-G01-Q09",
+            "question_vi": "Muốn nói “trở về công ty”, câu nào đúng?",
+            "question_zh_tw": "要說「回公司」，哪一句正確？",
+            "choices": [
+              "会社に帰ります。",
+              "会社で帰ります。",
+              "会社を帰ります。"
+            ],
+            "answer": "会社に帰ります。",
+            "target_type": "usage",
+            "target_id": "L1-7-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-7-G01-Q10",
+            "question_vi": "Có thể trả lời 「どこに行きますか？」 như thế nào?",
+            "question_zh_tw": "「どこに行きますか？」可以怎麼回答？",
+            "choices": [
+              "会社に行きます。",
+              "ご飯を食べます。",
+              "友達と勉強します。"
+            ],
+            "answer": "会社に行きます。",
+            "target_type": "usage",
+            "target_id": "L1-7-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-7-G01-Q11",
+            "question_vi": "Mẫu cơ bản của bài này là gì?",
+            "question_zh_tw": "本課的基本形式是哪一個？",
+            "choices": [
+              "場所＋に＋移動動詞",
+              "場所＋で＋動詞",
+              "名詞＋を＋動詞"
+            ],
+            "answer": "場所＋に＋移動動詞",
             "target_type": "usage",
             "target_id": "L1-7-G01",
             "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-7-G01-Q12",
+            "question_vi": "Muốn nói “Tôi đi đến ga”, câu nào đúng?",
+            "question_zh_tw": "要說「去車站」，哪一句正確？",
+            "choices": [
+              "駅に行きます。",
+              "駅で行きます。",
+              "駅を行きます。"
+            ],
+            "answer": "駅に行きます。",
+            "target_type": "usage",
+            "target_id": "L1-7-G01",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           }
         ]
@@ -1623,43 +2386,46 @@
           "usage_id": "L1-8-G01",
           "level_id": "L1",
           "lesson_id": "L1-8",
-          "mobile_title_vi": "Hỏi thời tiết bằng câu ngắn",
-          "mobile_title_zh_tw": "用短句問天氣",
-          "example_1_ja": "今日、暑い？",
-          "example_1_vi": "Hôm nay nóng không?",
-          "example_2_ja": "天気どう？",
-          "example_2_vi": "Thời tiết thế nào?",
-          "detail_vi": "Dùng lại 「今日／明日」 trước trạng thái: 「今日、暑い？」. Với danh từ, thêm 「どう？」 để hỏi “thế nào?”: 「天気どう？」.",
-          "detail_zh_tw": "把「今日／明日」放在狀態前面：「今日、暑い？」。名詞後面加「どう？」就能問「怎麼樣？」：「天気どう？」。",
-          "example_3_ja": "これ、どう？",
-          "example_3_vi": "Cái này thế nào?"
+          "mobile_title_vi": "Trợ từ「で」— nơi thực hiện hành động",
+          "mobile_title_zh_tw": "「で」表示動作場所",
+          "example_1_ja": "学校で日本語を勉強します。",
+          "example_1_vi": "Tôi học tiếng Nhật ở trường.",
+          "example_2_ja": "会社でご飯を食べます。",
+          "example_2_vi": "Tôi ăn cơm ở công ty.",
+          "detail_vi": "Hãy phân biệt 「に」 và 「で」: 「学校に行きます」 = đi đến trường; 「学校で勉強します」 = học ở trường. 「に」 chỉ điểm đến, còn 「で」 chỉ nơi thực hiện hành động.",
+          "detail_zh_tw": "要分清楚「に」和「で」：「学校に行きます」是去學校；「学校で勉強します」是在學校學習。「に」表示目的地，「で」表示動作發生的場所。",
+          "example_3_ja": "家で水を飲みます。",
+          "example_3_vi": "Tôi uống nước ở nhà.",
+          "example_1_vi_approx": "ga・●・kô・ư・dê・ni・hô・ng・gô・ô・bê・ng・kyô・ư・shi・ma・xư。",
+          "example_2_vi_approx": "ka・i・xa・dê・gô・ha・ng・ô・ta・bê・ma・xư。",
+          "example_3_vi_approx": "i・ê・dê・mi・zư・ô・nô・mi・ma・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L1-8-G01-Q01",
-            "question_vi": "Muốn hỏi “hôm nay nóng không?”, câu nào tự nhiên?",
-            "question_zh_tw": "想問「今天熱嗎？」哪一句自然？",
+            "question_vi": "Điền trợ từ: 「学校＿日本語を勉強します。」",
+            "question_zh_tw": "填入助詞：「学校＿日本語を勉強します。」",
             "choices": [
-              "今日、食べる？",
-              "暑い、どこ？",
-              "今日、暑い？"
+              "で",
+              "に",
+              "を"
             ],
-            "answer": "今日、暑い？",
+            "answer": "で",
             "target_type": "usage",
             "target_id": "L1-8-G01",
-            "modality": "text_choice",
+            "modality": "fill_blank",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-8-G01-Q02",
-            "question_vi": "「天気どう？」 nghĩa là gì?",
-            "question_zh_tw": "「天気どう？」是什麼意思？",
+            "question_vi": "Trong 「会社でご飯を食べます」, 「で」 chỉ gì?",
+            "question_zh_tw": "「会社でご飯を食べます」中的「で」表示什麼？",
             "choices": [
-              "Thời tiết thế nào?",
-              "Mấy giờ?",
-              "Ai đến?"
+              "Nơi thực hiện hành động",
+              "Điểm đến",
+              "Đối tượng của hành động"
             ],
-            "answer": "Thời tiết thế nào?",
+            "answer": "Nơi thực hiện hành động",
             "target_type": "usage",
             "target_id": "L1-8-G01",
             "modality": "text_choice",
@@ -1667,47 +2433,153 @@
           },
           {
             "quiz_id": "L1-8-G01-Q03",
-            "question_vi": "Muốn hỏi “hôm nay mưa à?”, câu nào ngắn nhất?",
-            "question_zh_tw": "想問「今天下雨嗎？」最短是哪一句？",
+            "question_vi": "Câu nào đúng?",
+            "question_zh_tw": "哪一句正確？",
             "choices": [
-              "雨を今日ですか？",
-              "今日、雨？",
-              "今日、雨行く？"
+              "家で水を飲みます。",
+              "家に水を飲みます。",
+              "家を水で飲みます。"
             ],
-            "answer": "今日、雨？",
+            "answer": "家で水を飲みます。",
             "target_type": "usage",
             "target_id": "L1-8-G01",
-            "modality": "text_choice",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-8-G01-Q04",
-            "question_vi": "「どう」 có thể dùng với danh từ đã biết không?",
-            "question_zh_tw": "「どう」可以和已學名詞一起用嗎？",
+            "question_vi": "Muốn nói “ăn ở nhà hàng”, câu nào tự nhiên?",
+            "question_zh_tw": "要說「在餐廳吃飯」，哪一句自然？",
             "choices": [
-              "Không",
-              "Chỉ khi viết",
-              "Có"
+              "レストランでご飯を食べます。",
+              "レストランにご飯を食べます。",
+              "レストランをご飯に食べます。"
             ],
-            "answer": "Có",
+            "answer": "レストランでご飯を食べます。",
+            "target_type": "usage",
+            "target_id": "L1-8-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-8-G01-Q05",
+            "question_vi": "Chọn câu có trật tự tự nhiên.",
+            "question_zh_tw": "把詞排成自然的日文句子。",
+            "choices": [
+              "私は家で日本語を勉強します。",
+              "私は日本語を家に勉強します。",
+              "家で私は勉強します日本語を。"
+            ],
+            "answer": "私は家で日本語を勉強します。",
+            "target_type": "usage",
+            "target_id": "L1-8-G01",
+            "modality": "sentence_order",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-8-G01-Q06",
+            "question_vi": "Nghe tiếng Nhật rồi chọn nghĩa gần nhất.",
+            "question_zh_tw": "聽日文後，選出最接近的意思。",
+            "choices": [
+              "Tôi học tiếng Nhật ở trường.",
+              "Tôi đi đến trường.",
+              "Tôi về nhà."
+            ],
+            "answer": "Tôi học tiếng Nhật ở trường.",
+            "target_type": "usage",
+            "target_id": "L1-8-G01",
+            "modality": "listening_choice",
+            "shuffle_options": "Yes",
+            "prompt_ja": "学校で日本語を勉強します。"
+          },
+          {
+            "quiz_id": "L1-8-G01-Q07",
+            "question_vi": "Trong 「公園で写真を撮ります」, nơi thực hiện hành động là gì?",
+            "question_zh_tw": "「公園で写真を撮ります」中的動作地點是哪一個？",
+            "choices": [
+              "公園",
+              "写真",
+              "撮ります"
+            ],
+            "answer": "公園",
             "target_type": "usage",
             "target_id": "L1-8-G01",
             "modality": "text_choice",
             "shuffle_options": "Yes"
           },
           {
-            "quiz_id": "L1-8-G01-Q05",
-            "question_vi": "Điểm chính của bài là gì?",
-            "question_zh_tw": "這一課最重要的重點是什麼？",
+            "quiz_id": "L1-8-G01-Q08",
+            "question_vi": "Khác nhau giữa 「学校に行きます」 và 「学校で勉強します」 là gì?",
+            "question_zh_tw": "「学校に行きます」和「学校で勉強します」的差別是什麼？",
             "choices": [
-              "Dùng lại 今日／明日 và thêm trạng thái",
-              "Học thêm nhiều động từ mới",
-              "Luôn dùng câu rất dài"
+              "「に」chỉ điểm đến; 「で」chỉ nơi thực hiện hành động",
+              "Cả hai chỉ điểm đến",
+              "Cả hai chỉ đối tượng của hành động"
             ],
-            "answer": "Dùng lại 今日／明日 và thêm trạng thái",
+            "answer": "「に」chỉ điểm đến; 「で」chỉ nơi thực hiện hành động",
             "target_type": "usage",
             "target_id": "L1-8-G01",
             "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-8-G01-Q09",
+            "question_vi": "Muốn nói “uống cà phê ở công ty”, câu nào đúng?",
+            "question_zh_tw": "要說「在公司喝咖啡」，哪一句正確？",
+            "choices": [
+              "会社でコーヒーを飲みます。",
+              "会社にコーヒーで飲みます。",
+              "会社をコーヒーに飲みます。"
+            ],
+            "answer": "会社でコーヒーを飲みます。",
+            "target_type": "usage",
+            "target_id": "L1-8-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-8-G01-Q10",
+            "question_vi": "Có thể trả lời 「どこで食べますか？」 như thế nào?",
+            "question_zh_tw": "「どこで食べますか？」可以怎麼回答？",
+            "choices": [
+              "家で食べます。",
+              "家に帰ります。",
+              "パンを食べます。"
+            ],
+            "answer": "家で食べます。",
+            "target_type": "usage",
+            "target_id": "L1-8-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-8-G01-Q11",
+            "question_vi": "Mẫu cơ bản của bài này là gì?",
+            "question_zh_tw": "本課的基本形式是哪一個？",
+            "choices": [
+              "場所＋で＋動詞",
+              "場所＋に＋移動動詞",
+              "人＋と＋動詞"
+            ],
+            "answer": "場所＋で＋動詞",
+            "target_type": "usage",
+            "target_id": "L1-8-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-8-G01-Q12",
+            "question_vi": "Câu nào dùng 「で」 để chỉ nơi diễn ra hành động?",
+            "question_zh_tw": "哪一句的「で」表示動作發生的場所？",
+            "choices": [
+              "店で買います。",
+              "店に行きます。",
+              "友達と行きます。"
+            ],
+            "answer": "店で買います。",
+            "target_type": "usage",
+            "target_id": "L1-8-G01",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           }
         ]
@@ -1836,43 +2708,46 @@
           "usage_id": "L1-9-G01",
           "level_id": "L1",
           "lesson_id": "L1-9",
-          "mobile_title_vi": "Hỏi lại bằng cụm cố định",
-          "mobile_title_zh_tw": "用固定短句再問一次",
-          "example_1_ja": "もう一回、言って。",
-          "example_1_vi": "Nói lại một lần nữa.",
-          "example_2_ja": "ゆっくり言って。",
-          "example_2_vi": "Nói chậm một chút.",
-          "detail_vi": "Không cần phân tích ngữ pháp ngay. Hãy nhớ các khối dùng được tức thì: 「もう一回、言って」「ゆっくり言って」「これ、教えて」「どういう意味？」.",
-          "detail_zh_tw": "不需要先分析文法。直接記能馬上使用的短句塊：「もう一回、言って」「ゆっくり言って」「これ、教えて」「どういう意味？」。",
-          "example_3_ja": "これ、どういう意味？",
-          "example_3_vi": "Cái này nghĩa là gì?"
+          "mobile_title_vi": "Trợ từ「と」— người cùng làm",
+          "mobile_title_zh_tw": "「と」表示和某人一起",
+          "example_1_ja": "友達とご飯を食べます。",
+          "example_1_vi": "Tôi ăn cơm cùng bạn.",
+          "example_2_ja": "先生と日本語を勉強します。",
+          "example_2_vi": "Tôi học tiếng Nhật cùng giáo viên.",
+          "detail_vi": "Mẫu cơ bản là 「người + と + động từ」. Bài này chỉ học 「と」 với nghĩa “cùng với ai”; cách dùng 「と」 để trích lời nói sẽ học sau.",
+          "detail_zh_tw": "基本形式是「人＋と＋動詞」。這一課只學「と」表示「和某人一起」的用法；引用說話內容的「と」之後再學。",
+          "example_3_ja": "友達と学校に行きます。",
+          "example_3_vi": "Tôi đi đến trường cùng bạn.",
+          "example_1_vi_approx": "tô・mô・da・chi・tô・gô・ha・ng・ô・ta・bê・ma・xư。",
+          "example_2_vi_approx": "xê・n・xê・i・tô・ni・hô・ng・gô・ô・bê・ng・kyô・ư・shi・ma・xư。",
+          "example_3_vi_approx": "tô・mô・da・chi・tô・ga・●・kô・ư・ni・i・ki・ma・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L1-9-G01-Q01",
-            "question_vi": "Không nghe kịp, câu nào hữu ích nhất?",
-            "question_zh_tw": "沒聽清楚時，哪一句最實用？",
+            "question_vi": "Điền trợ từ: 「友達＿ご飯を食べます。」",
+            "question_zh_tw": "填入助詞：「友達＿ご飯を食べます。」",
             "choices": [
-              "これ、買う？",
-              "もう一回、言って。",
-              "今日、暑い？"
+              "と",
+              "で",
+              "を"
             ],
-            "answer": "もう一回、言って。",
+            "answer": "と",
             "target_type": "usage",
             "target_id": "L1-9-G01",
-            "modality": "text_choice",
+            "modality": "fill_blank",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-9-G01-Q02",
-            "question_vi": "Muốn người kia nói chậm hơn, dùng câu nào?",
-            "question_zh_tw": "想請對方說慢一點，用哪一句？",
+            "question_vi": "Trong 「先生と日本語を勉強します」, 「と」 chỉ gì?",
+            "question_zh_tw": "「先生と日本語を勉強します」中的「と」表示什麼？",
             "choices": [
-              "早く言って。",
-              "どこ言って？",
-              "ゆっくり言って。"
+              "Người cùng làm hành động",
+              "Điểm đến",
+              "Đối tượng của hành động"
             ],
-            "answer": "ゆっくり言って。",
+            "answer": "Người cùng làm hành động",
             "target_type": "usage",
             "target_id": "L1-9-G01",
             "modality": "text_choice",
@@ -1880,47 +2755,153 @@
           },
           {
             "quiz_id": "L1-9-G01-Q03",
-            "question_vi": "「これ、何て言う？」 dùng để hỏi gì?",
-            "question_zh_tw": "「これ、何て言う？」是在問什麼？",
+            "question_vi": "Câu nào đúng?",
+            "question_zh_tw": "哪一句正確？",
             "choices": [
-              "Cái này nói/gọi thế nào?",
-              "Cái này bao nhiêu?",
-              "Cái này ở đâu?"
+              "友達と学校に行きます。",
+              "友達で学校に行きます。",
+              "友達を学校と行きます。"
             ],
-            "answer": "Cái này nói/gọi thế nào?",
+            "answer": "友達と学校に行きます。",
             "target_type": "usage",
             "target_id": "L1-9-G01",
-            "modality": "text_choice",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-9-G01-Q04",
-            "question_vi": "Muốn nhờ người khác chỉ cho mình, câu nào ngắn?",
-            "question_zh_tw": "想請別人教自己，哪一句很短？",
+            "question_vi": "Muốn nói “ăn cùng bạn”, câu nào tự nhiên?",
+            "question_zh_tw": "要說「和朋友一起吃飯」，哪一句自然？",
             "choices": [
-              "これ、終わって。",
-              "これ、教えて。",
-              "これ、寒い。"
+              "友達とご飯を食べます。",
+              "友達でご飯を食べます。",
+              "友達にご飯と食べます。"
             ],
-            "answer": "これ、教えて。",
+            "answer": "友達とご飯を食べます。",
+            "target_type": "usage",
+            "target_id": "L1-9-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-9-G01-Q05",
+            "question_vi": "Chọn câu có trật tự tự nhiên.",
+            "question_zh_tw": "把詞排成自然的日文句子。",
+            "choices": [
+              "私は先生と日本語を勉強します。",
+              "私は日本語と先生を勉強します。",
+              "先生を私は日本語と勉強します。"
+            ],
+            "answer": "私は先生と日本語を勉強します。",
+            "target_type": "usage",
+            "target_id": "L1-9-G01",
+            "modality": "sentence_order",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-9-G01-Q06",
+            "question_vi": "Nghe tiếng Nhật rồi chọn nghĩa gần nhất.",
+            "question_zh_tw": "聽日文後，選出最接近的意思。",
+            "choices": [
+              "Tôi đi đến trường cùng bạn.",
+              "Tôi học ở trường.",
+              "Tôi về nhà một mình."
+            ],
+            "answer": "Tôi đi đến trường cùng bạn.",
+            "target_type": "usage",
+            "target_id": "L1-9-G01",
+            "modality": "listening_choice",
+            "shuffle_options": "Yes",
+            "prompt_ja": "友達と学校に行きます。"
+          },
+          {
+            "quiz_id": "L1-9-G01-Q07",
+            "question_vi": "Trong 「家族と旅行します」, người cùng hành động là ai?",
+            "question_zh_tw": "「家族と旅行します」中的一起行動者是哪一個？",
+            "choices": [
+              "家族",
+              "旅行します",
+              "と"
+            ],
+            "answer": "家族",
             "target_type": "usage",
             "target_id": "L1-9-G01",
             "modality": "text_choice",
             "shuffle_options": "Yes"
           },
           {
-            "quiz_id": "L1-9-G01-Q05",
-            "question_vi": "「どういう意味？」 nên học thế nào ở giai đoạn đầu?",
-            "question_zh_tw": "初期「どういう意味？」最適合怎麼學？",
+            "quiz_id": "L1-9-G01-Q08",
+            "question_vi": "Muốn nói “đi đến công ty cùng giáo viên”, câu nào đúng?",
+            "question_zh_tw": "要說「和老師一起去公司」，哪一句正確？",
             "choices": [
-              "Tách từng từ và học ngữ pháp trước",
-              "Không cần học",
-              "Nhớ nguyên cụm như một câu cố định"
+              "先生と会社に行きます。",
+              "先生で会社に行きます。",
+              "先生を会社と行きます。"
             ],
-            "answer": "Nhớ nguyên cụm như một câu cố định",
+            "answer": "先生と会社に行きます。",
+            "target_type": "usage",
+            "target_id": "L1-9-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-9-G01-Q09",
+            "question_vi": "Câu nào dùng 「と」 với nghĩa “cùng với bạn”?",
+            "question_zh_tw": "哪一句的「と」表示「和朋友一起」？",
+            "choices": [
+              "友達と食べます。",
+              "友達で食べます。",
+              "友達を食べます。"
+            ],
+            "answer": "友達と食べます。",
+            "target_type": "usage",
+            "target_id": "L1-9-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-9-G01-Q10",
+            "question_vi": "Có thể trả lời 「だれと行きますか？」 như thế nào?",
+            "question_zh_tw": "「だれと行きますか？」可以怎麼回答？",
+            "choices": [
+              "友達と行きます。",
+              "会社に行きます。",
+              "家で食べます。"
+            ],
+            "answer": "友達と行きます。",
+            "target_type": "usage",
+            "target_id": "L1-9-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-9-G01-Q11",
+            "question_vi": "Mẫu cơ bản của bài này là gì?",
+            "question_zh_tw": "本課的基本形式是哪一個？",
+            "choices": [
+              "人＋と＋動詞",
+              "場所＋で＋動詞",
+              "名詞＋を＋動詞"
+            ],
+            "answer": "人＋と＋動詞",
             "target_type": "usage",
             "target_id": "L1-9-G01",
             "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-9-G01-Q12",
+            "question_vi": "Muốn nói “ăn cùng gia đình”, câu nào tự nhiên?",
+            "question_zh_tw": "要說「和家人一起吃飯」，哪一句自然？",
+            "choices": [
+              "家族とご飯を食べます。",
+              "家族にご飯を食べます。",
+              "家族をご飯と食べます。"
+            ],
+            "answer": "家族とご飯を食べます。",
+            "target_type": "usage",
+            "target_id": "L1-9-G01",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           }
         ]
@@ -2049,28 +3030,31 @@
           "usage_id": "L1-10-G01",
           "level_id": "L1",
           "lesson_id": "L1-10",
-          "mobile_title_vi": "Thay tên đồ vật",
-          "mobile_title_zh_tw": "替換物品名詞",
-          "example_1_ja": "スマホ、どこ？",
-          "example_1_vi": "Điện thoại ở đâu?",
-          "example_2_ja": "財布、どこ？",
-          "example_2_vi": "Ví ở đâu?",
-          "detail_vi": "Không học thêm động từ mới. Chỉ đưa tên đồ vật vào các mẫu đã biết như 「どこ？・ある？・ほしい？」.",
-          "detail_zh_tw": "不增加新動詞，只把物品名稱放進已學的「どこ？・ある？・ほしい？」等句型。",
-          "example_3_ja": "ノート、ある？",
-          "example_3_vi": "Có vở không?"
+          "mobile_title_vi": "です・ます — cách nói lịch sự",
+          "mobile_title_zh_tw": "です・ます — 基本的禮貌說法",
+          "example_1_ja": "私は秋（です）。",
+          "example_1_vi": "Tôi là Aki.",
+          "example_2_ja": "これは水（です）。",
+          "example_2_vi": "Đây là nước.",
+          "detail_vi": "Trong các bài trước, ví dụ đã dùng です・ます để câu nói tự nhiên và có thể dùng ngay. Bài này mới gom lại vai trò của chúng: 「です」 đứng sau danh từ như 「学生です」; động từ dùng dạng 「ます」 như 「行きます」「食べます」. Với người chưa thân, giáo viên hoặc trong tình huống thông thường, đây là cách nói an toàn và tự nhiên.",
+          "detail_zh_tw": "前面的例句已先使用「です・ます」，是為了讓初學者從一開始就接觸可以直接使用的自然說法。這一課再把它們的作用整理清楚：「です」接在名詞後，例如「学生です」；動詞使用「ます」形式，例如「行きます」「食べます」。和不熟的人、老師或一般場合說話時，這是安全自然的基本說法。",
+          "example_3_ja": "毎日、日本語を勉強します。",
+          "example_3_vi": "Mỗi ngày tôi học tiếng Nhật.",
+          "example_1_vi_approx": "oa・ta・shi・oa・a・ki（dê・xư）。",
+          "example_2_vi_approx": "kô・rê・oa・mi・zư（dê・xư）。",
+          "example_3_vi_approx": "ma・i・ni・chi、ni・hô・ng・gô・ô・bê・ng・kyô・ư・shi・ma・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L1-10-G01-Q01",
-            "question_vi": "Muốn hỏi điện thoại ở đâu, câu nào ngắn nhất?",
-            "question_zh_tw": "想問手機在哪裡，最短是哪一句？",
+            "question_vi": "Sau danh từ, dùng gì để nói lịch sự cơ bản?",
+            "question_zh_tw": "名詞後面表示基本禮貌語氣，使用哪一個？",
             "choices": [
-              "スマホ、どこ？",
-              "スマホ、何人？",
-              "スマホ、食べる？"
+              "です",
+              "ます",
+              "を"
             ],
-            "answer": "スマホ、どこ？",
+            "answer": "です",
             "target_type": "usage",
             "target_id": "L1-10-G01",
             "modality": "text_choice",
@@ -2078,14 +3062,14 @@
           },
           {
             "quiz_id": "L1-10-G01-Q02",
-            "question_vi": "「財布、どこ？」 nghĩa là gì?",
-            "question_zh_tw": "「財布、忘れた。」是什麼意思？",
+            "question_vi": "Dạng lịch sự cơ bản của động từ dùng gì?",
+            "question_zh_tw": "動詞的基本禮貌形式使用哪一個？",
             "choices": [
-              "Mua ví rồi.",
-              "Ví ở đâu?",
-              "Quên ví rồi."
+              "ます",
+              "です",
+              "の"
             ],
-            "answer": "Ví ở đâu?",
+            "answer": "ます",
             "target_type": "usage",
             "target_id": "L1-10-G01",
             "modality": "text_choice",
@@ -2093,47 +3077,153 @@
           },
           {
             "quiz_id": "L1-10-G01-Q03",
-            "question_vi": "Muốn hỏi có vở không, câu nào tự nhiên?",
-            "question_zh_tw": "想借筆記本，哪一句自然？",
+            "question_vi": "Khi tự giới thiệu, câu nào tự nhiên?",
+            "question_zh_tw": "自我介紹時哪一句自然？",
             "choices": [
-              "ノート、どこ食べる？",
-              "ノート、高い？",
-              "ノート、ある？"
+              "私は秋です。",
+              "私は秋を。",
+              "私は秋ます。"
             ],
-            "answer": "ノート、ある？",
+            "answer": "私は秋です。",
             "target_type": "usage",
             "target_id": "L1-10-G01",
-            "modality": "text_choice",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           },
           {
             "quiz_id": "L1-10-G01-Q04",
-            "question_vi": "Bài này có cần học mẫu mới không?",
-            "question_zh_tw": "這一課需要學新的句型嗎？",
+            "question_vi": "Muốn nói “tôi là sinh viên”, câu nào tự nhiên?",
+            "question_zh_tw": "要說「我是學生」，哪一句自然？",
             "choices": [
-              "Không, chỉ thay danh từ",
-              "Có, phải học 5 mẫu mới",
-              "Chỉ học敬語"
+              "私は学生です。",
+              "私は学生ます。",
+              "私は学生を。"
             ],
-            "answer": "Không, chỉ thay danh từ",
+            "answer": "私は学生です。",
+            "target_type": "usage",
+            "target_id": "L1-10-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-10-G01-Q05",
+            "question_vi": "Muốn nói “ăn cơm” bằng cách lịch sự, câu nào đúng?",
+            "question_zh_tw": "要用禮貌形式說「吃飯」，哪一句正確？",
+            "choices": [
+              "ご飯を食べます。",
+              "ご飯を食べです。",
+              "ご飯を食べるます。"
+            ],
+            "answer": "ご飯を食べます。",
+            "target_type": "usage",
+            "target_id": "L1-10-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-10-G01-Q06",
+            "question_vi": "Nghe tiếng Nhật rồi chọn nghĩa gần nhất.",
+            "question_zh_tw": "聽日文後，選出最接近的意思。",
+            "choices": [
+              "Tôi học tiếng Nhật mỗi ngày.",
+              "Tôi không học tiếng Nhật.",
+              "Tôi đi đến Nhật Bản."
+            ],
+            "answer": "Tôi học tiếng Nhật mỗi ngày.",
+            "target_type": "usage",
+            "target_id": "L1-10-G01",
+            "modality": "listening_choice",
+            "shuffle_options": "Yes",
+            "prompt_ja": "毎日、日本語を勉強します。"
+          },
+          {
+            "quiz_id": "L1-10-G01-Q07",
+            "question_vi": "Câu nào là danh từ + 「です」?",
+            "question_zh_tw": "哪一句是名詞＋「です」？",
+            "choices": [
+              "これは水です。",
+              "水を飲みます。",
+              "学校に行きます。"
+            ],
+            "answer": "これは水です。",
             "target_type": "usage",
             "target_id": "L1-10-G01",
             "modality": "text_choice",
             "shuffle_options": "Yes"
           },
           {
-            "quiz_id": "L1-10-G01-Q05",
-            "question_vi": "Vì sao 5 từ này hữu ích?",
-            "question_zh_tw": "為什麼這5個詞很實用？",
+            "quiz_id": "L1-10-G01-Q08",
+            "question_vi": "Câu nào là dạng 「ます」 của động từ?",
+            "question_zh_tw": "哪一句是動詞的「ます」形式？",
             "choices": [
-              "Mỗi từ chỉ dùng được một câu",
-              "Mỗi từ dùng được với nhiều mẫu đã học",
-              "Chỉ dùng trong lớp học"
+              "会社に行きます。",
+              "会社です。",
+              "会社に行くです。"
             ],
-            "answer": "Mỗi từ dùng được với nhiều mẫu đã học",
+            "answer": "会社に行きます。",
+            "target_type": "usage",
+            "target_id": "L1-10-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-10-G01-Q09",
+            "question_vi": "Trong lần gặp đầu tiên, câu nào an toàn và tự nhiên nhất?",
+            "question_zh_tw": "在一般初次見面場合，哪一句最安全自然？",
+            "choices": [
+              "私は秋です。",
+              "私は秋だ。",
+              "秋！"
+            ],
+            "answer": "私は秋です。",
+            "target_type": "usage",
+            "target_id": "L1-10-G01",
+            "modality": "production_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-10-G01-Q10",
+            "question_vi": "Dấu ngoặc trong 「私は秋（です）。」 giúp thấy điều gì?",
+            "question_zh_tw": "「私は秋（です）。」的括號想讓你看懂什麼？",
+            "choices": [
+              "「私は秋」 là khung câu; 「です」 là phần lịch sự",
+              "Có thể bỏ 「秋」",
+              "「です」 biểu thị quá khứ"
+            ],
+            "answer": "「私は秋」 là khung câu; 「です」 là phần lịch sự",
             "target_type": "usage",
             "target_id": "L1-10-G01",
             "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-10-G01-Q11",
+            "question_vi": "Cặp cơ bản nào đúng?",
+            "question_zh_tw": "基本對應是哪一個？",
+            "choices": [
+              "名詞＋です／動詞＋ます",
+              "名詞＋ます／動詞＋です",
+              "名詞＋を／動詞＋の"
+            ],
+            "answer": "名詞＋です／動詞＋ます",
+            "target_type": "usage",
+            "target_id": "L1-10-G01",
+            "modality": "text_choice",
+            "shuffle_options": "Yes"
+          },
+          {
+            "quiz_id": "L1-10-G01-Q12",
+            "question_vi": "Muốn nói lịch sự “tôi uống nước”, câu nào đúng?",
+            "question_zh_tw": "要禮貌地說「我喝水」，哪一句正確？",
+            "choices": [
+              "私は水を飲みます。",
+              "私は水を飲むです。",
+              "私は水です飲みます。"
+            ],
+            "answer": "私は水を飲みます。",
+            "target_type": "usage",
+            "target_id": "L1-10-G01",
+            "modality": "production_choice",
             "shuffle_options": "Yes"
           }
         ]
@@ -2273,28 +3363,31 @@
           "usage_id": "L2-1-G01",
           "level_id": "L2",
           "lesson_id": "L2-1",
-          "mobile_title_vi": "Ghép danh từ với động từ đã biết",
-          "mobile_title_zh_tw": "名詞接已會的動詞",
-          "example_1_ja": "準備する？",
-          "example_1_vi": "Chuẩn bị không?",
-          "example_2_ja": "あとで電話する。",
-          "example_2_vi": "Lát nữa gọi điện.",
-          "detail_vi": "Không cần học một mẫu mới dài. Ghép danh từ của bài với động từ đã biết: 「準備する？」「あとで電話する。」「ご飯食べる？」.",
-          "detail_zh_tw": "不需要先學新的長句型。把本課名詞放進已會的動詞即可：「準備する？」「あとで電話する。」「ご飯食べる？」。",
-          "example_3_ja": "ご飯食べる？",
-          "example_3_vi": "Ăn cơm không?"
+          "mobile_title_vi": "Câu hỏi「〜か」",
+          "mobile_title_zh_tw": "疑問句「〜か」",
+          "example_1_ja": "学生ですか。",
+          "example_1_vi": "Bạn là sinh viên à?",
+          "example_2_ja": "日本語を勉強しますか。",
+          "example_2_vi": "Bạn có học tiếng Nhật không?",
+          "detail_vi": "Mẫu cơ bản là 「câu + か」. Ví dụ: 「学生です」→「学生ですか」, 「行きます」→「行きますか」. Khi nói, ngữ điệu câu hỏi sẽ tự nhiên theo cả câu; không cần tách 「か」 ra để đọc riêng.",
+          "detail_zh_tw": "基本形式是「句子＋か」。例如「学生です」→「学生ですか」、「行きます」→「行きますか」。實際說話時要整句自然地讀出疑問語調，不要把「か」單獨切開。",
+          "example_3_ja": "明日、会社に行きますか。",
+          "example_3_vi": "Ngày mai bạn có đi công ty không?",
+          "example_1_vi_approx": "ga・kư・xê・i・dê・xư・ka。",
+          "example_2_vi_approx": "ni・hô・ng・gô・ô・bê・ng・kyô・ư・shi・ma・xư・ka。",
+          "example_3_vi_approx": "a・shi・ta、ka・i・xa・ni・i・ki・ma・xư・ka。"
         },
         "quizzes": [
           {
             "quiz_id": "L2-1-G01-Q01",
-            "question_vi": "Bài này mở rộng câu bằng cách nào?",
-            "question_zh_tw": "這一課怎麼擴展句子？",
+            "question_vi": "Điền vào chỗ trống: 「学生です＿。」",
+            "question_zh_tw": "填入：「学生です＿。」",
             "choices": [
-              "học thật nhiều động từ mới",
-              "luôn dùng câu dài",
-              "ghép danh từ với động từ đã biết"
+              "か",
+              "を",
+              "に"
             ],
-            "answer": "ghép danh từ với động từ đã biết",
+            "answer": "か",
             "target_type": "usage",
             "target_id": "L2-1-G01",
             "modality": "text_choice",
@@ -2302,14 +3395,14 @@
           },
           {
             "quiz_id": "L2-1-G01-Q02",
-            "question_vi": "Câu nào dùng đúng cách ghép của bài?",
-            "question_zh_tw": "哪一句正確使用本課組合方式？",
+            "question_vi": "Câu nào hỏi “Ngày mai bạn có đi công ty không?”",
+            "question_zh_tw": "哪一句是在問「明天要去公司嗎？」",
             "choices": [
-              "準備する？",
-              "準備をです。",
-              "準備たい？"
+              "明日、会社に行きますか。",
+              "明日、会社に行きました。",
+              "明日、会社で食べます。"
             ],
-            "answer": "準備する？",
+            "answer": "明日、会社に行きますか。",
             "target_type": "usage",
             "target_id": "L2-1-G01",
             "modality": "text_choice",
@@ -2317,14 +3410,14 @@
           },
           {
             "quiz_id": "L2-1-G01-Q03",
-            "question_vi": "「あとで電話する。」 nghĩa là gì?",
-            "question_zh_tw": "「あとで電話する。」是什麼意思？",
+            "question_vi": "「か」 ở cuối câu có chức năng gì?",
+            "question_zh_tw": "句尾的「か」有什麼作用？",
             "choices": [
-              "Bây giờ ăn cơm.",
-              "Lát nữa gọi điện.",
-              "Ngày mai nghỉ."
+              "Tạo câu hỏi",
+              "Chỉ nơi chốn",
+              "Chỉ sở hữu"
             ],
-            "answer": "Lát nữa gọi điện.",
+            "answer": "Tạo câu hỏi",
             "target_type": "usage",
             "target_id": "L2-1-G01",
             "modality": "text_choice",
@@ -2332,14 +3425,14 @@
           },
           {
             "quiz_id": "L2-1-G01-Q04",
-            "question_vi": "Vì sao cách học này dễ dùng?",
-            "question_zh_tw": "為什麼這種學法容易使用？",
+            "question_vi": "Câu nào là một câu hỏi lịch sự?",
+            "question_zh_tw": "哪一句是禮貌的疑問句？",
             "choices": [
-              "mỗi từ cần một ngữ pháp mới",
-              "phải nhớ câu rất dài",
-              "dùng lại động từ đã biết"
+              "日本語を勉強しますか。",
+              "日本語を勉強の。",
+              "日本語を勉強を。"
             ],
-            "answer": "dùng lại động từ đã biết",
+            "answer": "日本語を勉強しますか。",
             "target_type": "usage",
             "target_id": "L2-1-G01",
             "modality": "text_choice",
@@ -2347,14 +3440,14 @@
           },
           {
             "quiz_id": "L2-1-G01-Q05",
-            "question_vi": "Mục tiêu là gì?",
-            "question_zh_tw": "目標是什麼？",
+            "question_vi": "Mẫu cơ bản của bài này là gì?",
+            "question_zh_tw": "這一課的基本形式是什麼？",
             "choices": [
-              "ít từ nhưng ghép được nhiều câu",
-              "tăng số từ càng nhanh càng tốt",
-              "chỉ học danh từ"
+              "文＋か",
+              "名詞＋の＋名詞",
+              "場所＋で＋動詞"
             ],
-            "answer": "ít từ nhưng ghép được nhiều câu",
+            "answer": "文＋か",
             "target_type": "usage",
             "target_id": "L2-1-G01",
             "modality": "text_choice",
@@ -2486,28 +3579,31 @@
           "usage_id": "L2-2-G01",
           "level_id": "L2",
           "lesson_id": "L2-2",
-          "mobile_title_vi": "Động từ ngắn + 「？」",
-          "mobile_title_zh_tw": "普通形動詞＋「？」",
-          "example_1_ja": "何食べる？",
-          "example_1_vi": "Ăn gì?",
-          "example_2_ja": "コーヒー飲む？",
-          "example_2_vi": "Uống cà phê không?",
-          "detail_vi": "Với người quen, chỉ cần động từ dạng ngắn và giọng hỏi. Dùng ngay các câu trong bài: 「何食べる？」「コーヒー飲む？」「あの店、行く？」.",
-          "detail_zh_tw": "和熟人說話時，普通形動詞加疑問語調即可。直接使用本課短句：「何食べる？」「コーヒー飲む？」「あの店、行く？」。",
-          "example_3_ja": "あの店、行く？",
-          "example_3_vi": "Đi quán đó không?"
+          "mobile_title_vi": "「の」— sở hữu / thuộc về",
+          "mobile_title_zh_tw": "「の」— 所有／所屬",
+          "example_1_ja": "私のかばんです。",
+          "example_1_vi": "Đây là túi của tôi.",
+          "example_2_ja": "先生の本です。",
+          "example_2_vi": "Đây là sách của giáo viên.",
+          "detail_vi": "Mẫu cơ bản là 「A の B」. A giải thích B thuộc về ai hoặc nhóm nào: 「私のかばん」「先生の本」「会社の車」. Hãy nhìn cả cụm như một khối, không cần dịch từng chữ.",
+          "detail_zh_tw": "基本形式是「A の B」。A 用來說明 B 是誰的或屬於哪裡，例如「私のかばん」「先生の本」「会社の車」。把整個名詞組一起理解，不必逐字翻譯。",
+          "example_3_ja": "会社の車です。",
+          "example_3_vi": "Đây là xe của công ty.",
+          "example_1_vi_approx": "oa・ta・shi・nô・ka・ba・ng・dê・xư。",
+          "example_2_vi_approx": "xê・n・xê・i・nô・hô・ng・dê・xư。",
+          "example_3_vi_approx": "ka・i・xa・nô・kư・rư・ma・dê・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L2-2-G01-Q01",
-            "question_vi": "Mẫu 「Động từ dạng thường + 「？」」 chủ yếu giúp bạn làm gì?",
-            "question_zh_tw": "「普通形動詞＋「？」」這個句型主要用來做什麼？",
+            "question_vi": "Điền trợ từ: 「私＿かばんです。」",
+            "question_zh_tw": "填入助詞：「私＿かばんです。」",
             "choices": [
-              "hỏi một địa chỉ dài",
-              "hỏi ý định bằng động từ dạng thường",
-              "nói số điện thoại"
+              "の",
+              "も",
+              "で"
             ],
-            "answer": "hỏi ý định bằng động từ dạng thường",
+            "answer": "の",
             "target_type": "usage",
             "target_id": "L2-2-G01",
             "modality": "text_choice",
@@ -2515,14 +3611,14 @@
           },
           {
             "quiz_id": "L2-2-G01-Q02",
-            "question_vi": "Câu nào dưới đây là ví dụ đúng của mẫu đang học?",
-            "question_zh_tw": "下面哪一句是這個句型的正確例子？",
+            "question_vi": "「先生の本です。」 nghĩa là gì?",
+            "question_zh_tw": "「先生の本です。」是什麼意思？",
             "choices": [
-              "これはをです。",
-              "行くたいです。",
-              "食べる？"
+              "Đây là sách của giáo viên.",
+              "Giáo viên đọc sách.",
+              "Tôi đi gặp giáo viên."
             ],
-            "answer": "食べる？",
+            "answer": "Đây là sách của giáo viên.",
             "target_type": "usage",
             "target_id": "L2-2-G01",
             "modality": "text_choice",
@@ -2530,14 +3626,14 @@
           },
           {
             "quiz_id": "L2-2-G01-Q03",
-            "question_vi": "「飲む？」 có nghĩa gần nhất với câu nào?",
-            "question_zh_tw": "「飲む？」最接近下面哪一個意思？",
+            "question_vi": "Câu nào nói “xe của công ty”?",
+            "question_zh_tw": "哪一句表示「公司的車」？",
             "choices": [
-              "Uống không?",
-              "Ăn không?",
-              "Đi không?"
+              "会社の車です。",
+              "会社で車です。",
+              "会社も車です。"
             ],
-            "answer": "Uống không?",
+            "answer": "会社の車です。",
             "target_type": "usage",
             "target_id": "L2-2-G01",
             "modality": "text_choice",
@@ -2545,14 +3641,14 @@
           },
           {
             "quiz_id": "L2-2-G01-Q04",
-            "question_vi": "Điểm nào quan trọng nhất khi dùng mẫu này?",
-            "question_zh_tw": "使用這個句型時，最重要的重點是什麼？",
+            "question_vi": "「の」 trong bài này dùng để nói điều gì?",
+            "question_zh_tw": "這一課的「の」主要表示什麼？",
             "choices": [
-              "Phải luôn nói đầy đủ chủ ngữ.",
-              "Động từ dạng từ điển + giọng hỏi có thể tạo câu hỏi ngắn.",
-              "Chỉ dùng được trong văn viết."
+              "Sở hữu / thuộc về",
+              "Thời điểm",
+              "Đối tượng hành động"
             ],
-            "answer": "Động từ dạng từ điển + giọng hỏi có thể tạo câu hỏi ngắn.",
+            "answer": "Sở hữu / thuộc về",
             "target_type": "usage",
             "target_id": "L2-2-G01",
             "modality": "text_choice",
@@ -2560,14 +3656,14 @@
           },
           {
             "quiz_id": "L2-2-G01-Q05",
-            "question_vi": "Khi nói chuyện thực tế, nên nhớ điều nào?",
-            "question_zh_tw": "實際對話時，應該記住哪一點？",
+            "question_vi": "Mẫu nào đúng?",
+            "question_zh_tw": "哪一個形式正確？",
             "choices": [
-              "Càng thêm nhiều từ càng tự nhiên.",
-              "Không cần nghe phát âm tiếng Nhật.",
-              "Phù hợp nhất với bạn bè hoặc người thân."
+              "名詞A＋の＋名詞B",
+              "名詞A＋を＋名詞B",
+              "名詞A＋に＋名詞B"
             ],
-            "answer": "Phù hợp nhất với bạn bè hoặc người thân.",
+            "answer": "名詞A＋の＋名詞B",
             "target_type": "usage",
             "target_id": "L2-2-G01",
             "modality": "text_choice",
@@ -2699,28 +3795,31 @@
           "usage_id": "L2-3-G01",
           "level_id": "L2",
           "lesson_id": "L2-3",
-          "mobile_title_vi": "「〜ている」 → 「〜てる」",
-          "mobile_title_zh_tw": "「〜ている」→「〜てる」",
-          "example_1_ja": "今、何勉強してる？",
-          "example_1_vi": "Bây giờ đang học gì?",
-          "example_2_ja": "今、勉強してる。",
-          "example_2_vi": "Bây giờ đang học.",
-          "detail_vi": "Trong hội thoại, 「〜ている」 thường rút thành 「〜てる」. Hãy nghe và dùng ngay trong 「今、何勉強してる？」.",
-          "detail_zh_tw": "自然對話中「〜ている」常縮成「〜てる」。先從本課的「今、何勉強してる？」開始熟悉。",
-          "example_3_ja": "何してる？",
-          "example_3_vi": "Đang làm gì vậy?"
+          "mobile_title_vi": "「も」— “cũng”",
+          "mobile_title_zh_tw": "「も」—「也」",
+          "example_1_ja": "私も学生です。",
+          "example_1_vi": "Tôi cũng là sinh viên.",
+          "example_2_ja": "私も行きます。",
+          "example_2_vi": "Tôi cũng đi.",
+          "detail_vi": "「も」 thường đứng ở vị trí của 「は」「が」「を」 khi mang nghĩa “cũng”. Ví dụ: 「私は学生です」→「私も学生です」, 「水を飲みます」→「水も飲みます」. Bài này chỉ học nghĩa “cũng”.",
+          "detail_zh_tw": "「も」表示「也」時，常放在原本「は」「が」「を」的位置。例如「私は学生です」→「私も学生です」、「水を飲みます」→「水も飲みます」。這一課只學「也」的基本用法。",
+          "example_3_ja": "水も飲みます。",
+          "example_3_vi": "Tôi cũng uống nước.",
+          "example_1_vi_approx": "oa・ta・shi・mô・ga・kư・xê・i・dê・xư。",
+          "example_2_vi_approx": "oa・ta・shi・mô・i・ki・ma・xư。",
+          "example_3_vi_approx": "mi・zư・mô・nô・mi・ma・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L2-3-G01-Q01",
-            "question_vi": "Mẫu 「「〜ている」 → 「〜てる」」 chủ yếu giúp bạn làm gì?",
-            "question_zh_tw": "「「〜ている」→「〜てる」」這個句型主要用來做什麼？",
+            "question_vi": "Điền trợ từ: 「私＿学生です。」 khi muốn nói “Tôi cũng là sinh viên”.",
+            "question_zh_tw": "想說「我也是學生」，填入：「私＿学生です。」",
             "choices": [
-              "nói hành động đang diễn ra",
-              "hỏi một địa chỉ dài",
-              "nói số điện thoại"
+              "も",
+              "を",
+              "に"
             ],
-            "answer": "nói hành động đang diễn ra",
+            "answer": "も",
             "target_type": "usage",
             "target_id": "L2-3-G01",
             "modality": "text_choice",
@@ -2728,14 +3827,14 @@
           },
           {
             "quiz_id": "L2-3-G01-Q02",
-            "question_vi": "Câu nào dưới đây là ví dụ đúng của mẫu đang học?",
-            "question_zh_tw": "下面哪一句是這個句型的正確例子？",
+            "question_vi": "「私も行きます。」 nghĩa là gì?",
+            "question_zh_tw": "「私も行きます。」是什麼意思？",
             "choices": [
-              "これはをです。",
-              "勉強してる。",
-              "行くたいです。"
+              "Tôi cũng đi.",
+              "Tôi không đi.",
+              "Tôi đã đi."
             ],
-            "answer": "勉強してる。",
+            "answer": "Tôi cũng đi.",
             "target_type": "usage",
             "target_id": "L2-3-G01",
             "modality": "text_choice",
@@ -2743,14 +3842,14 @@
           },
           {
             "quiz_id": "L2-3-G01-Q03",
-            "question_vi": "「何してる？」 có nghĩa gần nhất với câu nào?",
-            "question_zh_tw": "「何してる？」最接近下面哪一個意思？",
+            "question_vi": "Câu nào có nghĩa “Tôi cũng uống nước”?",
+            "question_zh_tw": "哪一句是「水也喝」？",
             "choices": [
-              "Đang học.",
-              "Đang đợi.",
-              "Đang làm gì?"
+              "水も飲みます。",
+              "水を行きます。",
+              "水に飲みます。"
             ],
-            "answer": "Đang làm gì?",
+            "answer": "水も飲みます。",
             "target_type": "usage",
             "target_id": "L2-3-G01",
             "modality": "text_choice",
@@ -2758,14 +3857,14 @@
           },
           {
             "quiz_id": "L2-3-G01-Q04",
-            "question_vi": "Điểm nào quan trọng nhất khi dùng mẫu này?",
-            "question_zh_tw": "使用這個句型時，最重要的重點是什麼？",
+            "question_vi": "「も」 trong bài này mang nghĩa gần nhất là gì?",
+            "question_zh_tw": "這一課的「も」最接近哪個意思？",
             "choices": [
-              "Trong hội thoại, 「〜ている」 thường rút thành 「〜てる」.",
-              "Phải luôn nói đầy đủ chủ ngữ.",
-              "Chỉ dùng được trong văn viết."
+              "cũng / 也",
+              "tại / 在",
+              "của / 的"
             ],
-            "answer": "Trong hội thoại, 「〜ている」 thường rút thành 「〜てる」.",
+            "answer": "cũng / 也",
             "target_type": "usage",
             "target_id": "L2-3-G01",
             "modality": "text_choice",
@@ -2773,14 +3872,14 @@
           },
           {
             "quiz_id": "L2-3-G01-Q05",
-            "question_vi": "Khi nói chuyện thực tế, nên nhớ điều nào?",
-            "question_zh_tw": "實際對話時，應該記住哪一點？",
+            "question_vi": "Mẫu cơ bản nào phù hợp?",
+            "question_zh_tw": "哪一個基本形式符合本課？",
             "choices": [
-              "Càng thêm nhiều từ càng tự nhiên.",
-              "Hãy quen cả dạng đầy đủ và dạng nói ngắn.",
-              "Không cần nghe phát âm tiếng Nhật."
+              "名詞＋も＋文",
+              "名詞＋の＋名詞",
+              "時刻＋に＋動詞"
             ],
-            "answer": "Hãy quen cả dạng đầy đủ và dạng nói ngắn.",
+            "answer": "名詞＋も＋文",
             "target_type": "usage",
             "target_id": "L2-3-G01",
             "modality": "text_choice",
@@ -2912,28 +4011,31 @@
           "usage_id": "L2-4-G01",
           "level_id": "L2",
           "lesson_id": "L2-4",
-          "mobile_title_vi": "Có thể lược 「を」 khi rõ",
-          "mobile_title_zh_tw": "語意清楚時可省「を」",
-          "example_1_ja": "何する？",
-          "example_1_vi": "Làm gì?",
-          "example_2_ja": "これ見る？",
-          "example_2_vi": "Xem cái này không?",
-          "detail_vi": "Trong hội thoại, 「を」 có thể bị lược nếu người nghe vẫn hiểu.",
-          "detail_zh_tw": "口語中省略「を」後仍清楚時，常會省略。",
-          "example_3_ja": "音楽聞く？",
-          "example_3_vi": "Nghe nhạc không?"
+          "mobile_title_vi": "「に」— thời điểm",
+          "mobile_title_zh_tw": "「に」— 時間",
+          "example_1_ja": "7時に起きます。",
+          "example_1_vi": "Tôi thức dậy lúc 7 giờ.",
+          "example_2_ja": "9時に会社に行きます。",
+          "example_2_vi": "Tôi đi công ty lúc 9 giờ.",
+          "detail_vi": "Mẫu cơ bản là 「thời điểm + に + động từ」: 「7時に起きます」. Với 「今日」「明日」「昨日」 thường không dùng 「に」: nói 「今日、行きます」 chứ không nói 「今日に行きます」 trong cách dùng cơ bản.",
+          "detail_zh_tw": "基本形式是「時間＋に＋動詞」，例如「7時に起きます」。但「今日」「明日」「昨日」通常不加「に」：基本說法是「今日、行きます」，不是「今日に行きます」。",
+          "example_3_ja": "3時に帰ります。",
+          "example_3_vi": "Tôi về lúc 3 giờ.",
+          "example_1_vi_approx": "shi・chi・ji・ni・ô・ki・ma・xư。",
+          "example_2_vi_approx": "kư・ji・ni・ka・i・xa・ni・i・ki・ma・xư。",
+          "example_3_vi_approx": "xa・n・ji・ni・ka・ê・ri・ma・xư。"
         },
         "quizzes": [
           {
             "quiz_id": "L2-4-G01-Q01",
-            "question_vi": "Mẫu 「Có thể lược 「を」 khi ngữ cảnh rõ」 chủ yếu giúp bạn làm gì?",
-            "question_zh_tw": "「語意清楚時可省略「を」」這個句型主要用來做什麼？",
+            "question_vi": "Điền trợ từ: 「7時＿起きます。」",
+            "question_zh_tw": "填入助詞：「7時＿起きます。」",
             "choices": [
-              "hỏi một địa chỉ dài",
-              "nói số điện thoại",
-              "nói ngắn hơn bằng cách lược 「を」"
+              "に",
+              "で",
+              "を"
             ],
-            "answer": "nói ngắn hơn bằng cách lược 「を」",
+            "answer": "に",
             "target_type": "usage",
             "target_id": "L2-4-G01",
             "modality": "text_choice",
@@ -2941,14 +4043,14 @@
           },
           {
             "quiz_id": "L2-4-G01-Q02",
-            "question_vi": "Câu nào dưới đây là ví dụ đúng của mẫu đang học?",
-            "question_zh_tw": "下面哪一句是這個句型的正確例子？",
+            "question_vi": "Câu nào có nghĩa “9 giờ đi công ty”?",
+            "question_zh_tw": "哪一句是「九點去公司」？",
             "choices": [
-              "何する？",
-              "これはをです。",
-              "行くたいです。"
+              "9時に会社に行きます。",
+              "9時で会社を行きます。",
+              "9時を会社に行きます。"
             ],
-            "answer": "何する？",
+            "answer": "9時に会社に行きます。",
             "target_type": "usage",
             "target_id": "L2-4-G01",
             "modality": "text_choice",
@@ -2956,14 +4058,14 @@
           },
           {
             "quiz_id": "L2-4-G01-Q03",
-            "question_vi": "「これ見る？」 có nghĩa gần nhất với câu nào?",
-            "question_zh_tw": "「これ見る？」最接近下面哪一個意思？",
+            "question_vi": "Với 「今日」, câu cơ bản nào tự nhiên?",
+            "question_zh_tw": "使用「今日」時，哪一句基本說法自然？",
             "choices": [
-              "Làm gì?",
-              "Xem cái này không?",
-              "Nghe nhạc không?"
+              "今日、会社に行きます。",
+              "今日に会社に行きます。",
+              "今日を会社に行きます。"
             ],
-            "answer": "Xem cái này không?",
+            "answer": "今日、会社に行きます。",
             "target_type": "usage",
             "target_id": "L2-4-G01",
             "modality": "text_choice",
@@ -2971,14 +4073,14 @@
           },
           {
             "quiz_id": "L2-4-G01-Q04",
-            "question_vi": "Điểm nào quan trọng nhất khi dùng mẫu này?",
-            "question_zh_tw": "使用這個句型時，最重要的重點是什麼？",
+            "question_vi": "「に」 trong bài này đứng sau loại từ nào?",
+            "question_zh_tw": "這一課的「に」放在哪一類資訊後面？",
             "choices": [
-              "Phải luôn nói đầy đủ chủ ngữ.",
-              "Chỉ dùng được trong văn viết.",
-              "Chỉ lược 「を」 khi người nghe vẫn hiểu rõ."
+              "Thời điểm cụ thể",
+              "Đồ vật",
+              "Người cùng đi"
             ],
-            "answer": "Chỉ lược 「を」 khi người nghe vẫn hiểu rõ.",
+            "answer": "Thời điểm cụ thể",
             "target_type": "usage",
             "target_id": "L2-4-G01",
             "modality": "text_choice",
@@ -2986,14 +4088,14 @@
           },
           {
             "quiz_id": "L2-4-G01-Q05",
-            "question_vi": "Khi nói chuyện thực tế, nên nhớ điều nào?",
-            "question_zh_tw": "實際對話時，應該記住哪一點？",
+            "question_vi": "Mẫu cơ bản của bài này là gì?",
+            "question_zh_tw": "這一課的基本形式是什麼？",
             "choices": [
-              "Dùng đầy đủ 「を」 luôn an toàn khi chưa quen.",
-              "Càng thêm nhiều từ càng tự nhiên.",
-              "Không cần nghe phát âm tiếng Nhật."
+              "時刻＋に＋動詞",
+              "名詞＋も＋文",
+              "文＋か"
             ],
-            "answer": "Dùng đầy đủ 「を」 luôn an toàn khi chưa quen.",
+            "answer": "時刻＋に＋動詞",
             "target_type": "usage",
             "target_id": "L2-4-G01",
             "modality": "text_choice",

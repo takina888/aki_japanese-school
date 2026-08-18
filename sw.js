@@ -1,7 +1,7 @@
-const RELEASE = "V015";
+const RELEASE = "V015.10";
 const CACHE_PREFIXES = ["akigusa-school-", "akigusa-school:"];
-const CACHE = "akigusa-school-v21";
-const PREVIOUS_CACHE = "akigusa-school-v20";
+const CACHE = "akigusa-school-v30";
+const PREVIOUS_CACHE = "akigusa-school-v29";
 const RETAINED_CACHES = new Set([CACHE, PREVIOUS_CACHE]);
 
 const LIVE_DATA = new Set([
@@ -18,7 +18,7 @@ const LIVE_DATA = new Set([
 // The flat GitHub Pages builder replaces this marker with the content-hashed
 // JavaScript and CSS filenames emitted by Vite. Their immutable names make a
 // cache-first strategy safe without allowing an old HTML document to linger.
-const GENERATED_SHELL = ["framework-CXnKph_e.js", "index-CclfYWuZ.css", "index-CrSEnUKH.js", "layout-segment-context-CYo6tYD1.js", "page-BZpJIqrL.css", "page-BpU9oKGt.js", "rolldown-runtime-S-ySWqyJ.js"];
+const GENERATED_SHELL = ["framework-CXnKph_e.js", "index-v153-51eb6988f7.js", "index-v153-df8c3a34fb.css", "layout-segment-context-CYo6tYD1.js", "page-v153-9caad45de3.js", "page-v153-f3a2c4df28.css", "rolldown-runtime-S-ySWqyJ.js"];
 const GENERATED_SHELL_FILES = new Set(GENERATED_SHELL);
 
 const CORE = [
