@@ -1,6 +1,6 @@
 {
   "app": "akigusa-japanese-school",
-  "release": "V015.10",
-  "build": "V015.10-20260816-l1-audit",
-  "serviceWorkerCache": "akigusa-school-v30"
+  "release": "V015.13",
+  "build": "V015.13-20260818-l1-l2-kana-vocab",
+  "serviceWorkerCache": "akigusa-school-v33"
 }

@@ -1,8 +1,7 @@
-const RELEASE = "V015.10";
+const RELEASE = "V015.13";
 const CACHE_PREFIXES = ["akigusa-school-", "akigusa-school:"];
-const CACHE = "akigusa-school-v30";
-const PREVIOUS_CACHE = "akigusa-school-v29";
-const RETAINED_CACHES = new Set([CACHE, PREVIOUS_CACHE]);
+const CACHE = "akigusa-school-v33";
+const RETAINED_CACHES = new Set([CACHE]);
 
 const LIVE_DATA = new Set([
   "learning.json",
@@ -18,7 +17,7 @@ const LIVE_DATA = new Set([
 // The flat GitHub Pages builder replaces this marker with the content-hashed
 // JavaScript and CSS filenames emitted by Vite. Their immutable names make a
 // cache-first strategy safe without allowing an old HTML document to linger.
-const GENERATED_SHELL = ["framework-CXnKph_e.js", "index-v153-51eb6988f7.js", "index-v153-df8c3a34fb.css", "layout-segment-context-CYo6tYD1.js", "page-v153-9caad45de3.js", "page-v153-f3a2c4df28.css", "rolldown-runtime-S-ySWqyJ.js"];
+const GENERATED_SHELL = ["framework-CXnKph_e.js", "index-v154-4c8e2ab1.js", "index-v154-7f1c33d2.css", "layout-segment-context-CYo6tYD1.js", "page-v154-a1f0c7c9.js", "page-v154-91d2e8ab.css", "rolldown-runtime-S-ySWqyJ.js"];
 const GENERATED_SHELL_FILES = new Set(GENERATED_SHELL);
 
 const CORE = [
@@ -54,7 +53,7 @@ function canonicalRequest(urlOrPath) {
 }
 
 async function matchRetainedCaches(request) {
-  for (const name of [CACHE, PREVIOUS_CACHE]) {
+  for (const name of [CACHE]) {
     if (!(await caches.has(name))) continue;
     const cached = await (await caches.open(name)).match(request);
     if (cached) return cached;
@@ -159,7 +158,7 @@ self.addEventListener("fetch", (event) => {
 
   const canonical = canonicalRequest(url);
   if (GENERATED_SHELL_FILES.has(fileName)) {
-    event.respondWith(cacheFirst(event.request, canonical));
+    event.respondWith(networkFirst(event.request, canonical));
     return;
   }
 

@@ -334,283 +334,331 @@
       "id": "L2-1-G01",
       "level": "L2",
       "lesson_id": "L2-1",
-      "title_ja": "疑問文「〜か」",
-      "title_vi": "Câu hỏi「〜か」",
-      "summary_vi": "Thêm 「か」 vào cuối câu lịch sự để biến câu thành câu hỏi.",
-      "summary_zh": "在禮貌句的句尾加上「か」，就能變成疑問句。",
-      "detail_vi": "Mẫu cơ bản là 「câu + か」. Ví dụ: 「学生です」→「学生ですか」, 「行きます」→「行きますか」. Khi nói, ngữ điệu câu hỏi sẽ tự nhiên theo cả câu; không cần tách 「か」 ra để đọc riêng.",
-      "detail_zh": "基本形式是「句子＋か」。例如「学生です」→「学生ですか」、「行きます」→「行きますか」。實際說話時要整句自然地讀出疑問語調，不要把「か」單獨切開。",
+      "title_ja": "動詞の否定 — 〜ません",
+      "title_vi": "Động từ phủ định — 〜ません",
+      "summary_vi": "Dùng 「〜ません」 để lịch sự nói rằng mình không làm gì trong hiện tại hoặc tương lai gần.",
+      "summary_zh": "用「〜ません」可以禮貌地表達現在或接近未來「不做某事」。",
+      "detail_vi": "Hãy nhớ cặp đối lập cơ bản: 「食べます → 食べません」, 「行きます → 行きません」. Đây là mẫu phủ định lịch sự rất hay dùng trong hội thoại đầu cấp.",
+      "detail_zh": "先記住基本對比：「食べます → 食べません」、「行きます → 行きません」。這是初級會話非常常用的禮貌否定句型。",
       "examples": [
         {
-          "ja": "学生ですか。",
-          "vi_approx": "ga・kư・xê・i・dê・xư・ka。",
-          "vi": "Bạn là sinh viên à?",
-          "zh": "你是學生嗎？"
+          "ja": "朝ご飯は食べません。",
+          "vi_approx": "a・sa・gô・ha・ng・oa・ta・bê・ma・xê・ng。",
+          "vi": "Tôi không ăn sáng.",
+          "zh": "我不吃早餐。"
         },
         {
-          "ja": "日本語を勉強しますか。",
-          "vi_approx": "ni・hô・ng・gô・ô・bê・ng・kyô・ư・shi・ma・xư・ka。",
-          "vi": "Bạn có học tiếng Nhật không?",
-          "zh": "你學日文嗎？"
+          "ja": "明日は会社に行きません。",
+          "vi_approx": "a・shi・ta・oa・ka・i・sha・ni・i・ki・ma・xê・ng。",
+          "vi": "Ngày mai tôi không đi công ty.",
+          "zh": "明天不去公司。"
         },
         {
-          "ja": "明日、会社に行きますか。",
-          "vi_approx": "a・shi・ta、ka・i・xa・ni・i・ki・ma・xư・ka。",
-          "vi": "Ngày mai bạn có đi công ty không?",
-          "zh": "明天要去公司嗎？"
+          "ja": "今日は日本語を勉強しません。",
+          "vi_approx": "kyô・ư・oa・ni・hô・ng・gô・ô・bê・ng・kyô・ư・shi・ma・xê・ng。",
+          "vi": "Hôm nay tôi không học tiếng Nhật.",
+          "zh": "今天不學日文。"
         }
       ],
-      "goal_ja": "文末に「か」を付けて、相手に質問できる。",
-      "form_ja": "文 ＋ か"
+      "goal_ja": "「〜ません」で、しないことを丁寧に言える。",
+      "form_ja": "動詞ます形 → 〜ません"
     },
     {
       "id": "L2-2-G01",
       "level": "L2",
       "lesson_id": "L2-2",
-      "title_ja": "助詞「の」— 所有・所属",
-      "title_vi": "Trợ từ「の」— sở hữu / thuộc về",
-      "summary_vi": "Dùng 「の」 để nối hai danh từ và nói “của ai / thuộc về đâu”.",
-      "summary_zh": "用「の」連接兩個名詞，可以表示「誰的／屬於哪裡的」。",
-      "detail_vi": "Mẫu cơ bản là 「A の B」. A giải thích B thuộc về ai hoặc nhóm nào: 「私のかばん」「先生の本」「会社の車」. Hãy nhìn cả cụm như một khối, không cần dịch từng chữ.",
-      "detail_zh": "基本形式是「A の B」。A 用來說明 B 是誰的或屬於哪裡，例如「私のかばん」「先生の本」「会社の車」。把整個名詞組一起理解，不必逐字翻譯。",
+      "title_ja": "動詞の過去 — 〜ました",
+      "title_vi": "Động từ quá khứ — 〜ました",
+      "summary_vi": "Dùng 「〜ました」 để lịch sự nói một việc đã làm trong quá khứ.",
+      "summary_zh": "用「〜ました」可以禮貌地表達過去已經做過的事情。",
+      "detail_vi": "Hãy nhớ cặp đối lập cơ bản: 「食べます → 食べました」, 「行きます → 行きました」. Đây là mẫu quá khứ khẳng định lịch sự.",
+      "detail_zh": "先記住基本對比：「食べます → 食べました」、「行きます → 行きました」。這是禮貌過去肯定形。",
       "examples": [
         {
-          "ja": "私のかばんです。",
-          "vi_approx": "oa・ta・shi・nô・ka・ba・ng・dê・xư。",
-          "vi": "Đây là túi của tôi.",
-          "zh": "這是我的包包。"
+          "ja": "昨日、寿司を食べました。",
+          "vi_approx": "ki・nô・ư・xư・shi・ô・ta・bê・ma・shi・ta。",
+          "vi": "Hôm qua tôi đã ăn sushi.",
+          "zh": "昨天吃了壽司。"
         },
         {
-          "ja": "先生の本です。",
-          "vi_approx": "xê・n・xê・i・nô・hô・ng・dê・xư。",
-          "vi": "Đây là sách của giáo viên.",
-          "zh": "這是老師的書。"
+          "ja": "昨日、学校に行きました。",
+          "vi_approx": "ki・nô・ư・ga・kkô・ư・ni・i・ki・ma・shi・ta。",
+          "vi": "Hôm qua tôi đã đi học.",
+          "zh": "昨天去了學校。"
         },
         {
-          "ja": "会社の車です。",
-          "vi_approx": "ka・i・xa・nô・kư・rư・ma・dê・xư。",
-          "vi": "Đây là xe của công ty.",
-          "zh": "這是公司的車。"
+          "ja": "昨日、日本語を勉強しました。",
+          "vi_approx": "ki・nô・ư・ni・hô・ng・gô・ô・bê・ng・kyô・ư・shi・ma・shi・ta。",
+          "vi": "Hôm qua tôi đã học tiếng Nhật.",
+          "zh": "昨天學了日文。"
         }
       ],
-      "goal_ja": "「AのB」を使って、誰の物か・どこに属する物か言える。",
-      "form_ja": "名詞A ＋ の ＋ 名詞B"
+      "goal_ja": "「〜ました」で、過去にしたことを丁寧に言える。",
+      "form_ja": "動詞ます形 → 〜ました"
     },
     {
       "id": "L2-3-G01",
       "level": "L2",
       "lesson_id": "L2-3",
-      "title_ja": "助詞「も」— 「〜も」",
-      "title_vi": "Trợ từ「も」— “cũng”",
-      "summary_vi": "Dùng 「も」 khi muốn thêm một người hoặc một vật có cùng nội dung: “cũng…”.",
-      "summary_zh": "要補充另一個人或物也有相同情況時，用「も」，相當於「也」。",
-      "detail_vi": "「も」 thường đứng ở vị trí của 「は」「が」「を」 khi mang nghĩa “cũng”. Ví dụ: 「私は学生です」→「私も学生です」, 「水を飲みます」→「水も飲みます」. Bài này chỉ học nghĩa “cũng”.",
-      "detail_zh": "「も」表示「也」時，常放在原本「は」「が」「を」的位置。例如「私は学生です」→「私も学生です」、「水を飲みます」→「水も飲みます」。這一課只學「也」的基本用法。",
+      "title_ja": "動詞の過去否定 — 〜ませんでした",
+      "title_vi": "Động từ quá khứ phủ định — 〜ませんでした",
+      "summary_vi": "Dùng 「〜ませんでした」 để lịch sự nói một việc đã không làm trong quá khứ.",
+      "summary_zh": "用「〜ませんでした」可以禮貌地表達過去沒有做過的事情。",
+      "detail_vi": "Hãy nhớ cặp đối lập cơ bản: 「食べません → 食べませんでした」. Đây là mẫu quá khứ phủ định lịch sự.",
+      "detail_zh": "先記住基本對比：「食べません → 食べませんでした」。這是禮貌過去否定形。",
       "examples": [
         {
-          "ja": "私も学生です。",
-          "vi_approx": "oa・ta・shi・mô・ga・kư・xê・i・dê・xư。",
-          "vi": "Tôi cũng là sinh viên.",
-          "zh": "我也是學生。"
+          "ja": "朝ご飯は食べませんでした。",
+          "vi_approx": "a・sa・gô・ha・ng・oa・ta・bê・ma・xê・ng・dê・shi・ta。",
+          "vi": "Tôi đã không ăn sáng.",
+          "zh": "沒有吃早餐。"
         },
         {
-          "ja": "私も行きます。",
-          "vi_approx": "oa・ta・shi・mô・i・ki・ma・xư。",
-          "vi": "Tôi cũng đi.",
-          "zh": "我也去。"
+          "ja": "昨日は会社に行きませんでした。",
+          "vi_approx": "ki・nô・ư・oa・ka・i・sha・ni・i・ki・ma・xê・ng・dê・shi・ta。",
+          "vi": "Hôm qua tôi đã không đi công ty.",
+          "zh": "昨天沒有去公司。"
         },
         {
-          "ja": "水も飲みます。",
-          "vi_approx": "mi・zư・mô・nô・mi・ma・xư。",
-          "vi": "Tôi cũng uống nước.",
-          "zh": "水也喝。"
+          "ja": "昨日は日本語を勉強しませんでした。",
+          "vi_approx": "ki・nô・ư・oa・ni・hô・ng・gô・ô・bê・ng・kyô・ư・shi・ma・xê・ng・dê・shi・ta。",
+          "vi": "Hôm qua tôi đã không học tiếng Nhật.",
+          "zh": "昨天沒有學日文。"
         }
       ],
-      "goal_ja": "同じ内容を追加するときに「も」を使える。",
-      "form_ja": "名詞 ＋ も ＋ 文"
+      "goal_ja": "「〜ませんでした」で、過去にしなかったことを丁寧に言える。",
+      "form_ja": "動詞ます形 → 〜ませんでした"
     },
     {
       "id": "L2-4-G01",
       "level": "L2",
       "lesson_id": "L2-4",
-      "title_ja": "助詞「に」— 時間",
-      "title_vi": "Trợ từ「に」— thời điểm",
-      "summary_vi": "Dùng 「に」 sau một thời điểm cụ thể để nói hành động xảy ra lúc mấy giờ.",
-      "summary_zh": "在具體的時間後面加「に」，表示動作在幾點發生。",
-      "detail_vi": "Mẫu cơ bản là 「thời điểm + に + động từ」: 「7時に起きます」. Với 「今日」「明日」「昨日」 thường không dùng 「に」: nói 「今日、行きます」 chứ không nói 「今日に行きます」 trong cách dùng cơ bản.",
-      "detail_zh": "基本形式是「時間＋に＋動詞」，例如「7時に起きます」。但「今日」「明日」「昨日」通常不加「に」：基本說法是「今日、行きます」，不是「今日に行きます」。",
+      "title_ja": "い形容詞 — 高いです・安いです",
+      "title_vi": "Tính từ い — 高いです・安いです",
+      "summary_vi": "い形容詞 thường kết thúc bằng 「い」 và dùng để nói trạng thái hay đặc điểm.",
+      "summary_zh": "い形容詞通常以「い」結尾，用來表達狀態或特徵。",
+      "detail_vi": "Trước tiên hãy quen với các ví dụ cơ bản như 「高いです」「安いです」「暑いです」. Ở đây trọng tâm là cách dùng trong câu lịch sự khẳng định.",
+      "detail_zh": "先熟悉「高いです」「安いです」「暑いです」等基本例句。這一課先掌握禮貌肯定句的用法。",
       "examples": [
         {
-          "ja": "7時に起きます。",
-          "vi_approx": "shi・chi・ji・ni・ô・ki・ma・xư。",
-          "vi": "Tôi thức dậy lúc 7 giờ.",
-          "zh": "七點起床。"
+          "ja": "このかばんは高いです。",
+          "vi_approx": "kô・nô・ka・ba・ng・oa・ta・ka・i・dê・xư。",
+          "vi": "Cái túi này đắt.",
+          "zh": "這個包很貴。"
         },
         {
-          "ja": "9時に会社に行きます。",
-          "vi_approx": "kư・ji・ni・ka・i・xa・ni・i・ki・ma・xư。",
-          "vi": "Tôi đi công ty lúc 9 giờ.",
-          "zh": "九點去公司。"
+          "ja": "今日は暑いです。",
+          "vi_approx": "kyô・ư・oa・a・tsư・i・dê・xư。",
+          "vi": "Hôm nay nóng.",
+          "zh": "今天很熱。"
         },
         {
-          "ja": "3時に帰ります。",
-          "vi_approx": "xa・n・ji・ni・ka・ê・ri・ma・xư。",
-          "vi": "Tôi về lúc 3 giờ.",
-          "zh": "三點回去。"
+          "ja": "この本は新しいです。",
+          "vi_approx": "kô・nô・hô・ng・oa・a・ta・ra・shi・i・dê・xư。",
+          "vi": "Cuốn sách này mới.",
+          "zh": "這本書很新。"
         }
       ],
-      "goal_ja": "具体的な時刻の後ろに「に」を付けて、いつするか言える。",
-      "form_ja": "時刻 ＋ に ＋ 動詞"
+      "goal_ja": "い形容詞を使って、状態や特徴を丁寧に言える。",
+      "form_ja": "A は い形容詞 です"
     },
     {
       "id": "L2-5-G01",
       "level": "L2",
       "lesson_id": "L2-5",
-      "title_ja": "毎日の基本動詞②",
-      "title_vi": "Động từ hằng ngày 2",
-      "summary_vi": "「〜て」 để nhờ nhẹ",
-      "summary_zh": "用「〜て」做簡短請求",
-      "detail_vi": "Với bạn bè hoặc người thân, dạng 「〜て」 có thể dùng như lời nhờ ngắn.",
-      "detail_zh": "對朋友或家人，可以直接用「〜て」做短請求。",
+      "title_ja": "な形容詞 — 静かです・元気です",
+      "title_vi": "Tính từ な — 静かです・元気です",
+      "summary_vi": "な形容詞 dùng để nói trạng thái hay đặc điểm của người, đồ vật và nơi chốn.",
+      "summary_zh": "な形容詞用來表達人、物與場所的狀態或特徵。",
+      "detail_vi": "Hãy nhớ các ví dụ cơ bản như 「静かです」「元気です」「便利です」. Ở đây trọng tâm là mẫu câu lịch sự khẳng định 「A は B です」.",
+      "detail_zh": "先記住「静かです」「元気です」「便利です」等基本例句。這一課先掌握禮貌肯定句「A は B です」的用法。",
       "examples": [
         {
-          "ja": "見て。",
-          "vi": "Xem này / Xem nhé."
+          "ja": "この部屋は静かです。",
+          "vi_approx": "kô・nô・hê・ya・oa・shi・zư・ka・dê・xư。",
+          "vi": "Căn phòng này yên tĩnh.",
+          "zh": "這個房間很安靜。"
         },
         {
-          "ja": "待って。",
-          "vi": "Đợi nhé."
+          "ja": "私は元気です。",
+          "vi_approx": "oa・ta・shi・oa・gê・ng・ki・dê・xư。",
+          "vi": "Tôi khỏe.",
+          "zh": "我很有精神。"
         },
         {
-          "ja": "名前、書いて。",
-          "vi": "Viết tên nhé."
+          "ja": "この先生は親切です。",
+          "vi_approx": "kô・nô・xê・ng・xê・i・oa・shi・ng・xê・tsư・dê・xư。",
+          "vi": "Thầy/cô giáo này tử tế.",
+          "zh": "這位老師很親切。"
         }
-      ]
+      ],
+      "goal_ja": "な形容詞を使って、状態や特徴を丁寧に言える。",
+      "form_ja": "A は な形容詞 です"
     },
     {
       "id": "L2-6-G01",
       "level": "L2",
       "lesson_id": "L2-6",
-      "title_ja": "毎日の基本動詞③",
-      "title_vi": "Động từ hằng ngày 3",
-      "summary_vi": "Thời gian cụ thể + 「に」; 今日／明日 thường không cần",
-      "summary_zh": "具體時間＋「に」；今日／明日通常不用",
-      "detail_vi": "Với giờ cụ thể, dùng 「に」: 「何時に起きる？」「3時に帰る。」. Với 「今日／明日」 thường không cần 「に」: 「今日、早く帰る。」.",
-      "detail_zh": "具體時刻通常加「に」：「何時に起きる？」「3時に帰る。」。但「今日／明日」通常不用「に」：「今日、早く帰る。」。",
+      "title_ja": "い形容詞の否定 — 〜くないです",
+      "title_vi": "Tính từ い phủ định — 〜くないです",
+      "summary_vi": "Đổi đuôi 「い」 thành 「くないです」 để nói “không …”. Ví dụ: 高い → 高くないです.",
+      "summary_zh": "い形容詞要變否定時，把最後的「い」改成「くないです」。例如：高い → 高くないです。",
+      "detail_vi": "Trước tiên hãy dùng với từ quen thuộc. 「高くないです」「暑くないです」「難しくないです」 đều là cách nói lịch sự và dễ dùng.",
+      "detail_zh": "先用熟悉的詞練習。「高くないです」「暑くないです」「難しくないです」都是容易直接使用的禮貌說法。",
       "examples": [
         {
-          "ja": "何時に起きる？",
-          "vi": "Mấy giờ thức dậy?"
+          "ja": "この店は高くないです。",
+          "vi_approx": "kô・nô・mi・xê・oa・ta・ka・kư・na・i・dê・xư。",
+          "vi": "Cửa hàng này không đắt.",
+          "zh": "這家店不貴。"
         },
         {
-          "ja": "3時に帰る。",
-          "vi": "Về lúc 3 giờ."
+          "ja": "今日は暑くないです。",
+          "vi_approx": "kyô・ư・oa・a・tsư・kư・na・i・dê・xư。",
+          "vi": "Hôm nay không nóng.",
+          "zh": "今天不熱。"
         },
         {
-          "ja": "今日、早く帰る。",
-          "vi": "Hôm nay về sớm."
+          "ja": "この問題は難しくないです。",
+          "vi_approx": "kô・nô・mô・ng・da・i・oa・mư・zư・ka・shi・kư・na・i・dê・xư。",
+          "vi": "Câu hỏi này không khó.",
+          "zh": "這題不難。"
         }
-      ]
+      ],
+      "goal_ja": "い形容詞を否定の形にして「〜くないです」と言える。",
+      "form_ja": "い → くないです"
     },
     {
       "id": "L2-7-G01",
       "level": "L2",
       "lesson_id": "L2-7",
-      "title_ja": "ある・いる・好き",
-      "title_vi": "Có・ở・thích",
-      "summary_vi": "Phân biệt 「ある」 và 「いる」",
-      "summary_zh": "區分「ある」和「いる」",
-      "detail_vi": "Dùng 「いる」 cho người/động vật; dùng 「ある」 cho đồ vật, sự việc hoặc kế hoạch.",
-      "detail_zh": "人和動物用「いる」；物品、事情、行程等用「ある」。",
+      "title_ja": "い形容詞の過去 — 〜かったです",
+      "title_vi": "Tính từ い quá khứ — 〜かったです",
+      "summary_vi": "Đổi đuôi 「い」 thành 「かったです」 để nói trạng thái trong quá khứ. 高い → 高かったです.",
+      "summary_zh": "い形容詞要變過去時，把最後的「い」改成「かったです」。高い → 高かったです。",
+      "detail_vi": "Dùng khi nói hôm qua, lúc trước hoặc trải nghiệm đã kết thúc. 「昨日は暑かったです」 là mẫu rất cơ bản.",
+      "detail_zh": "用來說昨天、以前或已結束的狀態。「昨日は暑かったです」是很基本的句型。",
       "examples": [
         {
-          "ja": "友達いる？",
-          "vi": "Có bạn ở đó không?"
+          "ja": "昨日は暑かったです。",
+          "vi_approx": "ki・nô・ư・oa・a・tsư・ka・t・ta・dê・xư。",
+          "vi": "Hôm qua trời nóng.",
+          "zh": "昨天很熱。"
         },
         {
-          "ja": "かばんある？",
-          "vi": "Có túi/cặp không?"
+          "ja": "その店は安かったです。",
+          "vi_approx": "xô・nô・mi・xê・oa・ya・xư・ka・t・ta・dê・xư。",
+          "vi": "Cửa hàng đó đã rẻ.",
+          "zh": "那家店很便宜。"
         },
         {
-          "ja": "時間ある？",
-          "vi": "Có thời gian không?"
+          "ja": "テストは難しかったです。",
+          "vi_approx": "tê・xư・tô・oa・mư・zư・ka・shi・ka・t・ta・dê・xư。",
+          "vi": "Bài kiểm tra đã khó.",
+          "zh": "考試很難。"
         }
-      ]
+      ],
+      "goal_ja": "い形容詞の過去形「〜かったです」を作って使える。",
+      "form_ja": "い → かったです"
     },
     {
       "id": "L2-8-G01",
       "level": "L2",
       "lesson_id": "L2-8",
-      "title_ja": "家で使う動作",
-      "title_vi": "Động tác ở nhà",
-      "summary_vi": "「〜て」: lời nhờ ngắn",
-      "summary_zh": "「〜て」＝口語中的短請求",
-      "detail_vi": "Dùng 「〜て」 với người thân quen. Tập ngay với động từ trong bài: 「ドア、閉めて。」「ここに置いて。」「かばんから出して。」.",
-      "detail_zh": "對熟人可以直接用「〜て」做短請求。直接使用本課動詞練習：「ドア、閉めて。」「ここに置いて。」「かばんから出して。」。",
+      "title_ja": "な形容詞の否定 — 〜じゃないです",
+      "title_vi": "Tính từ な phủ định — 〜じゃないです",
+      "summary_vi": "Với tính từ な, dùng 「〜じゃないです」 để nói phủ định một cách tự nhiên trong hội thoại lịch sự.",
+      "summary_zh": "な形容詞的否定可以用「〜じゃないです」，在禮貌會話中很自然。",
+      "detail_vi": "Ví dụ: 静かです → 静かじゃないです. 元気です → 元気じゃないです. Trước tiên chỉ cần quen với cách đổi này.",
+      "detail_zh": "例如：静かです → 静かじゃないです、元気です → 元気じゃないです。先熟悉這個變化即可。",
       "examples": [
         {
-          "ja": "ドア、閉めて。",
-          "vi": "Đóng cửa lại nhé."
+          "ja": "ここは静かじゃないです。",
+          "vi_approx": "kô・kô・oa・shi・zư・ka・ja・na・i・dê・xư。",
+          "vi": "Ở đây không yên tĩnh.",
+          "zh": "這裡不安靜。"
         },
         {
-          "ja": "ここに置いて。",
-          "vi": "Để ở đây nhé."
+          "ja": "今日は元気じゃないです。",
+          "vi_approx": "kyô・ư・oa・gê・ng・ki・ja・na・i・dê・xư。",
+          "vi": "Hôm nay tôi không khỏe.",
+          "zh": "今天精神不太好。"
         },
         {
-          "ja": "かばんから出して。",
-          "vi": "Lấy ra khỏi túi nhé."
+          "ja": "この町は便利じゃないです。",
+          "vi_approx": "kô・nô・ma・chi・oa・bê・ng・ri・ja・na・i・dê・xư。",
+          "vi": "Thị trấn này không tiện.",
+          "zh": "這個城鎮不方便。"
         }
-      ]
+      ],
+      "goal_ja": "な形容詞を「〜じゃないです」の否定形にできる。",
+      "form_ja": "な形容詞 + じゃないです"
     },
     {
       "id": "L2-9-G01",
       "level": "L2",
       "lesson_id": "L2-9",
-      "title_ja": "身の回りの動作",
-      "title_vi": "Động tác hằng ngày",
-      "summary_vi": "「〜た？」: đã… chưa?",
-      "summary_zh": "「〜た？」＝做了嗎？",
-      "detail_vi": "Dùng dạng quá khứ + giọng hỏi để kiểm tra việc đã làm: 「手、洗った？」「靴、脱いだ？」. Không cần thêm 「もう」 ở giai đoạn này.",
-      "detail_zh": "用過去形加疑問語調確認事情是否完成，例如「手、洗った？」「靴、脱いだ？」。這個階段不需要先加「もう」。",
+      "title_ja": "な形容詞の過去 — 〜でした",
+      "title_vi": "Tính từ な quá khứ — 〜でした",
+      "summary_vi": "Với tính từ な, dùng 「〜でした」 để nói trạng thái trong quá khứ. 静かです → 静かでした.",
+      "summary_zh": "な形容詞要說過去時，用「〜でした」。静かです → 静かでした。",
+      "detail_vi": "Dùng với hôm qua hoặc một thời điểm đã qua: 「昨日は暇でした」「前は元気でした」.",
+      "detail_zh": "可以和昨天或以前的時間一起使用：「昨日は暇でした」「前は元気でした」。",
       "examples": [
         {
-          "ja": "手、洗った？",
-          "vi": "Rửa tay chưa?"
+          "ja": "昨日は暇でした。",
+          "vi_approx": "ki・nô・ư・oa・hi・ma・dê・shi・ta。",
+          "vi": "Hôm qua tôi rảnh.",
+          "zh": "昨天很閒。"
         },
         {
-          "ja": "靴、脱いだ？",
-          "vi": "Cởi giày rồi chưa?"
+          "ja": "この町は静かでした。",
+          "vi_approx": "kô・nô・ma・chi・oa・shi・zư・ka・dê・shi・ta。",
+          "vi": "Thị trấn này trước đây yên tĩnh.",
+          "zh": "這個城鎮以前很安靜。"
         },
         {
-          "ja": "それ、取った？",
-          "vi": "Lấy cái đó rồi à?"
+          "ja": "前は元気でした。",
+          "vi_approx": "ma・ê・oa・gê・ng・ki・dê・shi・ta。",
+          "vi": "Trước đây tôi khỏe.",
+          "zh": "以前精神很好。"
         }
-      ]
+      ],
+      "goal_ja": "な形容詞で過去の状態を「〜でした」と言える。",
+      "form_ja": "な形容詞 + でした"
     },
     {
       "id": "L2-10-G01",
       "level": "L2",
       "lesson_id": "L2-10",
-      "title_ja": "移動と忘れ物",
-      "title_vi": "Di chuyển và đồ bỏ quên",
-      "summary_vi": "「〜てる」: dạng nói ngắn",
-      "summary_zh": "「〜てる」＝口語縮短",
-      "detail_vi": "「〜てる」 rất thường gặp trong hội thoại thật.",
-      "detail_zh": "「〜てる」在自然對話中非常常見。",
+      "title_ja": "あります・います — 物と人・動物",
+      "title_vi": "あります・います — đồ vật và người/động vật",
+      "summary_vi": "Dùng 「あります」 cho đồ vật và sự vật, 「います」 cho người và động vật.",
+      "summary_zh": "「あります」用於物品與事物，「います」用於人和動物。",
+      "detail_vi": "Hãy phân biệt bằng câu rất ngắn: 「机があります」「先生がいます」「猫がいます」.",
+      "detail_zh": "用很短的句子區分：「机があります」「先生がいます」「猫がいます」。",
       "examples": [
         {
-          "ja": "何してる？",
-          "vi": "Đang làm gì vậy?"
+          "ja": "机があります。",
+          "vi_approx": "tsư・kư・ê・ga・a・ri・ma・xư。",
+          "vi": "Có cái bàn.",
+          "zh": "有桌子。"
         },
         {
-          "ja": "財布、探してる。",
-          "vi": "Đang tìm ví."
+          "ja": "先生がいます。",
+          "vi_approx": "xê・ng・xê・i・ga・i・ma・xư。",
+          "vi": "Có giáo viên.",
+          "zh": "有老師。"
         },
         {
-          "ja": "今、待ってる。",
-          "vi": "Giờ đang đợi."
+          "ja": "猫がいます。",
+          "vi_approx": "nê・kô・ga・i・ma・xư。",
+          "vi": "Có con mèo.",
+          "zh": "有貓。"
         }
-      ]
+      ],
+      "goal_ja": "物には「あります」、人・動物には「います」を使い分けられる。",
+      "form_ja": "物 + があります ／ 人・動物 + がいます"
     },
     {
       "id": "L2-11-G01",
