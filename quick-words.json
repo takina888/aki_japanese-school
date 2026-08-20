@@ -210,7 +210,7 @@
       "kana": "はい",
       "romaji": "hai",
       "viApprox": "ha・i",
-      "vi": "Vâng / dạ",
+      "vi": "Dạ / vâng",
       "zh": "是／好的",
       "noteVi": "Câu trả lời lịch sự khi đồng ý hoặc xác nhận; đọc thành hai nhịp ha-i.",
       "zhPinyin": "shì／hǎo de"
@@ -308,7 +308,7 @@
       "kana": "いいね",
       "romaji": "iine",
       "viApprox": "i・i・nê",
-      "vi": "Hay đấy / được đấy",
+      "vi": "Hay đó / được đó",
       "zh": "不錯耶／很好",
       "noteVi": "Dùng để đồng tình, khen một ý tưởng, kế hoạch, món đồ hoặc bức ảnh.",
       "zhPinyin": "bú cuò ye／hěn hǎo"
@@ -1500,7 +1500,7 @@
       "viApprox": "mi・zư",
       "vi": "Nước",
       "zh": "水",
-      "noteVi": "Ở nhà hàng, có thể chỉ vào cốc hoặc nói 「水」 để làm rõ thứ mình cần.",
+      "noteVi": "Ở nhà hàng, có thể chỉ vào ly hoặc nói 「水」 để làm rõ thứ mình cần.",
       "zhPinyin": "shuǐ"
     },
     {
@@ -1568,9 +1568,9 @@
       "kana": "すまほ",
       "romaji": "sumaho",
       "viApprox": "xư・ma・hô",
-      "vi": "Điện thoại thông minh",
+      "vi": "Điện thoại",
       "zh": "手機／智慧型手機",
-      "noteVi": "Cách nói rất phổ biến ở Nhật cho điện thoại thông minh.",
+      "noteVi": "Ở Nhật, 「スマホ」 là cách nói rất phổ biến để chỉ điện thoại thông minh.",
       "zhPinyin": "shǒujī／zhìhuìxíng shǒujī"
     },
     {
@@ -1876,9 +1876,9 @@
       "kana": "おとうさん",
       "romaji": "otōsan",
       "viApprox": "ô・tô・ư・xa・ng",
-      "vi": "Bố / cha",
+      "vi": "Ba / cha",
       "zh": "爸爸／父親",
-      "noteVi": "Dùng để gọi bố hoặc nói về bố người khác; âm 「とう」 kéo dài hai nhịp.",
+      "noteVi": "Dùng để gọi ba hoặc nói về ba của người khác; âm 「とう」 kéo dài hai nhịp.",
       "zhPinyin": "bàba／fùqīn"
     },
     {

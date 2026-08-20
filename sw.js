@@ -1,7 +1,8 @@
-const RELEASE = "V015.13";
+const RELEASE = "V015.34";
 const CACHE_PREFIXES = ["akigusa-school-", "akigusa-school:"];
-const CACHE = "akigusa-school-v33";
-const RETAINED_CACHES = new Set([CACHE]);
+const CACHE = "akigusa-school-v54";
+const PREVIOUS_CACHE = "akigusa-school-v53";
+const RETAINED_CACHES = new Set([CACHE, PREVIOUS_CACHE]);
 
 const LIVE_DATA = new Set([
   "learning.json",
@@ -17,12 +18,13 @@ const LIVE_DATA = new Set([
 // The flat GitHub Pages builder replaces this marker with the content-hashed
 // JavaScript and CSS filenames emitted by Vite. Their immutable names make a
 // cache-first strategy safe without allowing an old HTML document to linger.
-const GENERATED_SHELL = ["framework-CXnKph_e.js", "index-v154-4c8e2ab1.js", "index-v154-7f1c33d2.css", "layout-segment-context-CYo6tYD1.js", "page-v154-a1f0c7c9.js", "page-v154-91d2e8ab.css", "rolldown-runtime-S-ySWqyJ.js"];
+const GENERATED_SHELL = ["framework-CXnKph_e.js", "index-v01532-fullreview-d0b2cc9c.js", "index-v01519-bafd2b6b.css", "layout-segment-context-v01519-08407bf6.js", "page-v01519-39e9f80a.css", "page-v01532-fullreview-5fb27806.js", "rolldown-runtime-S-ySWqyJ.js"];
 const GENERATED_SHELL_FILES = new Set(GENERATED_SHELL);
 
 const CORE = [
   "./", "manifest.webmanifest", "learning.json", "content-library.json", "life-kanji.json", "scenic.json",
   "quick-words.json", "praise.json", "life-advice.json", "release.json",
+  "akigusa-enhancements-v01534.js", "akigusa-enhancements-v01534.css",
   "aki-hero.webp", "aki-hero-sunflower.webp", "aki-hero-sakura.webp",
   "aki-hero-hydrangea.webp", "aki-hero-cosmos.webp",
   "aki-hero-camellia-red-panda.webp", "aki-hero-camellia-red-panda-mobile.webp",
@@ -53,7 +55,7 @@ function canonicalRequest(urlOrPath) {
 }
 
 async function matchRetainedCaches(request) {
-  for (const name of [CACHE]) {
+  for (const name of [CACHE, PREVIOUS_CACHE]) {
     if (!(await caches.has(name))) continue;
     const cached = await (await caches.open(name)).match(request);
     if (cached) return cached;
@@ -158,13 +160,12 @@ self.addEventListener("fetch", (event) => {
 
   const canonical = canonicalRequest(url);
   if (GENERATED_SHELL_FILES.has(fileName)) {
-    event.respondWith(networkFirst(event.request, canonical));
+    event.respondWith(cacheFirst(event.request, canonical));
     return;
   }
 
-  // Fixed-name illustrations, the manifest and stroke data are refreshed from
-  // the network so replacing V011/V013 files in place cannot leave stale art.
-  // Offline fallback is exact-path only; non-navigation requests never receive
-  // index.html as an accidental response.
-  event.respondWith(networkFirst(event.request, canonical));
+  // Fixed-name illustrations, the manifest and stroke data are already refreshed
+  // into each new versioned cache during install. Serve them cache-first so tab changes
+  // never wait on the network; offline fallback remains exact-path only.
+  event.respondWith(cacheFirst(event.request, canonical));
 });

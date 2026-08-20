@@ -1,0 +1,611 @@
+
+/* AKIGUSA V015.34 entertainment, time-message, flower and responsive illustration layer */
+.today-screen,
+.today-screen > *,
+.today-screen .hero-card,
+.today-screen .hero-picture,
+.today-screen .hero-art {
+  box-sizing: border-box;
+  min-width: 0;
+  max-width: 100%;
+}
+
+.today-screen .hero-card {
+  width: 100%;
+}
+
+.today-screen .hero-picture[data-aki-full-width="true"] {
+  width: 100%;
+  overflow: hidden;
+}
+
+.today-screen .hero-picture[data-aki-full-width="true"] .hero-art {
+  width: 100%;
+  max-width: none;
+}
+
+.aki-day-counter {
+  width: min(100%, 760px);
+  margin: .7rem auto .45rem;
+  padding: .72rem .9rem;
+  border: 1px solid #ead7d1;
+  border-radius: 18px;
+  background: linear-gradient(135deg, #fff8f5 0%, #fffdf9 56%, #f5f8ef 100%);
+  box-shadow: 0 7px 20px rgba(79, 48, 58, .07);
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: .72rem;
+  overflow: hidden;
+}
+
+.aki-day-counter__flower {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  color: #9f4965;
+  background: #f8e9ed;
+  font-family: serif;
+  font-size: 1.35rem;
+}
+
+.aki-day-counter__copy {
+  min-width: 0;
+  display: grid;
+  gap: .05rem;
+}
+
+.aki-day-counter__copy > * {
+  min-width: 0;
+  margin: 0;
+  overflow-wrap: anywhere;
+}
+
+.aki-day-counter__copy > small {
+  color: #8a6a70;
+  font-size: .7rem;
+  font-weight: 800;
+  letter-spacing: .04em;
+}
+
+.aki-day-counter__copy > strong {
+  color: #53343e;
+  font-size: clamp(1.05rem, 3.5vw, 1.35rem);
+  line-height: 1.35;
+}
+
+.aki-day-counter__copy > b {
+  color: #873e57;
+  font-size: .92rem;
+  line-height: 1.45;
+}
+
+.aki-day-counter__copy > em {
+  color: #776c68;
+  font-size: .72rem;
+  font-style: normal;
+  font-weight: 650;
+  line-height: 1.45;
+}
+
+.aki-flower-panel {
+  width: min(100%, 900px);
+  margin: .75rem auto .55rem;
+  border: 1px solid #e5d9d1;
+  border-radius: 24px;
+  background: #fffdf9;
+  box-shadow: 0 9px 26px rgba(70, 50, 41, .08);
+  display: grid;
+  grid-template-columns: minmax(220px, 42%) minmax(0, 1fr);
+  overflow: hidden;
+}
+
+.aki-flower-panel__visual {
+  min-width: 0;
+  padding: .65rem;
+  background: linear-gradient(145deg, #f7eee9 0%, #f2f7eb 100%);
+  display: grid;
+  grid-template-rows: minmax(150px, 1fr) 54px;
+  gap: .45rem;
+}
+
+.aki-flower-panel__main {
+  width: 100%;
+  height: 100%;
+  min-height: 170px;
+  max-height: 255px;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+  border-radius: 17px;
+  background: rgba(255,255,255,.56);
+}
+
+.aki-flower-panel__mini {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: .35rem;
+  min-width: 0;
+}
+
+.aki-flower-panel__mini img {
+  width: 100%;
+  height: 54px;
+  object-fit: contain;
+  border: 1px solid rgba(159, 73, 101, .13);
+  border-radius: 11px;
+  background: rgba(255,255,255,.78);
+}
+
+.aki-flower-panel__copy {
+  min-width: 0;
+  padding: 1.15rem 1.2rem 1.05rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.aki-flower-panel__copy > * {
+  max-width: 100%;
+  overflow-wrap: anywhere;
+}
+
+.aki-flower-panel__kicker {
+  color: #9f4965;
+  letter-spacing: .12em;
+  font-size: .65rem;
+  font-weight: 900;
+}
+
+.aki-flower-panel h2 {
+  margin: .2rem 0 .5rem;
+  color: #3f3434;
+  font-size: clamp(1.35rem, 4vw, 2rem);
+  line-height: 1.15;
+}
+
+.aki-flower-panel h2 small {
+  display: block;
+  margin-top: .18rem;
+  color: #8e4960;
+  font-size: .48em;
+}
+
+.aki-flower-panel h3 {
+  margin: 0 0 .48rem;
+  color: #6e4654;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .25rem .55rem;
+}
+
+.aki-flower-panel h3 span {
+  font-size: 1.15rem;
+}
+
+.aki-flower-panel h3 b {
+  font-size: .9rem;
+}
+
+.aki-flower-panel h3 small {
+  color: #776c68;
+  font-size: .72rem;
+}
+
+.aki-flower-panel__copy p,
+.aki-flower-panel__copy > strong,
+.aki-flower-panel__copy > em {
+  margin: 0;
+  line-height: 1.55;
+}
+
+.aki-flower-panel__copy p {
+  color: #493b3f;
+  font-size: .95rem;
+  font-weight: 800;
+}
+
+.aki-flower-panel__copy > strong {
+  color: #7d4055;
+  font-size: .92rem;
+}
+
+.aki-flower-panel__copy > em {
+  color: #786c68;
+  font-size: .72rem;
+  font-style: normal;
+  font-weight: 650;
+}
+
+.aki-flower-next,
+.aki-message-next {
+  cursor: pointer;
+  border: 1px solid #dbc9cf;
+  border-radius: 999px;
+  color: #76384e;
+  background: #fff;
+  min-height: 40px;
+  margin-top: .7rem;
+  padding: .42rem .8rem;
+  font: inherit;
+  font-size: .72rem;
+  font-weight: 850;
+  display: inline-flex;
+  align-items: center;
+  gap: .45rem;
+}
+
+.aki-flower-next b,
+.aki-message-next b {
+  color: #8a5a68;
+  font-size: .88em;
+}
+
+.aki-time-greeting {
+  width: min(100%, 760px);
+}
+
+.aki-time-greeting .time-greeting-copy {
+  width: 100%;
+}
+
+.aki-greeting-controls {
+  border-top: 1px dashed #dfd4c8;
+  margin-top: .3rem;
+  padding-top: .38rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: .35rem .7rem;
+}
+
+.aki-greeting-clock {
+  color: #8b7772;
+  font-size: .65rem;
+  font-weight: 750;
+  letter-spacing: .04em;
+}
+
+.aki-message-next {
+  margin-top: 0;
+  min-height: 34px;
+  padding: .3rem .68rem;
+  font-size: .66rem;
+}
+
+.time-greeting--midnight .time-greeting-mark,
+.time-greeting--late .time-greeting-mark {
+  color: #655d78;
+  background: #e8e5ee;
+}
+
+.time-greeting--dawn .time-greeting-mark,
+.time-greeting--breakfast .time-greeting-mark {
+  color: #956a35;
+  background: #f5ead4;
+}
+
+.time-greeting--start .time-greeting-mark,
+.time-greeting--late-morning .time-greeting-mark {
+  color: #6f744b;
+  background: #edf0dc;
+}
+
+.time-greeting--early-afternoon .time-greeting-mark,
+.time-greeting--late-afternoon .time-greeting-mark {
+  color: #537064;
+  background: #e1efe8;
+}
+
+.time-greeting--sunset .time-greeting-mark {
+  color: #a45c49;
+  background: #f6e2d7;
+}
+
+.time-greeting--evening .time-greeting-mark {
+  color: #5f6680;
+  background: #e4e8f2;
+}
+
+.aki-radio-intro {
+  border: 1px solid #dbe1e6;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #f7fbfd 0%, #fffaf7 100%);
+  padding: .85rem 1rem;
+  display: grid;
+  gap: .45rem;
+}
+
+.aki-radio-intro > div {
+  display: grid;
+  gap: .08rem;
+}
+
+.aki-radio-intro b[lang="ja"] {
+  color: #405a70;
+  font-size: .95rem;
+}
+
+.aki-radio-intro strong[lang="vi"] {
+  color: #6d4353;
+  font-size: .9rem;
+}
+
+.aki-radio-intro small[lang="zh-Hant"] {
+  color: #756d69;
+  font-size: .7rem;
+}
+
+.aki-radio-intro p {
+  margin: 0;
+  color: #687785;
+  display: grid;
+  gap: .04rem;
+  font-size: .7rem;
+  line-height: 1.5;
+}
+
+.aki-radio-intro p b {
+  color: #735565;
+}
+
+.aki-radio-filters {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .42rem;
+}
+
+.aki-radio-filters button {
+  cursor: pointer;
+  border: 1px solid #ced9e1;
+  border-radius: 999px;
+  color: #50677a;
+  background: #fff;
+  min-height: 40px;
+  padding: .42rem .75rem;
+  display: inline-flex;
+  align-items: baseline;
+  gap: .35rem;
+  font: inherit;
+  font-size: .72rem;
+  font-weight: 850;
+}
+
+.aki-radio-filters button b {
+  color: #7a5a67;
+  font-size: .82em;
+}
+
+.aki-radio-filters button.is-active {
+  border-color: #55758f;
+  color: #fff;
+  background: #55758f;
+  box-shadow: 0 4px 12px rgba(55, 79, 99, .18);
+}
+
+.aki-radio-filters button.is-active b {
+  color: #fff;
+}
+
+.rx-station-card[data-aki-region-label]::before {
+  content: attr(data-aki-region-label);
+  z-index: 2;
+  position: absolute;
+  top: .72rem;
+  left: .78rem;
+  color: #5f7180;
+  background: rgba(255,255,255,.9);
+  border: 1px solid rgba(84,113,139,.18);
+  border-radius: 999px;
+  padding: .18rem .45rem;
+  font-size: .52rem;
+  font-weight: 900;
+  letter-spacing: .05em;
+}
+
+.rx-station-card[hidden] {
+  display: none !important;
+}
+
+@media (max-width: 760px) {
+  .today-screen .hero-picture[data-aki-full-width="true"] {
+    aspect-ratio: 3 / 2;
+    background: #f8eae2;
+  }
+
+  .today-screen .hero-picture[data-aki-full-width="true"] .hero-art {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .today-screen .hero-picture[data-aki-full-width="true"] .hero-art--cafe {
+    object-position: center 35%;
+  }
+
+  .aki-flower-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .aki-flower-panel__visual {
+    grid-template-rows: minmax(170px, 1fr) 50px;
+  }
+
+  .aki-flower-panel__main {
+    min-height: 190px;
+    max-height: 290px;
+  }
+
+  .aki-flower-panel__mini img {
+    height: 50px;
+  }
+}
+
+@media (max-width: 480px) {
+  .today-screen .hero-picture[data-aki-full-width="true"] {
+    aspect-ratio: 4 / 3;
+  }
+
+  .aki-day-counter {
+    margin-top: .55rem;
+    padding: .62rem .72rem;
+    border-radius: 16px;
+  }
+
+  .aki-day-counter__flower {
+    width: 2.1rem;
+    height: 2.1rem;
+    font-size: 1.15rem;
+  }
+
+  .aki-flower-panel {
+    border-radius: 20px;
+  }
+
+  .aki-flower-panel__visual {
+    padding: .5rem;
+    grid-template-rows: minmax(150px, 1fr) 44px;
+  }
+
+  .aki-flower-panel__main {
+    min-height: 165px;
+  }
+
+  .aki-flower-panel__mini img {
+    height: 44px;
+  }
+
+  .aki-flower-panel__copy {
+    padding: .9rem .85rem 1rem;
+  }
+
+  .aki-greeting-controls {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .aki-radio-filters {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .aki-radio-filters button {
+    justify-content: center;
+    min-width: 0;
+    padding-inline: .45rem;
+  }
+
+  .aki-radio-filters button:first-child {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (orientation: landscape) and (max-height: 560px) {
+  .today-screen .hero-card {
+    display: grid;
+    grid-template-columns: minmax(0, 58%) minmax(240px, 42%);
+  }
+
+  .today-screen .hero-picture[data-aki-full-width="true"] {
+    position: relative;
+    aspect-ratio: auto;
+    min-height: 280px;
+  }
+
+  .today-screen .hero-copy {
+    width: 100%;
+    min-height: 280px;
+  }
+
+  .aki-flower-panel {
+    grid-template-columns: minmax(220px, 40%) minmax(0, 1fr);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .aki-flower-panel *,
+  .aki-day-counter *,
+  .aki-time-greeting * {
+    scroll-behavior: auto;
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+.aki-greeting-daynote {
+  margin: .48rem 0 .08rem;
+  padding: .45rem .62rem;
+  border-left: 3px solid #e0c9d2;
+  border-radius: 9px;
+  background: rgba(255,255,255,.54);
+  display: grid;
+  gap: .05rem;
+  line-height: 1.45;
+}
+.aki-greeting-daynote > span { color: #59494f; font-size: .76rem; font-weight: 800; }
+.aki-greeting-daynote > strong { color: #7e4156; font-size: .76rem; }
+.aki-greeting-daynote > small { color: #7a716d; font-size: .65rem; }
+.aki-greeting-daynote.is-milestone {
+  border-left-color: #b4762d;
+  background: linear-gradient(90deg, rgba(255,244,218,.88), rgba(255,255,255,.62));
+}
+
+
+/* V015.34: hero artwork must remain visible on desktop and landscape too. */
+.today-screen .hero-card > .hero-picture[data-aki-full-width="true"] {
+  z-index: 0;
+  background-color: #f8eae2;
+  background-image: url("./aki-hero.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 35%;
+}
+.today-screen .hero-card > .hero-picture[data-aki-full-width="true"] > .hero-art {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+.today-screen .hero-card > .hero-copy {
+  z-index: 2;
+}
+@media (min-width: 761px) {
+  .today-screen .hero-card > .hero-picture[data-aki-full-width="true"] {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .today-screen .hero-card > .hero-picture[data-aki-full-width="true"] > .hero-art {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+    object-position: center 35%;
+  }
+}
+@media (orientation: landscape) and (max-height: 560px) {
+  .today-screen .hero-card > .hero-picture[data-aki-full-width="true"] {
+    position: relative;
+    inset: auto;
+    width: 100%;
+    height: 100%;
+    min-height: 280px;
+    background-position: center 35%;
+  }
+  .today-screen .hero-card > .hero-picture[data-aki-full-width="true"] > .hero-art {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 35%;
+  }
+}

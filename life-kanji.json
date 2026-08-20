@@ -9,17 +9,17 @@
     {
       "id": "hospital_health",
       "labelJa": "病院・健康",
-      "labelVi": "Bệnh viện・sức khỏe"
+      "labelVi": "Bệnh viện · sức khỏe"
     },
     {
       "id": "medicine_body_symptoms",
       "labelJa": "薬・体・症状",
-      "labelVi": "Thuốc・cơ thể・triệu chứng"
+      "labelVi": "Thuốc · cơ thể · triệu chứng"
     },
     {
       "id": "clothing_shoes",
       "labelJa": "衣服・靴",
-      "labelVi": "Quần áo・giày dép"
+      "labelVi": "Quần áo · giày dép"
     },
     {
       "id": "food_drink",
@@ -29,22 +29,22 @@
     {
       "id": "shopping_money",
       "labelJa": "買物・金銭",
-      "labelVi": "Mua sắm・tiền bạc"
+      "labelVi": "Mua sắm · tiền bạc"
     },
     {
       "id": "home_utilities",
       "labelJa": "住居・生活設備",
-      "labelVi": "Nhà ở・tiện ích"
+      "labelVi": "Nhà ở · tiện ích"
     },
     {
       "id": "transport_station",
       "labelJa": "交通・駅",
-      "labelVi": "Giao thông・nhà ga"
+      "labelVi": "Giao thông · nhà ga"
     },
     {
       "id": "public_services_procedures",
       "labelJa": "公共サービス・手続",
-      "labelVi": "Dịch vụ công・thủ tục"
+      "labelVi": "Dịch vụ công · thủ tục"
     },
     {
       "id": "work",
@@ -54,32 +54,32 @@
     {
       "id": "school_learning",
       "labelJa": "学校・学習",
-      "labelVi": "Trường học・học tập"
+      "labelVi": "Trường học · học tập"
     },
     {
       "id": "time_calendar",
       "labelJa": "時間・暦",
-      "labelVi": "Thời gian・lịch"
+      "labelVi": "Thời gian · lịch"
     },
     {
       "id": "weather_nature",
       "labelJa": "天気・自然",
-      "labelVi": "Thời tiết・thiên nhiên"
+      "labelVi": "Thời tiết · thiên nhiên"
     },
     {
       "id": "safety_emergency",
       "labelJa": "安全・緊急",
-      "labelVi": "An toàn・khẩn cấp"
+      "labelVi": "An toàn · khẩn cấp"
     },
     {
       "id": "places_directions_facilities",
       "labelJa": "場所・方向・設備",
-      "labelVi": "Địa điểm・phương hướng・tiện ích"
+      "labelVi": "Địa điểm · phương hướng · tiện ích"
     },
     {
       "id": "family_people_communication",
       "labelJa": "家族・人・連絡",
-      "labelVi": "Gia đình・con người・liên lạc"
+      "labelVi": "Gia đình · con người · liên lạc"
     }
   ],
   "words": [
@@ -321,7 +321,7 @@
       "noteVi": "Dùng khi đi khám, chữa bệnh hoặc làm thủ tục y tế.",
       "sourceVocabId": "VB-0551",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L3-2-W05"
+      "sourceLearningWordId": "L3-3-W02"
     },
     {
       "id": "LK-016",
@@ -763,7 +763,7 @@
       "kana": "くつした",
       "romaji": "kutsushita",
       "viApprox": "kư・tsư・shi・ta",
-      "meaningVi": "tất",
+      "meaningVi": "vớ",
       "meaningZhTw": "襪子",
       "pinyin": "wàzi",
       "noteVi": "Dùng khi mua, mặc, thay hoặc giặt quần áo và giày dép.",
@@ -993,7 +993,7 @@
       "noteVi": "Dùng khi mua, mặc, thay hoặc giặt quần áo và giày dép.",
       "sourceVocabId": "VB-0565",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L4-5-W03"
+      "sourceLearningWordId": null
     },
     {
       "id": "LK-058",
@@ -1057,7 +1057,7 @@
       "noteVi": "Dùng khi mua thực phẩm, gọi món hoặc nói về bữa ăn.",
       "sourceVocabId": "VB-0077",
       "sourceQuickWordId": "S0-W099",
-      "sourceLearningWordId": "L4-1-W01"
+      "sourceLearningWordId": "L3-7-W02"
     },
     {
       "id": "LK-062",
@@ -1377,7 +1377,7 @@
       "noteVi": "Dùng khi xem giá, thanh toán, đổi hoặc trả hàng.",
       "sourceVocabId": "VB-0054",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L2-2-W05"
+      "sourceLearningWordId": "L2-19-W04"
     },
     {
       "id": "LK-082",
@@ -1633,7 +1633,7 @@
       "noteVi": "Dùng khi xem giá, thanh toán, đổi hoặc trả hàng.",
       "sourceVocabId": "VB-0020",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L4-5-W05"
+      "sourceLearningWordId": "L4-5-W03"
     },
     {
       "id": "LK-098",
@@ -1649,7 +1649,7 @@
       "noteVi": "Dùng khi xem giá, thanh toán, đổi hoặc trả hàng.",
       "sourceVocabId": "VB-0552",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L4-5-W04"
+      "sourceLearningWordId": "L4-1-W05"
     },
     {
       "id": "LK-099",
@@ -1883,7 +1883,7 @@
       "kana": "れいぼう",
       "romaji": "reibō",
       "viApprox": "rê・i・bô・ư",
-      "meaningVi": "điều hòa làm mát",
+      "meaningVi": "máy lạnh / chế độ làm mát",
       "meaningZhTw": "冷氣",
       "pinyin": "lěngqì",
       "noteVi": "Dùng khi thuê nhà, sinh hoạt hoặc xử lý thiết bị trong nhà.",
@@ -1921,7 +1921,7 @@
       "noteVi": "Dùng khi thuê nhà, sinh hoạt hoặc xử lý thiết bị trong nhà.",
       "sourceVocabId": null,
       "sourceQuickWordId": null,
-      "sourceLearningWordId": null
+      "sourceLearningWordId": "L4-1-W04"
     },
     {
       "id": "LK-116",
@@ -2001,7 +2001,7 @@
       "noteVi": "Dùng khi thuê nhà, sinh hoạt hoặc xử lý thiết bị trong nhà.",
       "sourceVocabId": "VB-0572",
       "sourceQuickWordId": "S0-W103",
-      "sourceLearningWordId": "L3-2-W04"
+      "sourceLearningWordId": null
     },
     {
       "id": "LK-121",
@@ -2017,7 +2017,7 @@
       "noteVi": "Dùng khi đi tàu, mua vé hoặc đọc thông báo giao thông.",
       "sourceVocabId": "VB-0574",
       "sourceQuickWordId": "S0-W063",
-      "sourceLearningWordId": "L3-1-W05"
+      "sourceLearningWordId": "L3-3-W05"
     },
     {
       "id": "LK-122",
@@ -2049,7 +2049,7 @@
       "noteVi": "Dùng khi đi tàu, mua vé hoặc đọc thông báo giao thông.",
       "sourceVocabId": null,
       "sourceQuickWordId": null,
-      "sourceLearningWordId": null
+      "sourceLearningWordId": "L3-4-W04"
     },
     {
       "id": "LK-124",
@@ -2065,7 +2065,7 @@
       "noteVi": "Dùng khi đi tàu, mua vé hoặc đọc thông báo giao thông.",
       "sourceVocabId": null,
       "sourceQuickWordId": null,
-      "sourceLearningWordId": null
+      "sourceLearningWordId": "L3-4-W05"
     },
     {
       "id": "LK-125",
@@ -2977,7 +2977,7 @@
       "noteVi": "Dùng trong lớp học, khi học bài hoặc trao đổi với giáo viên.",
       "sourceVocabId": "VB-0322",
       "sourceQuickWordId": "S0-W111",
-      "sourceLearningWordId": "L2-3-W01"
+      "sourceLearningWordId": "L6-5-W02"
     },
     {
       "id": "LK-182",
@@ -3009,7 +3009,7 @@
       "noteVi": "Dùng trong lớp học, khi học bài hoặc trao đổi với giáo viên.",
       "sourceVocabId": "VB-1202",
       "sourceQuickWordId": "S0-W112",
-      "sourceLearningWordId": "L2-3-W03"
+      "sourceLearningWordId": "L2-10-W02"
     },
     {
       "id": "LK-184",
@@ -3025,7 +3025,7 @@
       "noteVi": "Dùng trong lớp học, khi học bài hoặc trao đổi với giáo viên.",
       "sourceVocabId": "VB-0323",
       "sourceQuickWordId": "S0-W113",
-      "sourceLearningWordId": "L1-1-W01"
+      "sourceLearningWordId": "L1-1-W04"
     },
     {
       "id": "LK-185",
@@ -3057,7 +3057,7 @@
       "noteVi": "Dùng trong lớp học, khi học bài hoặc trao đổi với giáo viên.",
       "sourceVocabId": "VB-0470",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L2-3-W02"
+      "sourceLearningWordId": "L2-19-W01"
     },
     {
       "id": "LK-187",
@@ -3089,7 +3089,7 @@
       "noteVi": "Dùng trong lớp học, khi học bài hoặc trao đổi với giáo viên.",
       "sourceVocabId": "VB-0457",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L2-3-W04"
+      "sourceLearningWordId": "L5-1-W02"
     },
     {
       "id": "LK-189",
@@ -3201,7 +3201,7 @@
       "noteVi": "Dùng trong lớp học, khi học bài hoặc trao đổi với giáo viên.",
       "sourceVocabId": "VB-1203",
       "sourceQuickWordId": "S0-W115",
-      "sourceLearningWordId": "L2-3-W05"
+      "sourceLearningWordId": null
     },
     {
       "id": "LK-196",
@@ -3297,7 +3297,7 @@
       "noteVi": "Dùng khi nói ngày giờ, xếp lịch hoặc hẹn thời gian.",
       "sourceVocabId": "VB-0068",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L2-1-W02"
+      "sourceLearningWordId": null
     },
     {
       "id": "LK-202",
@@ -3313,7 +3313,7 @@
       "noteVi": "Dùng khi nói ngày giờ, xếp lịch hoặc hẹn thời gian.",
       "sourceVocabId": "VB-0435",
       "sourceQuickWordId": "S0-W072",
-      "sourceLearningWordId": "L1-3-W02"
+      "sourceLearningWordId": "L1-3-W01"
     },
     {
       "id": "LK-203",
@@ -3329,7 +3329,7 @@
       "noteVi": "Dùng khi nói ngày giờ, xếp lịch hoặc hẹn thời gian.",
       "sourceVocabId": "VB-0473",
       "sourceQuickWordId": "S0-W073",
-      "sourceLearningWordId": "L1-3-W03"
+      "sourceLearningWordId": "L1-3-W02"
     },
     {
       "id": "LK-204",
@@ -3425,7 +3425,7 @@
       "noteVi": "Dùng khi nói ngày giờ, xếp lịch hoặc hẹn thời gian.",
       "sourceVocabId": null,
       "sourceQuickWordId": null,
-      "sourceLearningWordId": null
+      "sourceLearningWordId": "L5-2-W05"
     },
     {
       "id": "LK-210",
@@ -3473,7 +3473,7 @@
       "noteVi": "Dùng khi nói ngày giờ, xếp lịch hoặc hẹn thời gian.",
       "sourceVocabId": null,
       "sourceQuickWordId": null,
-      "sourceLearningWordId": null
+      "sourceLearningWordId": "L2-19-W05"
     },
     {
       "id": "LK-213",
@@ -3585,7 +3585,7 @@
       "noteVi": "Dùng khi nói ngày giờ, xếp lịch hoặc hẹn thời gian.",
       "sourceVocabId": null,
       "sourceQuickWordId": null,
-      "sourceLearningWordId": null
+      "sourceLearningWordId": "L2-14-W04"
     },
     {
       "id": "LK-220",
@@ -3601,7 +3601,7 @@
       "noteVi": "Dùng khi nói ngày giờ, xếp lịch hoặc hẹn thời gian.",
       "sourceVocabId": null,
       "sourceQuickWordId": null,
-      "sourceLearningWordId": null
+      "sourceLearningWordId": "L2-14-W05"
     },
     {
       "id": "LK-221",
@@ -4273,7 +4273,7 @@
       "noteVi": "Dùng khi hỏi đường hoặc đọc biển chỉ dẫn trong tòa nhà và khu phố.",
       "sourceVocabId": "VB-0035",
       "sourceQuickWordId": "S0-W065",
-      "sourceLearningWordId": "L3-4-W03"
+      "sourceLearningWordId": "L3-3-W01"
     },
     {
       "id": "LK-263",
@@ -4353,7 +4353,7 @@
       "noteVi": "Dùng khi hỏi đường hoặc đọc biển chỉ dẫn trong tòa nhà và khu phố.",
       "sourceVocabId": "VB-0041",
       "sourceQuickWordId": "S0-W066",
-      "sourceLearningWordId": "L3-3-W01"
+      "sourceLearningWordId": null
     },
     {
       "id": "LK-268",
@@ -4369,7 +4369,7 @@
       "noteVi": "Dùng khi hỏi đường hoặc đọc biển chỉ dẫn trong tòa nhà và khu phố.",
       "sourceVocabId": "VB-0053",
       "sourceQuickWordId": "S0-W067",
-      "sourceLearningWordId": "L3-3-W02"
+      "sourceLearningWordId": null
     },
     {
       "id": "LK-269",
@@ -4561,7 +4561,7 @@
       "noteVi": "Dùng khi hỏi đường hoặc đọc biển chỉ dẫn trong tòa nhà và khu phố.",
       "sourceVocabId": "VB-1232",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L3-4-W04"
+      "sourceLearningWordId": null
     },
     {
       "id": "LK-281",
@@ -4577,7 +4577,7 @@
       "noteVi": "Dùng khi giới thiệu người thân hoặc liên lạc và trao đổi với người khác.",
       "sourceVocabId": null,
       "sourceQuickWordId": "S0-W124",
-      "sourceLearningWordId": null
+      "sourceLearningWordId": "L2-17-W02"
     },
     {
       "id": "LK-282",
@@ -4587,7 +4587,7 @@
       "kana": "ちち",
       "romaji": "chichi",
       "viApprox": "chi・chi",
-      "meaningVi": "cha hoặc bố",
+      "meaningVi": "ba / cha",
       "meaningZhTw": "父親",
       "pinyin": "fùqīn",
       "noteVi": "Dùng khi giới thiệu người thân hoặc liên lạc và trao đổi với người khác.",
@@ -4753,7 +4753,7 @@
       "noteVi": "Dùng khi giới thiệu người thân hoặc liên lạc và trao đổi với người khác.",
       "sourceVocabId": "VB-0448",
       "sourceQuickWordId": "S0-W123",
-      "sourceLearningWordId": "L1-1-W05"
+      "sourceLearningWordId": "L2-10-W05"
     },
     {
       "id": "LK-293",
@@ -4785,7 +4785,7 @@
       "noteVi": "Dùng khi giới thiệu người thân hoặc liên lạc và trao đổi với người khác.",
       "sourceVocabId": "VB-0450",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L1-1-W04"
+      "sourceLearningWordId": "L1-1-W03"
     },
     {
       "id": "LK-295",
@@ -4801,7 +4801,7 @@
       "noteVi": "Dùng khi giới thiệu người thân hoặc liên lạc và trao đổi với người khác.",
       "sourceVocabId": "VB-0133",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L2-1-W03"
+      "sourceLearningWordId": null
     },
     {
       "id": "LK-296",
@@ -4817,7 +4817,7 @@
       "noteVi": "Dùng khi giới thiệu người thân hoặc liên lạc và trao đổi với người khác.",
       "sourceVocabId": "VB-0118",
       "sourceQuickWordId": null,
-      "sourceLearningWordId": "L2-11-W04"
+      "sourceLearningWordId": null
     },
     {
       "id": "LK-297",
