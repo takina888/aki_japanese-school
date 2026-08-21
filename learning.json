@@ -10208,7 +10208,8 @@
           "example_2_zh_tw": "我在公園拍照。",
           "example_3_zh_tw": "我在便利商店買水。",
           "example_4_zh_tw": "我在車站買茶。",
-          "example_5_zh_tw": "我在家吃早餐。"
+          "example_5_zh_tw": "我在家吃早餐。",
+          "example_6_zh_tw": "我在機場等計程車。"
         },
         "quizzes": [
           {
@@ -10545,7 +10546,8 @@
           "example_2_zh_tw": "我要大一點的房間。",
           "example_3_zh_tw": "請幫我叫計程車到車站。",
           "example_4_zh_tw": "請明天打掃房間。",
-          "example_5_zh_tw": "請在6點打電話叫我起床。"
+          "example_5_zh_tw": "請在6點打電話叫我起床。",
+          "example_6_zh_tw": "麻煩安排禁菸房。"
         },
         "quizzes": [
           {
@@ -10882,7 +10884,8 @@
           "example_2_zh_tw": "請問便利商店在哪裡？",
           "example_3_zh_tw": "請問手扶梯在哪裡？",
           "example_4_zh_tw": "請問捷運站在哪裡？",
-          "example_5_zh_tw": "請問飯店入口在哪裡？"
+          "example_5_zh_tw": "請問飯店入口在哪裡？",
+          "example_6_zh_tw": "請問巴士乘車處在哪裡？"
         },
         "quizzes": [
           {
@@ -11219,7 +11222,8 @@
           "example_2_zh_tw": "我搭計程車去機場。",
           "example_3_zh_tw": "我搭電車去大阪。",
           "example_4_zh_tw": "我搭捷運去飯店。",
-          "example_5_zh_tw": "我搭新幹線去東京。"
+          "example_5_zh_tw": "我搭新幹線去東京。",
+          "example_6_zh_tw": "我搭飛機去大阪。"
         },
         "quizzes": [
           {
@@ -11556,7 +11560,8 @@
           "example_2_zh_tw": "停車場在飯店後面。",
           "example_3_zh_tw": "餐廳在樓梯上面。",
           "example_4_zh_tw": "廁所在樓梯下面。",
-          "example_5_zh_tw": "行李在房間裡。"
+          "example_5_zh_tw": "行李在房間裡。",
+          "example_6_zh_tw": "便利商店在飯店前面。"
         },
         "quizzes": [
           {
@@ -11893,7 +11898,8 @@
           "example_2_zh_tw": "我在車站搭這班電車。",
           "example_3_zh_tw": "我在下一個公車站下車。",
           "example_4_zh_tw": "我在東京站下車。",
-          "example_5_zh_tw": "我在新宿站轉車。"
+          "example_5_zh_tw": "我在新宿站轉車。",
+          "example_6_zh_tw": "我在下一站轉車。"
         },
         "quizzes": [
           {
@@ -12230,7 +12236,8 @@
           "example_2_zh_tw": "請給我兩瓶水。",
           "example_3_zh_tw": "請給我兩支牙刷。",
           "example_4_zh_tw": "請給我一張飯店地圖。",
-          "example_5_zh_tw": "請給我兩張收據。"
+          "example_5_zh_tw": "請給我兩張收據。",
+          "example_6_zh_tw": "請給我一個枕頭。"
         },
         "quizzes": [
           {
@@ -12582,7 +12589,8 @@
           "example_2_zh_tw": "有咖啡嗎？",
           "example_3_zh_tw": "有大袋子嗎？",
           "example_4_zh_tw": "有AA電池嗎？",
-          "example_5_zh_tw": "這個尺寸還有庫存嗎？"
+          "example_5_zh_tw": "這個尺寸還有庫存嗎？",
+          "example_6_zh_tw": "有充電器嗎？"
         },
         "quizzes": [
           {
@@ -12919,7 +12927,8 @@
           "example_2_zh_tw": "這是魚料理嗎？",
           "example_3_zh_tw": "哪一道甜點最受歡迎？",
           "example_4_zh_tw": "哪一道料理是甜的？",
-          "example_5_zh_tw": "哪一道料理最不辣？"
+          "example_5_zh_tw": "哪一道料理最不辣？",
+          "example_6_zh_tw": "魚料理是哪一道？"
         },
         "quizzes": [
           {
@@ -13256,7 +13265,8 @@
           "example_2_zh_tw": "可以刷VISA卡嗎？",
           "example_3_zh_tw": "這裡可以刷卡嗎？",
           "example_4_zh_tw": "可以用交通IC卡付款嗎？",
-          "example_5_zh_tw": "可以用手機QR Code付款嗎？"
+          "example_5_zh_tw": "可以用手機QR Code付款嗎？",
+          "example_6_zh_tw": "可以用IC卡付款嗎？"
         },
         "quizzes": [
           {
@@ -13593,7 +13603,8 @@
           "example_2_zh_tw": "請給我筷子。",
           "example_3_zh_tw": "我不需要湯匙。",
           "example_4_zh_tw": "我在店內吃。",
-          "example_5_zh_tw": "請幫我打包帶走。"
+          "example_5_zh_tw": "請幫我打包帶走。",
+          "example_6_zh_tw": "需要收據嗎？"
         },
         "quizzes": [
           {
@@ -13930,7 +13941,8 @@
           "example_2_zh_tw": "可以幫我拿小一點的尺寸嗎？",
           "example_3_zh_tw": "可以幫我換成別的顏色嗎？",
           "example_4_zh_tw": "可以幫我分裝成兩個袋子嗎？",
-          "example_5_zh_tw": "可以再說明慢一點嗎？"
+          "example_5_zh_tw": "可以再說明慢一點嗎？",
+          "example_6_zh_tw": "可以幫我拍照嗎？"
         },
         "quizzes": [
           {
@@ -14267,7 +14279,8 @@
           "example_2_zh_tw": "請不要加糖。",
           "example_3_zh_tw": "請一起結帳。",
           "example_4_zh_tw": "飯請加大份。",
-          "example_5_zh_tw": "請給我兩個袋子。"
+          "example_5_zh_tw": "請給我兩個袋子。",
+          "example_6_zh_tw": "麻煩給我M尺寸。"
         },
         "quizzes": [
           {
@@ -14622,7 +14635,9 @@
           "example_2_zh_tw": "作業已經寫完了嗎？",
           "example_3_zh_tw": "那本書已經看過了嗎？",
           "example_4_zh_tw": "已經上電車了嗎？",
-          "example_5_zh_tw": "還沒吃。"
+          "example_5_zh_tw": "還沒吃。",
+          "example_6_zh_tw": "你已經訂好飯店了嗎？",
+          "example_7_zh_tw": "嗯，已經訂好了。"
         },
         "quizzes": [
           {
@@ -14962,7 +14977,9 @@
           "example_2_zh_tw": "要不要喝茶？",
           "example_3_zh_tw": "要不要在家看電影？",
           "example_4_zh_tw": "下週要不要一起去？",
-          "example_5_zh_tw": "明天要不要見面？"
+          "example_5_zh_tw": "明天要不要見面？",
+          "example_6_zh_tw": "要不要休息一下？",
+          "example_7_zh_tw": "要不要拍照？"
         },
         "quizzes": [
           {
@@ -15302,7 +15319,9 @@
           "example_2_zh_tw": "喔，很有趣耶。",
           "example_3_zh_tw": "原來如此，我懂了。",
           "example_4_zh_tw": "真的耶，就是這樣。",
-          "example_5_zh_tw": "那真的很厲害耶。"
+          "example_5_zh_tw": "那真的很厲害耶。",
+          "example_6_zh_tw": "對啊。",
+          "example_7_zh_tw": "不錯耶。"
         },
         "quizzes": [
           {
@@ -15657,7 +15676,9 @@
           "example_2_zh_tw": "因為很熱，所以我喝水。",
           "example_3_zh_tw": "好睏。不過還是要念書。",
           "example_4_zh_tw": "很忙。不過還是休息一下。",
-          "example_5_zh_tw": "今天沒辦法去。因為有工作。"
+          "example_5_zh_tw": "今天沒辦法去。因為有工作。",
+          "example_6_zh_tw": "因為便宜，所以我選這個。",
+          "example_7_zh_tw": "我想去。不過，今天沒有時間。"
         },
         "quizzes": [
           {
@@ -15997,7 +16018,9 @@
           "example_2_zh_tw": "嗯，去過兩次。",
           "example_3_zh_tw": "你住過這間飯店嗎？",
           "example_4_zh_tw": "沒有，還沒住過。",
-          "example_5_zh_tw": "你吃過日本的拉麵嗎？"
+          "example_5_zh_tw": "你吃過日本的拉麵嗎？",
+          "example_6_zh_tw": "你泡過溫泉嗎？",
+          "example_7_zh_tw": "嗯，泡過幾次。"
         },
         "quizzes": [
           {
@@ -16337,7 +16360,9 @@
           "example_2_zh_tw": "我比較喜歡茶。",
           "example_3_zh_tw": "計程車和電車，哪一個比較快？",
           "example_4_zh_tw": "電車比較便宜。",
-          "example_5_zh_tw": "這家店比那家店近。"
+          "example_5_zh_tw": "這家店比那家店近。",
+          "example_6_zh_tw": "夏天和冬天，你比較喜歡哪一個？",
+          "example_7_zh_tw": "比起冬天，我比較喜歡夏天。"
         },
         "quizzes": [
           {
@@ -16677,7 +16702,9 @@
           "example_2_zh_tw": "先去車站。",
           "example_3_zh_tw": "然後搭電車。",
           "example_4_zh_tw": "6點下班。然後回家。",
-          "example_5_zh_tw": "先寫作業。然後看電影。"
+          "example_5_zh_tw": "先寫作業。然後看電影。",
+          "example_6_zh_tw": "先在車站買票，然後搭電車。",
+          "example_7_zh_tw": "先去飯店，然後休息。"
         },
         "quizzes": [
           {
@@ -17017,7 +17044,9 @@
           "example_2_zh_tw": "很好玩。風景也很漂亮。",
           "example_3_zh_tw": "工作怎麼樣？",
           "example_4_zh_tw": "很忙。不過還好。",
-          "example_5_zh_tw": "日文考試怎麼樣？"
+          "example_5_zh_tw": "日文考試怎麼樣？",
+          "example_6_zh_tw": "料理怎麼樣？",
+          "example_7_zh_tw": "很好吃。不過，有一點辣。"
         },
         "quizzes": [
           {

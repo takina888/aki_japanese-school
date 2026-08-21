@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="robots" content="noindex">
-  <title>秋草の日本語学校｜更新</title>
+  <title>秋草の日本語学校｜安全な更新</title>
   <style>
     *{box-sizing:border-box}body{min-height:100vh;margin:0;display:grid;place-items:center;padding:24px;background:#fff8f3;color:#332a2d;font-family:"BIZ UDPGothic","Noto Sans JP",system-ui,sans-serif;line-height:1.6}.card{width:min(100%,560px);padding:28px;border:1px solid #e6d8d8;border-radius:28px;background:#fff;box-shadow:0 18px 52px rgba(93,51,64,.14);text-align:center}.flower{color:#9f4965;font-size:42px}h1{margin:.2rem 0;font-size:clamp(1.45rem,6vw,2rem)}.vi{display:block;color:#743148;font-size:1.08rem;font-weight:800}.zh{display:block;color:#6f6266;font-size:.85rem}#status{min-height:5em;margin:1.2rem 0;padding:1rem;border-radius:16px;background:#fff5f7;font-weight:750}.actions{display:flex;flex-wrap:wrap;justify-content:center;gap:.7rem}button,a{min-height:50px;padding:.65rem 1rem;border-radius:14px;font:inherit;font-weight:800}button{border:0;background:#9f4965;color:#fff;cursor:pointer}a{display:inline-grid;place-items:center;border:1px solid #e6d8d8;color:#743148;text-decoration:none}small{display:block;margin-top:1rem;color:#6f6266}
   </style>
@@ -20,14 +20,15 @@
   <script>
     (()=>{
       const status=document.getElementById("status");const retry=document.getElementById("retry");
-      const appBase=new URL("./",location.href);const owned=(name)=>name.startsWith("akigusa-school-")||name.startsWith("akigusa-school:");
+      const appBase=new URL("./",location.href);const RELEASE="V015.38";const owned=(name)=>name.startsWith("akigusa-school-")||name.startsWith("akigusa-school:");
       const say=(ja,vi)=>{status.innerHTML=`${ja}<span class="vi" lang="vi">${vi}</span>`};
       async function reset(){retry.hidden=true;say("最新版を確認しています…","Đang kiểm tra phiên bản mới nhất…");
         try{const probe=new URL("release.json",appBase);probe.searchParams.set("reset",Date.now());const response=await fetch(probe,{cache:"no-store",headers:{"cache-control":"no-cache"}});if(!response.ok)throw new Error("offline");const release=await response.json();
           say("安全に更新しています…","Đang cập nhật an toàn…");
           if("serviceWorker" in navigator){const registrations=await navigator.serviceWorker.getRegistrations();await Promise.all(registrations.filter((registration)=>new URL(registration.scope).pathname===appBase.pathname).map((registration)=>registration.unregister()));}
           if("caches" in window){const names=await caches.keys();await Promise.all(names.filter(owned).map((name)=>caches.delete(name)));}
-          const target=new URL("./",appBase);target.searchParams.set("reset",release.release||"latest");target.searchParams.set("open",Date.now());location.replace(target.href);
+          try{for(let i=sessionStorage.length-1;i>=0;i-=1){const key=sessionStorage.key(i);if(key&&key.startsWith("akigusa-release-reloaded:"))sessionStorage.removeItem(key);}}catch{}
+          const target=new URL("./",appBase);target.searchParams.set("reset",release.release||RELEASE);target.searchParams.set("open",Date.now());location.replace(target.href);
         }catch{say("通信できないため、記録とキャッシュは変更していません。オンラインで再実行してください。","Không có kết nối. Dữ liệu và bộ nhớ đệm chưa bị thay đổi. Hãy thử lại khi có mạng.");retry.hidden=false;}}
       retry.addEventListener("click",reset);reset();
     })();

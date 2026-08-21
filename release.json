@@ -1,6 +1,6 @@
 {
   "app": "akigusa-japanese-school",
-  "release": "V015.34",
-  "build": "V015.34-20260820-fix21-entertainment-responsive-radio",
-  "serviceWorkerCache": "akigusa-school-v54"
+  "release": "V015.38",
+  "build": "V015.38-20260821-cache-consistency-rich-greetings",
+  "serviceWorkerCache": "akigusa-school-v58"
 }
